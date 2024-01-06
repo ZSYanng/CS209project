@@ -1,0 +1,100 @@
+{"id":1194242218,"created_at":"2022-04-06T08:17:03Z","updated_at":"2022-04-20T08:19:15Z","state":"closed","title":"[Bug] PatternSyntaxException: Unexpected internal error near index 1 in the MagentoBasePathUtil.isMagentoFolderValid:35"}
+{"id":1208123332,"created_at":"2022-04-19T10:07:50Z","updated_at":"2022-04-22T18:51:09Z","state":"closed","title":"Build fails with JDK 18 -  Method not found while parsing signature: java.awt.color.ICC_Profile#finalize()"}
+{"id":1184068517,"created_at":"2022-03-28T22:31:31Z","updated_at":"2022-04-07T18:11:00Z","state":"closed","title":"8283215: [macos] Screen Magnifier: Getting java.awt.IllegalComponentStateException when menu item is selected "}
+{"id":1187887120,"created_at":"2022-03-31T10:44:54Z","updated_at":"2022-04-06T09:52:40Z","state":"closed","title":"3.0.5 版本的自定义拦截器未成功实现颜色填充"}
+{"id":1184970432,"created_at":"2022-03-29T14:34:56Z","updated_at":"2022-03-30T07:14:28Z","state":"closed","title":"Add Component class to removed-class.jar"}
+{"id":1232630975,"created_at":"2022-05-11T13:20:02Z","updated_at":"2022-05-23T10:30:30Z","state":"closed","title":"8286391: Address possibly lossy conversions in jdk.compiler"}
+{"id":1170812932,"created_at":"2022-03-16T10:19:01Z","updated_at":"2022-03-18T13:24:29Z","state":"closed","title":"Bug in reading  data"}
+{"id":1182620073,"created_at":"2022-03-27T18:28:12Z","updated_at":"2022-03-28T09:29:49Z","state":"closed","title":"Update function of help window button to open UG"}
+{"id":1150853275,"created_at":"2022-02-25T20:30:47Z","updated_at":"2022-04-03T20:24:15Z","state":"closed","title":"#559 fixed cancelled Worker not detect it is cancelled"}
+{"id":1187472863,"created_at":"2022-03-31T04:15:11Z","updated_at":"2022-04-01T06:01:22Z","state":"closed","title":"多模块项目生成xml代码块异常"}
+{"id":1209021120,"created_at":"2022-04-20T00:48:39Z","updated_at":"2022-04-21T10:58:37Z","state":"closed","title":"build: use JDK 11 in GHA builds"}
+{"id":1152357560,"created_at":"2022-02-26T21:51:28Z","updated_at":"2022-04-01T05:48:52Z","state":"closed","title":"2.5.22294: AvatarPanelFactory#lambda$createUnitStackImage$0:145 - games.strategy.triplea.image.MissingImageException"}
+{"id":1117932793,"created_at":"2022-01-28T23:23:51Z","updated_at":"2022-05-05T17:36:20Z","state":"closed","title":"Exception when using newlines with a empty line in 'attribution'"}
+{"id":1223524654,"created_at":"2022-05-03T01:00:20Z","updated_at":"2022-05-17T14:52:34Z","state":"closed","title":"Netbeans 13 Crash with out of memory"}
+{"id":1174423044,"created_at":"2022-03-20T02:43:05Z","updated_at":"2022-03-23T16:55:38Z","state":"closed","title":"GDB: Error when right clicking a debugger target; component must be showing on the screen to determine its location"}
+{"id":1209072284,"created_at":"2022-04-20T02:08:05Z","updated_at":"2022-04-20T22:11:54Z","state":"closed","title":"Clear text password logged after successful connection to SFTP server"}
+{"id":1213793069,"created_at":"2022-04-24T22:56:39Z","updated_at":"2022-04-27T06:53:07Z","state":"closed","title":"MySQL/MariaDB Point data type support"}
+{"id":1149361004,"created_at":"2022-02-24T14:32:39Z","updated_at":"2022-03-22T13:33:32Z","state":"closed","title":"8282270: java/awt/Robot Screen Capture tests fail after 8280861"}
+{"id":1163087755,"created_at":"2022-03-08T20:28:02Z","updated_at":"2022-04-25T16:16:13Z","state":"closed","title":"Changing files while in ANTLR Preview caused exception"}
+{"id":1234955072,"created_at":"2022-05-13T09:14:28Z","updated_at":"2022-05-15T01:33:10Z","state":"closed","title":"8286705: GCC 12 reports use-after-free potential bugs"}
+{"id":1145610845,"created_at":"2022-02-21T10:30:46Z","updated_at":"2022-03-25T07:44:43Z","state":"closed","title":"ProguardGui config problem"}
+{"id":1206470342,"created_at":"2022-04-17T19:45:42Z","updated_at":"2022-04-17T19:57:12Z","state":"closed","title":"Issue on CLion 2022.1"}
+{"id":835634458,"created_at":"2021-03-19T07:05:00Z","updated_at":"2022-04-10T15:59:37Z","state":"closed","title":"Irregular sun.awt.SunToolkit$InfiniteLoop occurences"}
+{"id":1166681981,"created_at":"2022-03-11T17:34:14Z","updated_at":"2022-04-04T20:52:18Z","state":"closed","title":"2D particle effect freezes when loading a file"}
+{"id":1166332055,"created_at":"2022-03-11T11:55:50Z","updated_at":"2022-03-11T13:45:28Z","state":"closed","title":"Cannot Save Mamut file"}
+{"id":1213316210,"created_at":"2022-04-23T14:16:50Z","updated_at":"2022-04-23T14:37:58Z","state":"closed","title":"Fatal error while importing in Docker"}
+{"id":1184828635,"created_at":"2022-03-29T12:55:34Z","updated_at":"2022-03-30T17:09:42Z","state":"closed","title":"8282374: Java_sun_awt_X11_XlibWrapper_XSynchronize is wrong and unused"}
+{"id":1189980502,"created_at":"2022-04-01T15:45:26Z","updated_at":"2022-04-02T18:50:54Z","state":"closed","title":"mac m1 crash on start"}
+{"id":1216933040,"created_at":"2022-04-27T07:39:12Z","updated_at":"2022-04-28T08:04:42Z","state":"closed","title":"8178969: [TESTBUG] Wrong reporting of gc/g1/humongousObjects/TestHeapCounters test."}
+{"id":1173775419,"created_at":"2022-03-18T16:21:24Z","updated_at":"2022-03-18T17:00:12Z","state":"closed","title":"Acquire broken on linux"}
+{"id":1194511164,"created_at":"2022-04-06T12:00:04Z","updated_at":"2022-04-11T07:14:45Z","state":"closed","title":"Bug Report 2022/04/06"}
+{"id":1194400433,"created_at":"2022-04-06T10:21:26Z","updated_at":"2022-04-11T07:15:16Z","state":"closed","title":"Bug Report 2022/04/06"}
+{"id":1150700560,"created_at":"2022-02-25T17:42:41Z","updated_at":"2022-03-03T17:26:11Z","state":"closed","title":"java.awt.HeadlessException when running command"}
+{"id":1223779911,"created_at":"2022-05-03T07:39:38Z","updated_at":"2022-05-22T14:22:23Z","state":"closed","title":"Visual Background mode indicator missing"}
+{"id":1215177457,"created_at":"2022-04-26T00:12:57Z","updated_at":"2022-04-29T00:38:29Z","state":"closed","title":"JDK-8285610: TreeInfo.pathFor and its uses appear to be dead code"}
+{"id":1170267626,"created_at":"2022-03-15T21:04:49Z","updated_at":"2022-04-20T15:46:59Z","state":"closed","title":"IDE NullPointerException in FlutterWidgetPerf.dispose"}
+{"id":1163538233,"created_at":"2022-03-09T06:21:38Z","updated_at":"2022-03-15T12:30:48Z","state":"closed","title":"Convert Java AWT code into Android Graphic code"}
+{"id":1202709868,"created_at":"2022-04-13T03:37:30Z","updated_at":"2022-04-13T03:39:35Z","state":"closed","title":"StringIndexOutOfBoundsException sanitizeDOI(String doi)"}
+{"id":1154095692,"created_at":"2022-02-28T13:29:56Z","updated_at":"2022-03-13T22:49:37Z","state":"closed","title":"Menus: improved usability of submenus"}
+{"id":1186295282,"created_at":"2022-03-30T11:09:40Z","updated_at":"2022-05-08T15:30:46Z","state":"closed","title":"`com.jogamp.opengl.GLException` when running from `904a8eba559ca961c4ad54a4c0d11965e9e7b475`"}
+{"id":1205852279,"created_at":"2022-04-15T20:00:18Z","updated_at":"2022-04-18T17:17:54Z","state":"closed","title":"JDK-8284923: Update description of SourceVersion.RELEASE_18"}
+{"id":1166036581,"created_at":"2022-03-11T06:01:52Z","updated_at":"2022-03-12T07:35:35Z","state":"closed","title":"Missing read lock while accessing TokenHierarchy"}
+{"id":1178401041,"created_at":"2022-03-23T16:58:14Z","updated_at":"2022-03-24T15:56:42Z","state":"closed","title":"[BUG] java.lang.Throwable: Assertion failed: dataContext has no component for new ListPopupStep"}
+{"id":1175618722,"created_at":"2022-03-21T16:15:23Z","updated_at":"2022-04-05T16:43:03Z","state":"closed","title":"[BUG] Download F11 Old League Data， No Data Shown on League Data Tab"}
+{"id":1157140727,"created_at":"2022-03-02T12:38:08Z","updated_at":"2022-03-20T21:43:51Z","state":"closed","title":"Error on cut/copy"}
+{"id":1165130760,"created_at":"2022-03-10T11:58:58Z","updated_at":"2022-03-17T05:01:32Z","state":"closed","title":"Server Admin- com.percussion.conn.PSServerException: null appeared on fetching the Logging for any type."}
+{"id":1180798390,"created_at":"2022-03-25T13:30:34Z","updated_at":"2022-04-22T09:51:23Z","state":"closed","title":"IDE Error Report"}
+{"id":1153581715,"created_at":"2022-02-28T03:31:12Z","updated_at":"2022-03-24T01:25:31Z","state":"closed","title":"使用报错"}
+{"id":1031328814,"created_at":"2021-10-20T12:05:57Z","updated_at":"2022-04-21T07:45:46Z","state":"closed","title":"8225777: java/awt/Mixing/MixingOnDialog.java fails on Ubuntu"}
+{"id":1164939664,"created_at":"2022-03-10T08:59:31Z","updated_at":"2022-03-10T13:31:37Z","state":"closed","title":"NPE appears if the user close session time out warning pop-up. Also， session timeout warning pop-up does not appear again if the user closes it once."}
+{"id":1172036239,"created_at":"2022-03-17T07:43:54Z","updated_at":"2022-03-24T08:08:20Z","state":"closed","title":"Unit Tests"}
+{"id":1206667891,"created_at":"2022-04-18T05:06:26Z","updated_at":"2022-04-25T22:45:30Z","state":"closed","title":"8283022: com/sun/crypto/provider/Cipher/AEAD/GCMBufferTest.java failing with -Xcomp after 8273297"}
+{"id":1219390863,"created_at":"2022-04-28T22:32:59Z","updated_at":"2022-04-29T00:41:49Z","state":"closed","title":"JDK-8285496: DocLint does not check for missing `@param` tags for type parameters on classes and interfaces"}
+{"id":1167556920,"created_at":"2022-03-13T11:44:42Z","updated_at":"2022-03-13T19:22:36Z","state":"closed","title":"[BUG] NPE in IFA module"}
+{"id":1160553779,"created_at":"2022-03-06T08:46:50Z","updated_at":"2022-03-13T20:47:09Z","state":"closed","title":"[BUG] NPE on Fixtures download"}
+{"id":1191390713,"created_at":"2022-04-04T07:46:18Z","updated_at":"2022-04-07T18:08:21Z","state":"closed","title":"Bug Report 2022/04/04"}
+{"id":1171634572,"created_at":"2022-03-16T22:47:47Z","updated_at":"2022-03-20T20:52:58Z","state":"closed","title":"Allow for cropping of password protected documents"}
+{"id":1191383025,"created_at":"2022-04-04T07:37:44Z","updated_at":"2022-04-05T11:09:38Z","state":"closed","title":"8284278: Diagnostic Fix Updated."}
+{"id":1158349297,"created_at":"2022-03-03T12:26:19Z","updated_at":"2022-03-17T09:16:23Z","state":"closed","title":"8282602: Refactor awt classes javadoc to use @throws instead of @exception"}
+{"id":424566515,"created_at":"2019-03-24T02:16:38Z","updated_at":"2022-05-01T09:31:16Z","state":"closed","title":"couldn't apply the sample rate setting"}
+{"id":1199417191,"created_at":"2022-04-11T05:31:49Z","updated_at":"2022-04-19T03:39:24Z","state":"closed","title":"8283870: jdeprscan --help causes an exception when the locale is ja， zh_CN or de"}
+{"id":1199350885,"created_at":"2022-04-11T03:59:20Z","updated_at":"2022-04-12T18:57:19Z","state":"closed","title":"flutter plugin crash report"}
+{"id":1223208294,"created_at":"2022-05-02T18:32:19Z","updated_at":"2022-05-19T17:57:58Z","state":"closed","title":"8278367: JNI critical region violation in CTextPipe.m:363"}
+{"id":1076821274,"created_at":"2021-12-10T12:57:23Z","updated_at":"2022-04-26T22:23:53Z","state":"closed","title":"Android doesn't launch as its own project"}
+{"id":1175470896,"created_at":"2022-03-21T14:28:53Z","updated_at":"2022-04-14T09:25:23Z","state":"closed","title":"Client crashing upon joining servers or loading singeplayer maps"}
+{"id":1124763233,"created_at":"2022-02-05T01:21:23Z","updated_at":"2022-05-12T00:38:24Z","state":"closed","title":"No way to detect mouse button/number of clicks on tray icon"}
+{"id":313914960,"created_at":"2018-04-12T22:55:53Z","updated_at":"2022-05-20T16:41:32Z","state":"closed","title":"Clear button in cadc-download-manager application is broken"}
+{"id":1144852678,"created_at":"2022-02-19T21:38:00Z","updated_at":"2022-04-25T16:16:32Z","state":"closed","title":"Plugin PyCharm 2021.2 Professional (Wrong startOffset: 330， textLength=0)"}
+{"id":1106949493,"created_at":"2022-01-18T14:05:55Z","updated_at":"2022-03-31T11:46:20Z","state":"closed","title":"JDK-8280193: summary javadoc for java.awt.GraphicsEnvironment#preferProportionalFonts broken"}
+{"id":1149632291,"created_at":"2022-02-24T18:47:07Z","updated_at":"2022-02-28T12:16:45Z","state":"closed","title":"[Fix] 8238575: DragSourceEvent.getLocation() returns wrong value on…"}
+{"id":286478181,"created_at":"2018-01-06T11:25:03Z","updated_at":"2022-04-18T16:42:26Z","state":"closed","title":"Mapping infinite recursion"}
+{"id":1176505356,"created_at":"2022-03-22T09:28:33Z","updated_at":"2022-03-22T09:42:19Z","state":"closed","title":"Throwable: Too many non-blocking read actions submitted at once"}
+{"id":1227828523,"created_at":"2022-05-06T12:51:24Z","updated_at":"2022-05-10T08:49:46Z","state":"closed","title":"8286285: G1: Rank issues with ParGCRareEvent_lock and Threads_lock"}
+{"id":890511199,"created_at":"2021-05-12T21:42:25Z","updated_at":"2022-05-04T21:37:14Z","state":"closed","title":"Pointf/Point Enhancement"}
+{"id":1123385152,"created_at":"2022-02-03T17:49:44Z","updated_at":"2022-02-03T17:49:50Z","state":"closed","title":"calling view on AWT thread"}
+{"id":1200647472,"created_at":"2022-04-11T22:54:26Z","updated_at":"2022-04-11T23:26:17Z","state":"closed","title":"Runelite crashes on startup"}
+{"id":1195514684,"created_at":"2022-04-07T04:48:51Z","updated_at":"2022-05-24T13:20:01Z","state":"closed","title":"java.lang.NoClassDefFoundError: com/jgoodies/forms/layout/FormLayout"}
+{"id":1172823348,"created_at":"2022-03-17T19:25:59Z","updated_at":"2022-03-18T22:59:00Z","state":"closed","title":"Potential conflict with IntelliJ EduTools"}
+{"id":1173655104,"created_at":"2022-03-18T14:28:33Z","updated_at":"2022-04-08T23:54:54Z","state":"closed","title":"VSDecoder: location following based on LE Train Simulator"}
+{"id":1132631876,"created_at":"2022-02-11T13:52:08Z","updated_at":"2022-04-25T16:17:14Z","state":"closed","title":"Latest EAP exception (see description for more info)"}
+{"id":1143082632,"created_at":"2022-02-18T13:40:21Z","updated_at":"2022-03-17T11:21:58Z","state":"closed","title":"Misc Improvements"}
+{"id":1100476684,"created_at":"2022-01-12T15:29:28Z","updated_at":"2022-04-01T11:17:37Z","state":"closed","title":"File of Unsupported Format"}
+{"id":1077477762,"created_at":"2021-12-11T09:09:19Z","updated_at":"2022-04-14T17:53:40Z","state":"closed","title":"AbstractMethodError: Receiver class awesome.console.AwesomeLinkFilter$$Lambda"}
+{"id":1155039379,"created_at":"2022-03-01T08:41:17Z","updated_at":"2022-03-01T10:38:13Z","state":"closed","title":"Can't open SQLite Database since working on it yesterday， DNA version: 2.0 beta 25 (2019-09-08)， Java version: 1.8.0_321， Operating system: Windows 10 10.0"}
+{"id":1087878157,"created_at":"2021-12-23T17:12:03Z","updated_at":"2022-04-29T15:59:42Z","state":"closed","title":"[FEATURE] TS tracker for NT teams"}
+{"id":1212689636,"created_at":"2022-04-22T19:10:38Z","updated_at":"2022-04-26T00:32:17Z","state":"closed","title":"JDK-8267690: Revisit (Doc)Tree search implemented by throwing an exception"}
+{"id":1165402808,"created_at":"2022-03-10T15:53:21Z","updated_at":"2022-03-11T18:47:47Z","state":"closed","title":"An error is reported when idea creates a project， and the button and list are not displayed completely"}
+{"id":1236113482,"created_at":"2022-05-14T20:18:59Z","updated_at":"2022-05-18T20:56:57Z","state":"closed","title":"Add ScriptEngineSelector to select script engine"}
+{"id":1175983840,"created_at":"2022-03-21T21:55:05Z","updated_at":"2022-03-30T21:58:26Z","state":"closed","title":"java.lang.UnsatisfiedLinkError: Can't load library: /var/folders/6f/g8mlsykn1vg85svt2149pzpr0000gp/T/JxBrowser/7.19/libawt_toolkit.dylib"}
+{"id":1236359744,"created_at":"2022-05-15T18:25:01Z","updated_at":"2022-05-15T18:46:01Z","state":"closed","title":"Dosent work"}
+{"id":1178322001,"created_at":"2022-03-23T15:54:45Z","updated_at":"2022-03-28T14:29:34Z","state":"closed","title":"Various fixes"}
+{"id":1222077767,"created_at":"2022-05-01T08:52:25Z","updated_at":"2022-05-06T19:41:46Z","state":"closed","title":"Panel settings"}
+{"id":1211934351,"created_at":"2022-04-22T07:26:54Z","updated_at":"2022-04-24T02:18:43Z","state":"closed","title":"8285437: riscv: Fix MachNode size mismatch for MacroAssembler::verify_oops*"}
+{"id":926743571,"created_at":"2021-06-22T01:46:28Z","updated_at":"2022-04-20T22:34:12Z","state":"closed","title":"should java.awt.Color be in the core?"}
+{"id":1172952571,"created_at":"2022-03-17T21:47:12Z","updated_at":"2022-03-24T02:55:54Z","state":"closed","title":"8270331 : [TESTBUG] Error: Not a test or directory containing tests: java/awt/print/PrinterJob/InitToBlack.java"}
+{"id":1066671783,"created_at":"2021-11-30T01:08:43Z","updated_at":"2022-04-14T17:53:46Z","state":"closed","title":"AbstractMethodError"}
+{"id":1158826714,"created_at":"2022-03-03T19:42:10Z","updated_at":"2022-03-04T13:34:54Z","state":"closed","title":"GUI - Kann nicht mit mir selbst chatten"}
+{"id":1194119192,"created_at":"2022-04-06T06:38:20Z","updated_at":"2022-04-06T09:38:11Z","state":"closed","title":"导出的excel打不开"}
+{"id":1206287612,"created_at":"2022-04-17T05:41:44Z","updated_at":"2022-04-25T21:33:55Z","state":"closed","title":"st1303: implement additional encode and decode"}
+{"id":1234325406,"created_at":"2022-05-12T18:12:06Z","updated_at":"2022-05-12T18:20:36Z","state":"closed","title":"Bump gdxVersion from 1.10.0 to 1.11.0"}

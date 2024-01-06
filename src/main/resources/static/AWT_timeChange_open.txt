@@ -1,0 +1,400 @@
+{"id":1228735306,"created_at":"2022-05-07T22:17:39Z","updated_at":"2022-05-25T20:54:14Z","state":"open","title":"Tag AWT windows as sRGB surfaces"}
+{"id":1243552043,"created_at":"2022-05-20T19:43:12Z","updated_at":"2022-05-20T19:43:12Z","state":"open","title":"java.awt.AWTError in java 8"}
+{"id":1236509439,"created_at":"2022-05-16T01:39:53Z","updated_at":"2022-05-16T04:44:47Z","state":"open","title":"java.awt.font.NumericShaper and java.awt.font.TextAttribute are present in Android SDK Platform 32"}
+{"id":1247698331,"created_at":"2022-05-25T07:47:22Z","updated_at":"2022-05-25T15:09:47Z","state":"open","title":"Generate Template button / action not working"}
+{"id":1204177361,"created_at":"2022-04-14T08:02:16Z","updated_at":"2022-04-14T08:02:22Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1245669127,"created_at":"2022-05-23T20:35:33Z","updated_at":"2022-05-23T20:44:28Z","state":"open","title":"8286159: Memory leak in getAllConfigs of awt_GraphicsEnv.c:585"}
+{"id":1251417844,"created_at":"2022-05-28T02:11:37Z","updated_at":"2022-05-28T02:11:37Z","state":"open","title":"加载项目后，插件报错，idea2021.2.2"}
+{"id":1250227030,"created_at":"2022-05-27T00:58:21Z","updated_at":"2022-05-27T00:58:22Z","state":"open","title":"2.5.22294: BattleCalculatorDialog#addDefenders:115 - java.lang.NullPointerException"}
+{"id":1248443102,"created_at":"2022-05-25T17:35:56Z","updated_at":"2022-05-25T18:11:36Z","state":"open","title":"Opening zarr files with .zattrs"}
+{"id":1247885531,"created_at":"2022-05-25T10:24:01Z","updated_at":"2022-05-25T10:24:02Z","state":"open","title":"2.5.22294: GameStepPropertiesHelper#isCombatMove:123 - java.lang.IllegalStateException"}
+{"id":1250525169,"created_at":"2022-05-27T09:05:21Z","updated_at":"2022-05-27T14:25:17Z","state":"open","title":"Address Overflow in subtract: 00000000 - 0x10000"}
+{"id":1249256219,"created_at":"2022-05-26T08:19:51Z","updated_at":"2022-05-26T08:19:51Z","state":"open","title":"IDE Error Report (v4.0.0)"}
+{"id":1077888441,"created_at":"2021-12-12T19:31:15Z","updated_at":"2022-02-04T00:07:46Z","state":"open","title":"Add Converters for java.awt.Dimension & java.awt.DisplayMode"}
+{"id":1213369465,"created_at":"2022-04-23T17:34:00Z","updated_at":"2022-04-23T17:34:00Z","state":"open","title":"JDK 17 issue - UnsatisfiedLinkError - AWT / XStream issues"}
+{"id":1241192014,"created_at":"2022-05-19T04:29:05Z","updated_at":"2022-05-19T21:08:20Z","state":"open","title":"2.5.22294: JFrameBuilder#getGameIcon:106 - java.nio.file.FileSystemException"}
+{"id":1246280314,"created_at":"2022-05-24T09:42:35Z","updated_at":"2022-05-24T10:02:18Z","state":"open","title":"Allow rendering java.awt.Shape in post renderers"}
+{"id":1246146514,"created_at":"2022-05-24T08:05:43Z","updated_at":"2022-05-24T08:05:43Z","state":"open","title":"NPE on goland "}
+{"id":772898511,"created_at":"2020-12-22T12:09:50Z","updated_at":"2022-04-11T13:24:49Z","state":"open","title":"AWT & Swing on Windows"}
+{"id":1168956401,"created_at":"2022-03-14T22:00:22Z","updated_at":"2022-03-15T07:28:48Z","state":"open","title":"ClassNotFoundException for java.awt.color"}
+{"id":930583849,"created_at":"2021-06-26T01:15:54Z","updated_at":"2022-04-17T19:53:20Z","state":"open","title":"Consider removing awt dependency"}
+{"id":1237535880,"created_at":"2022-05-16T18:23:43Z","updated_at":"2022-05-16T18:23:43Z","state":"open","title":"server install weird dialog: \"dialog.server.noscript\""}
+{"id":1229911136,"created_at":"2022-05-09T15:37:16Z","updated_at":"2022-05-09T15:38:05Z","state":"open","title":"Crash after selecting DXM power supplies"}
+{"id":1248836091,"created_at":"2022-05-25T22:36:53Z","updated_at":"2022-05-25T22:48:09Z","state":"open","title":"Bug (high priority): WyldCard hanging upon closing a stack that had script errors"}
+{"id":1077212788,"created_at":"2021-12-10T20:41:12Z","updated_at":"2022-04-03T05:26:22Z","state":"open","title":"java.awt.Desktop error"}
+{"id":1079796881,"created_at":"2021-12-14T14:02:34Z","updated_at":"2022-05-25T18:48:10Z","state":"open","title":"macOS: no awt in java.library.path"}
+{"id":1206759216,"created_at":"2022-04-18T07:17:15Z","updated_at":"2022-04-18T07:17:15Z","state":"open","title":"Open default browser using AWT Desktop browse"}
+{"id":1246140530,"created_at":"2022-05-24T08:00:37Z","updated_at":"2022-05-24T08:00:37Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1245802813,"created_at":"2022-05-23T23:33:21Z","updated_at":"2022-05-23T23:33:21Z","state":"open","title":"check into using SWT instead of AWT/Swing"}
+{"id":1225785871,"created_at":"2022-05-04T19:19:38Z","updated_at":"2022-05-04T19:20:03Z","state":"open","title":"Prop diameter 0"}
+{"id":1223475972,"created_at":"2022-05-02T23:57:15Z","updated_at":"2022-05-02T23:57:15Z","state":"open","title":"2.5.22294: MapUnitTooltipManager#actionPerformed:157 - java.lang.NullPointerException"}
+{"id":1247481885,"created_at":"2022-05-25T05:05:10Z","updated_at":"2022-05-25T05:05:58Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1236363760,"created_at":"2022-05-15T18:42:58Z","updated_at":"2022-05-15T18:42:58Z","state":"open","title":"NPE when Partition filter is subfilter"}
+{"id":1246073746,"created_at":"2022-05-24T06:57:04Z","updated_at":"2022-05-24T06:57:04Z","state":"open","title":"IntelliJ IDEA 2022.1.1 Ultimate Edition - IllegalStateException"}
+{"id":1239517808,"created_at":"2022-05-18T07:00:46Z","updated_at":"2022-05-18T09:38:22Z","state":"open","title":"Error in PyCharm 2022.1.1"}
+{"id":1244104933,"created_at":"2022-05-21T23:48:59Z","updated_at":"2022-05-21T23:48:59Z","state":"open","title":"Can't load prj.xml files."}
+{"id":1215611961,"created_at":"2022-04-26T08:42:16Z","updated_at":"2022-04-28T20:00:29Z","state":"open","title":"NumberFormatException (locale-related)"}
+{"id":1237589360,"created_at":"2022-05-16T19:08:39Z","updated_at":"2022-05-17T19:21:41Z","state":"open","title":"wrist.osim model does not open"}
+{"id":1223690596,"created_at":"2022-05-03T04:48:44Z","updated_at":"2022-05-03T04:48:44Z","state":"open","title":"java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 at gui.toolwindow.view.BugTreePanel.scrollToPreviewSource(BugTreePanel.java:148)"}
+{"id":1242486414,"created_at":"2022-05-20T01:17:41Z","updated_at":"2022-05-20T09:01:48Z","state":"open","title":"大佬 这个工具 很想使用一下 clion 2022.01最新版 会崩溃， 求稳大佬还更新么， 这个lldb调试非常有用"}
+{"id":1144748664,"created_at":"2022-02-19T15:17:12Z","updated_at":"2022-02-19T15:17:12Z","state":"open","title":"Set awt headless by default"}
+{"id":1171887009,"created_at":"2022-03-17T03:26:44Z","updated_at":"2022-03-17T03:26:44Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1171057787,"created_at":"2022-03-16T13:53:42Z","updated_at":"2022-03-16T13:53:42Z","state":"open","title":"Technical debt: AWT to swing"}
+{"id":1233225047,"created_at":"2022-05-11T22:00:26Z","updated_at":"2022-05-11T22:00:26Z","state":"open","title":"java.lang.Throwable: Assertion failed: dataContext has no component for new ListPopupStep"}
+{"id":1074210015,"created_at":"2021-12-08T09:47:37Z","updated_at":"2022-05-06T11:08:06Z","state":"open","title":"Separate core of jediterm from ui (AWT)"}
+{"id":1242464442,"created_at":"2022-05-20T00:44:53Z","updated_at":"2022-05-20T00:44:53Z","state":"open","title":"Crash at open when use openjdk17."}
+{"id":1241840613,"created_at":"2022-05-19T14:03:33Z","updated_at":"2022-05-24T00:03:43Z","state":"open","title":"Exception when opening 3D finished "}
+{"id":1247266834,"created_at":"2022-05-25T00:44:48Z","updated_at":"2022-05-25T01:00:58Z","state":"open","title":"安卓版大于1.1.70的fastjson无法使用"}
+{"id":1213791059,"created_at":"2022-04-24T22:45:54Z","updated_at":"2022-04-27T18:26:57Z","state":"open","title":"2.5.22294: TransportUtils#findOptimalTransportToUnloadFrom:308 - java.lang.IndexOutOfBoundsException"}
+{"id":1236319843,"created_at":"2022-05-15T15:31:12Z","updated_at":"2022-05-15T15:31:12Z","state":"open","title":"DLangProjectDmdSetupValidator::doFix causes: Slow operations are prohibited on EDT"}
+{"id":1230421761,"created_at":"2022-05-09T23:57:58Z","updated_at":"2022-05-12T19:03:05Z","state":"open","title":"2.5.22294: HeadedGameRunner - 4 >= 1"}
+{"id":1228846111,"created_at":"2022-05-08T10:04:16Z","updated_at":"2022-05-08T10:11:59Z","state":"open","title":"[BUG] crash"}
+{"id":1198824181,"created_at":"2022-04-10T00:59:05Z","updated_at":"2022-04-10T00:59:05Z","state":"open","title":"swap table on an empty table"}
+{"id":1231492860,"created_at":"2022-05-10T17:46:10Z","updated_at":"2022-05-10T17:46:10Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":994553229,"created_at":"2021-09-13T07:31:26Z","updated_at":"2021-10-08T14:44:05Z","state":"open","title":"Load awt toolkit"}
+{"id":1207094137,"created_at":"2022-04-18T14:16:18Z","updated_at":"2022-04-18T19:33:22Z","state":"open","title":"Null pointer exception"}
+{"id":1231885626,"created_at":"2022-05-11T01:31:01Z","updated_at":"2022-05-20T16:56:29Z","state":"open","title":"IDE Error Report (v4.0.0)"}
+{"id":1219943418,"created_at":"2022-04-29T06:00:46Z","updated_at":"2022-04-29T06:00:46Z","state":"open","title":"GUI"}
+{"id":1212688597,"created_at":"2022-04-22T19:09:31Z","updated_at":"2022-05-23T15:52:15Z","state":"open","title":"8284023: java.sun.awt.X11GraphicsDevice.getDoubleBufferVisuals() leaks XdbeScreenVisualInfo"}
+{"id":994571179,"created_at":"2021-09-13T07:55:00Z","updated_at":"2021-10-08T09:29:03Z","state":"open","title":"Load awt toolkit"}
+{"id":1118574701,"created_at":"2022-01-30T15:06:35Z","updated_at":"2022-01-30T15:07:41Z","state":"open","title":"Don't use AWT Color"}
+{"id":1249158354,"created_at":"2022-05-26T06:30:53Z","updated_at":"2022-05-26T06:30:53Z","state":"open","title":"Blackbox crashes the entire JVM when running under Linux-based operating systems"}
+{"id":1228684942,"created_at":"2022-05-07T17:51:03Z","updated_at":"2022-05-07T18:47:32Z","state":"open","title":"java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 0"}
+{"id":1219787725,"created_at":"2022-04-29T04:16:57Z","updated_at":"2022-04-29T04:16:57Z","state":"open","title":"Error on MacOS?"}
+{"id":1250514030,"created_at":"2022-05-27T08:53:53Z","updated_at":"2022-05-27T08:53:53Z","state":"open","title":"CreateProcess error=193， %1 is not a valid Win32 application"}
+{"id":1218077537,"created_at":"2022-04-28T01:51:59Z","updated_at":"2022-04-28T01:51:59Z","state":"open","title":"Problem with missing method"}
+{"id":1235508755,"created_at":"2022-05-13T17:35:37Z","updated_at":"2022-05-13T17:35:37Z","state":"open","title":"[auto-generated:b459aad7] Unspecified error"}
+{"id":1213502089,"created_at":"2022-04-24T02:02:44Z","updated_at":"2022-04-24T02:02:44Z","state":"open","title":"有个NPE 异常"}
+{"id":1228516979,"created_at":"2022-05-07T03:54:37Z","updated_at":"2022-05-07T03:54:37Z","state":"open","title":"demo doesnt work."}
+{"id":926744222,"created_at":"2021-06-22T01:48:22Z","updated_at":"2022-04-20T22:36:38Z","state":"open","title":"should java.awt.geom.Point2D or java.awt.Color be in the core?"}
+{"id":1208917758,"created_at":"2022-04-19T22:20:57Z","updated_at":"2022-05-06T23:52:33Z","state":"open","title":"Empty file after saving experimental TRC file"}
+{"id":1210744838,"created_at":"2022-04-21T09:13:34Z","updated_at":"2022-04-21T09:13:34Z","state":"open","title":"Error when executing the run command too many times"}
+{"id":1186301732,"created_at":"2022-03-30T11:15:26Z","updated_at":"2022-04-19T09:59:14Z","state":"open","title":"Copy-Paste hangs terminator OL8"}
+{"id":1198595356,"created_at":"2022-04-09T13:15:23Z","updated_at":"2022-04-09T13:15:24Z","state":"open","title":"[Pacific War 2] NullPointerException: Cannot invoke \"java.awt.Image.getWidth(java.awt.image.ImageObserver)\" because the return value of \"java.awt.image.AbstractMultiResolutionImage.getBaseImage()\" is null"}
+{"id":1206010231,"created_at":"2022-04-16T04:24:48Z","updated_at":"2022-04-16T04:24:49Z","state":"open","title":"2.2.20868: GameStep#getDisplayName:119 - NullPointerException"}
+{"id":1166525865,"created_at":"2022-03-11T15:00:03Z","updated_at":"2022-03-20T12:03:47Z","state":"open","title":"Failed resolution of: Ljava/awt/event/ComponentAdapter;"}
+{"id":1194130748,"created_at":"2022-04-06T06:51:01Z","updated_at":"2022-04-06T09:05:16Z","state":"open","title":"插件报错"}
+{"id":1244195265,"created_at":"2022-05-22T09:08:03Z","updated_at":"2022-05-24T20:31:32Z","state":"open","title":"8286093: java/awt/geom/Path2D/UnitTest.java failed with \"RuntimeException: 2D bounds too small\""}
+{"id":1186464718,"created_at":"2022-03-30T13:28:30Z","updated_at":"2022-05-10T13:46:18Z","state":"open","title":"Not able to open the JNLP with Java 11 from IcedTea-Web "}
+{"id":1194505528,"created_at":"2022-04-06T11:54:27Z","updated_at":"2022-05-05T05:48:12Z","state":"open","title":"IDE Error Report"}
+{"id":230527355,"created_at":"2017-05-22T21:40:35Z","updated_at":"2022-05-12T12:23:39Z","state":"open","title":"java.awt.geom.Rectangle2D$Double cannot be cast to java.awt.Rectangle probably only under MacOS"}
+{"id":1216592303,"created_at":"2022-04-26T23:25:44Z","updated_at":"2022-04-27T02:10:22Z","state":"open","title":"Erro numero e0ada11e7b795ce4569150604e46dfbe15e6ca27 v2.7.5"}
+{"id":1250812158,"created_at":"2022-05-27T14:06:34Z","updated_at":"2022-05-27T14:06:34Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1198848493,"created_at":"2022-04-10T02:48:40Z","updated_at":"2022-04-10T02:48:41Z","state":"open","title":"2.5.22294: BattleDisplay#getTableCellRendererComponent:963 - java.lang.NullPointerException"}
+{"id":1198830484,"created_at":"2022-04-10T01:23:31Z","updated_at":"2022-04-10T01:23:31Z","state":"open","title":"2.5.22294: TerritoryDetailPanel#lambda$territoryChanged$6:129 - java.lang.NullPointerException"}
+{"id":1194269571,"created_at":"2022-04-06T08:37:08Z","updated_at":"2022-04-06T08:37:09Z","state":"open","title":"2.2.20868: GameData#releaseReadLock:342 - IllegalMonitorStateException"}
+{"id":1239065010,"created_at":"2022-05-17T19:25:12Z","updated_at":"2022-05-17T19:25:12Z","state":"open","title":"randomly keep crashing"}
+{"id":1198630782,"created_at":"2022-04-09T14:19:31Z","updated_at":"2022-04-09T14:19:31Z","state":"open","title":"2.5.22294: Route#<init>:43 - java.lang.NullPointerException"}
+{"id":1239738297,"created_at":"2022-05-18T10:16:36Z","updated_at":"2022-05-19T11:01:25Z","state":"open","title":"Version incompatibility - Auto suggestion doesn't work on 2022.1.1. version"}
+{"id":1211354437,"created_at":"2022-04-21T17:39:41Z","updated_at":"2022-04-22T07:01:57Z","state":"open","title":"出现空指针错误"}
+{"id":1050404921,"created_at":"2021-11-10T23:19:51Z","updated_at":"2021-11-10T23:19:51Z","state":"open","title":"Disable edit actions on non-editable layers"}
+{"id":1153407719,"created_at":"2022-02-27T21:29:59Z","updated_at":"2022-05-12T07:59:54Z","state":"open","title":"AWT graphics with AWS Lambda not working in native"}
+{"id":1215834661,"created_at":"2022-04-26T11:45:22Z","updated_at":"2022-04-26T11:46:04Z","state":"open","title":"Invalid paths in system path cause the application to crash on startup"}
+{"id":1204392068,"created_at":"2022-04-14T11:08:36Z","updated_at":"2022-04-15T01:04:13Z","state":"open","title":"Demo App throws exceptions"}
+{"id":1242838745,"created_at":"2022-05-20T08:53:28Z","updated_at":"2022-05-27T09:34:02Z","state":"open","title":"Broadcaster clear method not Thread Safe"}
+{"id":1221282717,"created_at":"2022-04-29T17:08:37Z","updated_at":"2022-05-04T09:33:15Z","state":"open","title":"Error in 2022.1 "}
+{"id":1250864128,"created_at":"2022-05-27T14:56:38Z","updated_at":"2022-05-27T14:56:58Z","state":"open","title":"Improve monospaced font mapping on Windows and Linux"}
+{"id":1216863560,"created_at":"2022-04-27T06:32:00Z","updated_at":"2022-04-28T16:22:53Z","state":"open","title":"IDE Error Report"}
+{"id":1229670185,"created_at":"2022-05-09T12:58:38Z","updated_at":"2022-05-24T00:17:05Z","state":"open","title":"Exception when moving Photo Studio window to external monitor"}
+{"id":1188569036,"created_at":"2022-03-31T19:20:11Z","updated_at":"2022-04-01T20:00:29Z","state":"open","title":"Drag and drop not working in KDE and wayland"}
+{"id":1211261112,"created_at":"2022-04-21T16:16:48Z","updated_at":"2022-04-21T16:16:49Z","state":"open","title":"2.5.22294: GameDataUtils#lambda$translateIntoOtherGameData$3:86 - java.util.ConcurrentModificationException"}
+{"id":1228735306,"created_at":"2022-05-07T22:17:39Z","updated_at":"2022-05-25T20:54:14Z","state":"open","title":"Tag AWT windows as sRGB surfaces"}
+{"id":1243552043,"created_at":"2022-05-20T19:43:12Z","updated_at":"2022-05-20T19:43:12Z","state":"open","title":"java.awt.AWTError in java 8"}
+{"id":1236509439,"created_at":"2022-05-16T01:39:53Z","updated_at":"2022-05-16T04:44:47Z","state":"open","title":"java.awt.font.NumericShaper and java.awt.font.TextAttribute are present in Android SDK Platform 32"}
+{"id":1247698331,"created_at":"2022-05-25T07:47:22Z","updated_at":"2022-05-25T15:09:47Z","state":"open","title":"Generate Template button / action not working"}
+{"id":1204177361,"created_at":"2022-04-14T08:02:16Z","updated_at":"2022-04-14T08:02:22Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1245669127,"created_at":"2022-05-23T20:35:33Z","updated_at":"2022-05-23T20:44:28Z","state":"open","title":"8286159: Memory leak in getAllConfigs of awt_GraphicsEnv.c:585"}
+{"id":1251417844,"created_at":"2022-05-28T02:11:37Z","updated_at":"2022-05-28T02:11:37Z","state":"open","title":"加载项目后，插件报错，idea2021.2.2"}
+{"id":1250227030,"created_at":"2022-05-27T00:58:21Z","updated_at":"2022-05-27T00:58:22Z","state":"open","title":"2.5.22294: BattleCalculatorDialog#addDefenders:115 - java.lang.NullPointerException"}
+{"id":1248443102,"created_at":"2022-05-25T17:35:56Z","updated_at":"2022-05-25T18:11:36Z","state":"open","title":"Opening zarr files with .zattrs"}
+{"id":1247885531,"created_at":"2022-05-25T10:24:01Z","updated_at":"2022-05-25T10:24:02Z","state":"open","title":"2.5.22294: GameStepPropertiesHelper#isCombatMove:123 - java.lang.IllegalStateException"}
+{"id":1250525169,"created_at":"2022-05-27T09:05:21Z","updated_at":"2022-05-27T14:25:17Z","state":"open","title":"Address Overflow in subtract: 00000000 - 0x10000"}
+{"id":1249256219,"created_at":"2022-05-26T08:19:51Z","updated_at":"2022-05-26T08:19:51Z","state":"open","title":"IDE Error Report (v4.0.0)"}
+{"id":1077888441,"created_at":"2021-12-12T19:31:15Z","updated_at":"2022-02-04T00:07:46Z","state":"open","title":"Add Converters for java.awt.Dimension & java.awt.DisplayMode"}
+{"id":1213369465,"created_at":"2022-04-23T17:34:00Z","updated_at":"2022-04-23T17:34:00Z","state":"open","title":"JDK 17 issue - UnsatisfiedLinkError - AWT / XStream issues"}
+{"id":1241192014,"created_at":"2022-05-19T04:29:05Z","updated_at":"2022-05-19T21:08:20Z","state":"open","title":"2.5.22294: JFrameBuilder#getGameIcon:106 - java.nio.file.FileSystemException"}
+{"id":1246280314,"created_at":"2022-05-24T09:42:35Z","updated_at":"2022-05-24T10:02:18Z","state":"open","title":"Allow rendering java.awt.Shape in post renderers"}
+{"id":1246146514,"created_at":"2022-05-24T08:05:43Z","updated_at":"2022-05-24T08:05:43Z","state":"open","title":"NPE on goland "}
+{"id":772898511,"created_at":"2020-12-22T12:09:50Z","updated_at":"2022-04-11T13:24:49Z","state":"open","title":"AWT & Swing on Windows"}
+{"id":1168956401,"created_at":"2022-03-14T22:00:22Z","updated_at":"2022-03-15T07:28:48Z","state":"open","title":"ClassNotFoundException for java.awt.color"}
+{"id":930583849,"created_at":"2021-06-26T01:15:54Z","updated_at":"2022-04-17T19:53:20Z","state":"open","title":"Consider removing awt dependency"}
+{"id":1237535880,"created_at":"2022-05-16T18:23:43Z","updated_at":"2022-05-16T18:23:43Z","state":"open","title":"server install weird dialog: \"dialog.server.noscript\""}
+{"id":1229911136,"created_at":"2022-05-09T15:37:16Z","updated_at":"2022-05-09T15:38:05Z","state":"open","title":"Crash after selecting DXM power supplies"}
+{"id":1248836091,"created_at":"2022-05-25T22:36:53Z","updated_at":"2022-05-25T22:48:09Z","state":"open","title":"Bug (high priority): WyldCard hanging upon closing a stack that had script errors"}
+{"id":1077212788,"created_at":"2021-12-10T20:41:12Z","updated_at":"2022-04-03T05:26:22Z","state":"open","title":"java.awt.Desktop error"}
+{"id":1079796881,"created_at":"2021-12-14T14:02:34Z","updated_at":"2022-05-25T18:48:10Z","state":"open","title":"macOS: no awt in java.library.path"}
+{"id":1206759216,"created_at":"2022-04-18T07:17:15Z","updated_at":"2022-04-18T07:17:15Z","state":"open","title":"Open default browser using AWT Desktop browse"}
+{"id":1246140530,"created_at":"2022-05-24T08:00:37Z","updated_at":"2022-05-24T08:00:37Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1245802813,"created_at":"2022-05-23T23:33:21Z","updated_at":"2022-05-23T23:33:21Z","state":"open","title":"check into using SWT instead of AWT/Swing"}
+{"id":1225785871,"created_at":"2022-05-04T19:19:38Z","updated_at":"2022-05-04T19:20:03Z","state":"open","title":"Prop diameter 0"}
+{"id":1223475972,"created_at":"2022-05-02T23:57:15Z","updated_at":"2022-05-02T23:57:15Z","state":"open","title":"2.5.22294: MapUnitTooltipManager#actionPerformed:157 - java.lang.NullPointerException"}
+{"id":1247481885,"created_at":"2022-05-25T05:05:10Z","updated_at":"2022-05-25T05:05:58Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1236363760,"created_at":"2022-05-15T18:42:58Z","updated_at":"2022-05-15T18:42:58Z","state":"open","title":"NPE when Partition filter is subfilter"}
+{"id":1246073746,"created_at":"2022-05-24T06:57:04Z","updated_at":"2022-05-24T06:57:04Z","state":"open","title":"IntelliJ IDEA 2022.1.1 Ultimate Edition - IllegalStateException"}
+{"id":1239517808,"created_at":"2022-05-18T07:00:46Z","updated_at":"2022-05-18T09:38:22Z","state":"open","title":"Error in PyCharm 2022.1.1"}
+{"id":1244104933,"created_at":"2022-05-21T23:48:59Z","updated_at":"2022-05-21T23:48:59Z","state":"open","title":"Can't load prj.xml files."}
+{"id":1215611961,"created_at":"2022-04-26T08:42:16Z","updated_at":"2022-04-28T20:00:29Z","state":"open","title":"NumberFormatException (locale-related)"}
+{"id":1237589360,"created_at":"2022-05-16T19:08:39Z","updated_at":"2022-05-17T19:21:41Z","state":"open","title":"wrist.osim model does not open"}
+{"id":1223690596,"created_at":"2022-05-03T04:48:44Z","updated_at":"2022-05-03T04:48:44Z","state":"open","title":"java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 at gui.toolwindow.view.BugTreePanel.scrollToPreviewSource(BugTreePanel.java:148)"}
+{"id":1242486414,"created_at":"2022-05-20T01:17:41Z","updated_at":"2022-05-20T09:01:48Z","state":"open","title":"大佬 这个工具 很想使用一下 clion 2022.01最新版 会崩溃， 求稳大佬还更新么， 这个lldb调试非常有用"}
+{"id":1144748664,"created_at":"2022-02-19T15:17:12Z","updated_at":"2022-02-19T15:17:12Z","state":"open","title":"Set awt headless by default"}
+{"id":1171887009,"created_at":"2022-03-17T03:26:44Z","updated_at":"2022-03-17T03:26:44Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1171057787,"created_at":"2022-03-16T13:53:42Z","updated_at":"2022-03-16T13:53:42Z","state":"open","title":"Technical debt: AWT to swing"}
+{"id":1233225047,"created_at":"2022-05-11T22:00:26Z","updated_at":"2022-05-11T22:00:26Z","state":"open","title":"java.lang.Throwable: Assertion failed: dataContext has no component for new ListPopupStep"}
+{"id":1074210015,"created_at":"2021-12-08T09:47:37Z","updated_at":"2022-05-06T11:08:06Z","state":"open","title":"Separate core of jediterm from ui (AWT)"}
+{"id":1242464442,"created_at":"2022-05-20T00:44:53Z","updated_at":"2022-05-20T00:44:53Z","state":"open","title":"Crash at open when use openjdk17."}
+{"id":1241840613,"created_at":"2022-05-19T14:03:33Z","updated_at":"2022-05-24T00:03:43Z","state":"open","title":"Exception when opening 3D finished "}
+{"id":1247266834,"created_at":"2022-05-25T00:44:48Z","updated_at":"2022-05-25T01:00:58Z","state":"open","title":"安卓版大于1.1.70的fastjson无法使用"}
+{"id":1213791059,"created_at":"2022-04-24T22:45:54Z","updated_at":"2022-04-27T18:26:57Z","state":"open","title":"2.5.22294: TransportUtils#findOptimalTransportToUnloadFrom:308 - java.lang.IndexOutOfBoundsException"}
+{"id":1236319843,"created_at":"2022-05-15T15:31:12Z","updated_at":"2022-05-15T15:31:12Z","state":"open","title":"DLangProjectDmdSetupValidator::doFix causes: Slow operations are prohibited on EDT"}
+{"id":1230421761,"created_at":"2022-05-09T23:57:58Z","updated_at":"2022-05-12T19:03:05Z","state":"open","title":"2.5.22294: HeadedGameRunner - 4 >= 1"}
+{"id":1228846111,"created_at":"2022-05-08T10:04:16Z","updated_at":"2022-05-08T10:11:59Z","state":"open","title":"[BUG] crash"}
+{"id":1198824181,"created_at":"2022-04-10T00:59:05Z","updated_at":"2022-04-10T00:59:05Z","state":"open","title":"swap table on an empty table"}
+{"id":1231492860,"created_at":"2022-05-10T17:46:10Z","updated_at":"2022-05-10T17:46:10Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":994553229,"created_at":"2021-09-13T07:31:26Z","updated_at":"2021-10-08T14:44:05Z","state":"open","title":"Load awt toolkit"}
+{"id":1207094137,"created_at":"2022-04-18T14:16:18Z","updated_at":"2022-04-18T19:33:22Z","state":"open","title":"Null pointer exception"}
+{"id":1231885626,"created_at":"2022-05-11T01:31:01Z","updated_at":"2022-05-20T16:56:29Z","state":"open","title":"IDE Error Report (v4.0.0)"}
+{"id":1219943418,"created_at":"2022-04-29T06:00:46Z","updated_at":"2022-04-29T06:00:46Z","state":"open","title":"GUI"}
+{"id":1212688597,"created_at":"2022-04-22T19:09:31Z","updated_at":"2022-05-23T15:52:15Z","state":"open","title":"8284023: java.sun.awt.X11GraphicsDevice.getDoubleBufferVisuals() leaks XdbeScreenVisualInfo"}
+{"id":994571179,"created_at":"2021-09-13T07:55:00Z","updated_at":"2021-10-08T09:29:03Z","state":"open","title":"Load awt toolkit"}
+{"id":1118574701,"created_at":"2022-01-30T15:06:35Z","updated_at":"2022-01-30T15:07:41Z","state":"open","title":"Don't use AWT Color"}
+{"id":1249158354,"created_at":"2022-05-26T06:30:53Z","updated_at":"2022-05-26T06:30:53Z","state":"open","title":"Blackbox crashes the entire JVM when running under Linux-based operating systems"}
+{"id":1228684942,"created_at":"2022-05-07T17:51:03Z","updated_at":"2022-05-07T18:47:32Z","state":"open","title":"java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 0"}
+{"id":1219787725,"created_at":"2022-04-29T04:16:57Z","updated_at":"2022-04-29T04:16:57Z","state":"open","title":"Error on MacOS?"}
+{"id":1250514030,"created_at":"2022-05-27T08:53:53Z","updated_at":"2022-05-27T08:53:53Z","state":"open","title":"CreateProcess error=193， %1 is not a valid Win32 application"}
+{"id":1218077537,"created_at":"2022-04-28T01:51:59Z","updated_at":"2022-04-28T01:51:59Z","state":"open","title":"Problem with missing method"}
+{"id":1235508755,"created_at":"2022-05-13T17:35:37Z","updated_at":"2022-05-13T17:35:37Z","state":"open","title":"[auto-generated:b459aad7] Unspecified error"}
+{"id":1213502089,"created_at":"2022-04-24T02:02:44Z","updated_at":"2022-04-24T02:02:44Z","state":"open","title":"有个NPE 异常"}
+{"id":1228516979,"created_at":"2022-05-07T03:54:37Z","updated_at":"2022-05-07T03:54:37Z","state":"open","title":"demo doesnt work."}
+{"id":926744222,"created_at":"2021-06-22T01:48:22Z","updated_at":"2022-04-20T22:36:38Z","state":"open","title":"should java.awt.geom.Point2D or java.awt.Color be in the core?"}
+{"id":1208917758,"created_at":"2022-04-19T22:20:57Z","updated_at":"2022-05-06T23:52:33Z","state":"open","title":"Empty file after saving experimental TRC file"}
+{"id":1210744838,"created_at":"2022-04-21T09:13:34Z","updated_at":"2022-04-21T09:13:34Z","state":"open","title":"Error when executing the run command too many times"}
+{"id":1186301732,"created_at":"2022-03-30T11:15:26Z","updated_at":"2022-04-19T09:59:14Z","state":"open","title":"Copy-Paste hangs terminator OL8"}
+{"id":1198595356,"created_at":"2022-04-09T13:15:23Z","updated_at":"2022-04-09T13:15:24Z","state":"open","title":"[Pacific War 2] NullPointerException: Cannot invoke \"java.awt.Image.getWidth(java.awt.image.ImageObserver)\" because the return value of \"java.awt.image.AbstractMultiResolutionImage.getBaseImage()\" is null"}
+{"id":1206010231,"created_at":"2022-04-16T04:24:48Z","updated_at":"2022-04-16T04:24:49Z","state":"open","title":"2.2.20868: GameStep#getDisplayName:119 - NullPointerException"}
+{"id":1166525865,"created_at":"2022-03-11T15:00:03Z","updated_at":"2022-03-20T12:03:47Z","state":"open","title":"Failed resolution of: Ljava/awt/event/ComponentAdapter;"}
+{"id":1194130748,"created_at":"2022-04-06T06:51:01Z","updated_at":"2022-04-06T09:05:16Z","state":"open","title":"插件报错"}
+{"id":1244195265,"created_at":"2022-05-22T09:08:03Z","updated_at":"2022-05-24T20:31:32Z","state":"open","title":"8286093: java/awt/geom/Path2D/UnitTest.java failed with \"RuntimeException: 2D bounds too small\""}
+{"id":1186464718,"created_at":"2022-03-30T13:28:30Z","updated_at":"2022-05-10T13:46:18Z","state":"open","title":"Not able to open the JNLP with Java 11 from IcedTea-Web "}
+{"id":1194505528,"created_at":"2022-04-06T11:54:27Z","updated_at":"2022-05-05T05:48:12Z","state":"open","title":"IDE Error Report"}
+{"id":230527355,"created_at":"2017-05-22T21:40:35Z","updated_at":"2022-05-12T12:23:39Z","state":"open","title":"java.awt.geom.Rectangle2D$Double cannot be cast to java.awt.Rectangle probably only under MacOS"}
+{"id":1216592303,"created_at":"2022-04-26T23:25:44Z","updated_at":"2022-04-27T02:10:22Z","state":"open","title":"Erro numero e0ada11e7b795ce4569150604e46dfbe15e6ca27 v2.7.5"}
+{"id":1250812158,"created_at":"2022-05-27T14:06:34Z","updated_at":"2022-05-27T14:06:34Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1198848493,"created_at":"2022-04-10T02:48:40Z","updated_at":"2022-04-10T02:48:41Z","state":"open","title":"2.5.22294: BattleDisplay#getTableCellRendererComponent:963 - java.lang.NullPointerException"}
+{"id":1198830484,"created_at":"2022-04-10T01:23:31Z","updated_at":"2022-04-10T01:23:31Z","state":"open","title":"2.5.22294: TerritoryDetailPanel#lambda$territoryChanged$6:129 - java.lang.NullPointerException"}
+{"id":1194269571,"created_at":"2022-04-06T08:37:08Z","updated_at":"2022-04-06T08:37:09Z","state":"open","title":"2.2.20868: GameData#releaseReadLock:342 - IllegalMonitorStateException"}
+{"id":1239065010,"created_at":"2022-05-17T19:25:12Z","updated_at":"2022-05-17T19:25:12Z","state":"open","title":"randomly keep crashing"}
+{"id":1198630782,"created_at":"2022-04-09T14:19:31Z","updated_at":"2022-04-09T14:19:31Z","state":"open","title":"2.5.22294: Route#<init>:43 - java.lang.NullPointerException"}
+{"id":1239738297,"created_at":"2022-05-18T10:16:36Z","updated_at":"2022-05-19T11:01:25Z","state":"open","title":"Version incompatibility - Auto suggestion doesn't work on 2022.1.1. version"}
+{"id":1211354437,"created_at":"2022-04-21T17:39:41Z","updated_at":"2022-04-22T07:01:57Z","state":"open","title":"出现空指针错误"}
+{"id":1050404921,"created_at":"2021-11-10T23:19:51Z","updated_at":"2021-11-10T23:19:51Z","state":"open","title":"Disable edit actions on non-editable layers"}
+{"id":1153407719,"created_at":"2022-02-27T21:29:59Z","updated_at":"2022-05-12T07:59:54Z","state":"open","title":"AWT graphics with AWS Lambda not working in native"}
+{"id":1215834661,"created_at":"2022-04-26T11:45:22Z","updated_at":"2022-04-26T11:46:04Z","state":"open","title":"Invalid paths in system path cause the application to crash on startup"}
+{"id":1204392068,"created_at":"2022-04-14T11:08:36Z","updated_at":"2022-04-15T01:04:13Z","state":"open","title":"Demo App throws exceptions"}
+{"id":1242838745,"created_at":"2022-05-20T08:53:28Z","updated_at":"2022-05-27T09:34:02Z","state":"open","title":"Broadcaster clear method not Thread Safe"}
+{"id":1221282717,"created_at":"2022-04-29T17:08:37Z","updated_at":"2022-05-04T09:33:15Z","state":"open","title":"Error in 2022.1 "}
+{"id":1250864128,"created_at":"2022-05-27T14:56:38Z","updated_at":"2022-05-27T14:56:58Z","state":"open","title":"Improve monospaced font mapping on Windows and Linux"}
+{"id":1216863560,"created_at":"2022-04-27T06:32:00Z","updated_at":"2022-04-28T16:22:53Z","state":"open","title":"IDE Error Report"}
+{"id":1229670185,"created_at":"2022-05-09T12:58:38Z","updated_at":"2022-05-24T00:17:05Z","state":"open","title":"Exception when moving Photo Studio window to external monitor"}
+{"id":1188569036,"created_at":"2022-03-31T19:20:11Z","updated_at":"2022-04-01T20:00:29Z","state":"open","title":"Drag and drop not working in KDE and wayland"}
+{"id":1211261112,"created_at":"2022-04-21T16:16:48Z","updated_at":"2022-04-21T16:16:49Z","state":"open","title":"2.5.22294: GameDataUtils#lambda$translateIntoOtherGameData$3:86 - java.util.ConcurrentModificationException"}
+{"id":1246184069,"created_at":"2022-05-24T08:32:19Z","updated_at":"2022-05-24T08:32:41Z","state":"open","title":"Upgrade code"}
+{"id":1227438653,"created_at":"2022-05-06T05:33:25Z","updated_at":"2022-05-25T20:42:45Z","state":"open","title":"[PyCharm 2022.1] IllegalStateException: You must not register toolwindow programmatically so early. Rework code or use ToolWindowManager.invokeLater"}
+{"id":1244084179,"created_at":"2022-05-21T21:20:34Z","updated_at":"2022-05-23T13:48:17Z","state":"open","title":"Plugin NPE on 2022.1.10"}
+{"id":1250929001,"created_at":"2022-05-27T16:06:18Z","updated_at":"2022-05-27T16:06:18Z","state":"open","title":"com.intellij.openapi.project.IndexNotReadyException: Please change caller according to com.intellij.openapi.project.IndexNotReadyException documentation at com.intellij.openapi.project.IndexNotReadyException.create(IndexNotReadyException.java:67)"}
+{"id":1213288528,"created_at":"2022-04-23T12:30:57Z","updated_at":"2022-05-17T18:37:52Z","state":"open","title":"Patch is broken"}
+{"id":1251181622,"created_at":"2022-05-27T19:23:15Z","updated_at":"2022-05-27T19:23:17Z","state":"open","title":"Bug Report 2022/05/27"}
+{"id":1249596681,"created_at":"2022-05-26T13:46:26Z","updated_at":"2022-05-26T13:46:42Z","state":"open","title":"Make clipboard work even in headless mode"}
+{"id":1172682353,"created_at":"2022-03-17T18:02:01Z","updated_at":"2022-05-10T18:37:52Z","state":"open","title":"Support running with Java 17"}
+{"id":1228402694,"created_at":"2022-05-06T21:33:37Z","updated_at":"2022-05-14T00:33:01Z","state":"open","title":"NPE in Branding Panel for maven project "}
+{"id":1213262832,"created_at":"2022-04-23T10:12:39Z","updated_at":"2022-04-25T09:35:32Z","state":"open","title":"How can I say to symbolSolver to resolve only local classes?"}
+{"id":1217626597,"created_at":"2022-04-27T16:52:13Z","updated_at":"2022-04-27T16:52:13Z","state":"open","title":"[auto-generated:2916a115] Unspecified error"}
+{"id":1211673628,"created_at":"2022-04-22T00:21:35Z","updated_at":"2022-04-22T00:21:35Z","state":"open","title":"[[AH]Napoleon at  Bay] IllegalStateException: Component must have a valid peer"}
+{"id":770424194,"created_at":"2020-12-17T22:34:12Z","updated_at":"2020-12-24T17:10:09Z","state":"open","title":"windows awt support"}
+{"id":1216797931,"created_at":"2022-04-27T05:01:14Z","updated_at":"2022-04-27T05:01:14Z","state":"open","title":"[auto-generated:77a19898] Unspecified error"}
+{"id":1216797933,"created_at":"2022-04-27T05:01:14Z","updated_at":"2022-04-27T05:01:14Z","state":"open","title":"[auto-generated:23f9ddef] Unspecified error"}
+{"id":1241201935,"created_at":"2022-05-19T04:46:50Z","updated_at":"2022-05-24T05:30:53Z","state":"open","title":"[49.8] Testing Branch Out of Memory Error at end of ASF Firing Phase"}
+{"id":441028078,"created_at":"2019-05-07T05:00:17Z","updated_at":"2019-05-07T17:46:21Z","state":"open","title":"Feature/awt david cripto"}
+{"id":1239055965,"created_at":"2022-05-17T19:15:43Z","updated_at":"2022-05-21T08:12:00Z","state":"open","title":"FEDERATED spqrl request doen't work in Protege 5.5 in sparql tab"}
+{"id":1178439298,"created_at":"2022-03-23T17:33:13Z","updated_at":"2022-03-23T17:33:14Z","state":"open","title":"2.5.22294: GameData#notifyTerritoryUnitsChanged:253 - java.lang.NullPointerException"}
+{"id":1216672804,"created_at":"2022-04-27T01:47:19Z","updated_at":"2022-04-27T01:47:19Z","state":"open","title":"TFsec Findings Explorer window use causes UI issues."}
+{"id":1207739542,"created_at":"2022-04-19T04:42:10Z","updated_at":"2022-04-19T04:42:10Z","state":"open","title":"Dev Client on connected Could not initialize class"}
+{"id":1171139012,"created_at":"2022-03-16T14:56:44Z","updated_at":"2022-03-16T14:56:45Z","state":"open","title":"[Pacific War 2] NullPointerException: Cannot invoke \"java.awt.Image.getWidth(java.awt.image.ImageObserver)\" because the return value of \"java.awt.image.AbstractMultiResolutionImage.getBaseImage()\" is null"}
+{"id":1210621470,"created_at":"2022-04-21T07:35:53Z","updated_at":"2022-04-21T13:07:35Z","state":"open","title":"[ERROR] Could not compile the generated mutants. Make sure that tools.jar is in your classpath."}
+{"id":352449516,"created_at":"2018-08-21T09:06:36Z","updated_at":"2022-04-10T12:05:18Z","state":"open","title":"[WIP] Move fix for YamlServiceArgumentInspection out of AWT Event"}
+{"id":1159333893,"created_at":"2022-03-04T07:28:50Z","updated_at":"2022-03-23T10:41:17Z","state":"open","title":" File drag&drop does not work on Mac OS"}
+{"id":1229050930,"created_at":"2022-05-09T01:22:47Z","updated_at":"2022-05-11T13:57:33Z","state":"open","title":"FlatLaf causes ArrayIndexOutOfBoundsException ONLY on Linux"}
+{"id":1236600741,"created_at":"2022-05-16T04:24:24Z","updated_at":"2022-05-16T16:32:44Z","state":"open","title":"java.lang.IllegalArgumentException"}
+{"id":1174355161,"created_at":"2022-03-19T20:40:27Z","updated_at":"2022-04-25T07:56:24Z","state":"open","title":"Loading extensions crashes kotlin application"}
+{"id":362665156,"created_at":"2007-12-10T03:29:36Z","updated_at":"2022-05-19T02:18:17Z","state":"open","title":"Binder.updateXML() fails if called twice"}
+{"id":1174425811,"created_at":"2022-03-20T03:04:17Z","updated_at":"2022-03-20T03:04:17Z","state":"open","title":"2.2.20790: PlayerOwnerChange#perform:55 - IllegalStateException"}
+{"id":132743628,"created_at":"2016-02-10T16:12:41Z","updated_at":"2022-05-19T13:24:49Z","state":"open","title":"Bio-Formats Exporter can deadlock on OS X"}
+{"id":1206622136,"created_at":"2022-04-18T03:40:31Z","updated_at":"2022-04-18T03:40:31Z","state":"open","title":"artemis is not working"}
+{"id":1161750341,"created_at":"2022-03-07T18:04:09Z","updated_at":"2022-03-07T18:04:09Z","state":"open","title":"Allow taxon subforms to appear as grids"}
+{"id":1199913364,"created_at":"2022-04-11T12:39:22Z","updated_at":"2022-04-22T17:23:45Z","state":"open","title":"java.lang.IllegalArgumentException"}
+{"id":1182659076,"created_at":"2022-03-27T20:51:36Z","updated_at":"2022-03-30T02:50:42Z","state":"open","title":"Can't open GUI in Win7"}
+{"id":1226171408,"created_at":"2022-05-05T03:51:58Z","updated_at":"2022-05-05T03:52:11Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1188412794,"created_at":"2022-03-31T17:31:36Z","updated_at":"2022-03-31T17:31:36Z","state":"open","title":"Erro numero cae6b759c104792b16749305f9e3d30997e01592 v2.7.5"}
+{"id":1243153808,"created_at":"2022-05-20T13:30:33Z","updated_at":"2022-05-20T13:30:33Z","state":"open","title":"Error on MapStruct Support Intellij Plugin (Too many non-blocking read actions submitted at once)"}
+{"id":1205447107,"created_at":"2022-04-15T09:54:41Z","updated_at":"2022-04-15T09:54:41Z","state":"open","title":"导入依赖包，启动jmeter报错"}
+{"id":1250053626,"created_at":"2022-05-26T20:44:26Z","updated_at":"2022-05-27T10:57:36Z","state":"open","title":"IDE Error Report"}
+{"id":1232046510,"created_at":"2022-05-11T05:50:11Z","updated_at":"2022-05-25T03:36:07Z","state":"open","title":"ide 2022.1 失效了"}
+{"id":1246379213,"created_at":"2022-05-24T11:09:10Z","updated_at":"2022-05-27T02:27:16Z","state":"open","title":"error linking the native image - multiple definition of `jvm'"}
+{"id":1237812779,"created_at":"2022-05-16T22:34:24Z","updated_at":"2022-05-25T16:08:06Z","state":"open","title":"LaF doesn't remove listeners"}
+{"id":1174675579,"created_at":"2022-03-20T20:30:24Z","updated_at":"2022-03-24T03:17:44Z","state":"open","title":"Erro numero 654884d0fff731896c56d99abdcc6a4aa37e87aa v2.7.5"}
+{"id":1028318059,"created_at":"2021-10-17T13:03:44Z","updated_at":"2021-10-17T13:03:49Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1092069463,"created_at":"2022-01-02T18:00:21Z","updated_at":"2022-05-22T11:58:24Z","state":"open","title":"Global refactoring. New modules， unified package"}
+{"id":1194974515,"created_at":"2022-04-06T18:21:36Z","updated_at":"2022-04-06T18:33:00Z","state":"open","title":"2.6: GameDataUtils#lambda$translateIntoOtherGameData$3:85 - java.util.ConcurrentModificationException"}
+{"id":1240319281,"created_at":"2022-05-18T17:56:49Z","updated_at":"2022-05-20T19:11:24Z","state":"open","title":"Game freezes when window is closed on Mac on LibGDX 1.11.0 and LWJGL3"}
+{"id":1228906649,"created_at":"2022-05-08T14:46:54Z","updated_at":"2022-05-08T14:46:57Z","state":"open","title":"Bug Report 2022/05/08"}
+{"id":1080872413,"created_at":"2021-12-15T10:36:45Z","updated_at":"2021-12-15T10:36:46Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":704455136,"created_at":"2020-09-18T15:09:19Z","updated_at":"2020-10-21T12:51:59Z","state":"open","title":"[Patrick fragen: auch awt. ...?] statt import java.awt.* ， lieber Aufrufstelle mit java.awt. ... kennzeichnen"}
+{"id":671807107,"created_at":"2020-08-03T05:36:04Z","updated_at":"2022-04-11T00:06:47Z","state":"open","title":"Using Java AWT Fonts gives unsatisfiedlinkerror while running native image"}
+{"id":373245372,"created_at":"2018-10-23T23:37:02Z","updated_at":"2018-10-23T23:37:02Z","state":"open","title":"Advanced AWT"}
+{"id":861211969,"created_at":"2021-04-19T11:32:52Z","updated_at":"2021-04-23T12:49:17Z","state":"open","title":"Extend AWT support (Linux)"}
+{"id":1187909036,"created_at":"2022-03-31T11:04:51Z","updated_at":"2022-03-31T11:27:57Z","state":"open","title":"Android Studio clone does not work"}
+{"id":727933697,"created_at":"2020-10-23T05:49:38Z","updated_at":"2022-03-24T16:55:09Z","state":"open","title":"Add support for LWJGL3 inside an AWT Canvas"}
+{"id":654288944,"created_at":"2020-07-09T19:15:08Z","updated_at":"2022-04-25T10:29:20Z","state":"open","title":"GUI: IndexOutOfBoundsException"}
+{"id":632020934,"created_at":"2020-06-05T22:29:47Z","updated_at":"2021-03-16T06:15:28Z","state":"open","title":"Add java AWT support"}
+{"id":1139690044,"created_at":"2022-02-16T08:30:31Z","updated_at":"2022-04-08T09:52:24Z","state":"open","title":"Null Pointer on Start"}
+{"id":1041784203,"created_at":"2021-11-02T01:00:25Z","updated_at":"2022-05-23T17:22:42Z","state":"open","title":"8276266: Clean up incorrect client-libs ProblemList.txt entries"}
+{"id":1238690897,"created_at":"2022-05-17T14:00:47Z","updated_at":"2022-05-19T20:42:41Z","state":"open","title":"Error at each project change"}
+{"id":1216487242,"created_at":"2022-04-26T21:17:38Z","updated_at":"2022-04-26T21:17:38Z","state":"open","title":"Linux: Random NullPointerException"}
+{"id":591394398,"created_at":"2020-03-31T20:14:10Z","updated_at":"2022-04-08T20:43:41Z","state":"open","title":"Build 1.4.4 sun.swing.JLightweightFrame at line 276"}
+{"id":1154893541,"created_at":"2022-03-01T05:36:18Z","updated_at":"2022-03-01T12:50:04Z","state":"open","title":"importing from iso in jisis"}
+{"id":1184360308,"created_at":"2022-03-29T06:17:12Z","updated_at":"2022-03-29T06:17:12Z","state":"open","title":"如果接收参数是Integer[] 数组 会出现 null 异常"}
+{"id":10436386,"created_at":"2013-01-29T22:06:44Z","updated_at":"2013-01-29T22:06:44Z","state":"open","title":"Undesirable AWT/Swing dependency"}
+{"id":1193331657,"created_at":"2022-04-05T15:22:56Z","updated_at":"2022-04-06T03:11:14Z","state":"open","title":"Data sets can't be loaded in a Data box using Windows 10 Oracle java 8-123."}
+{"id":1176120006,"created_at":"2022-03-22T00:35:54Z","updated_at":"2022-03-26T13:49:52Z","state":"open","title":"Erro numero 8d4beefc89cf8ccdb920a6a5061d6550cbc83f8f v2.7.5"}
+{"id":1119649337,"created_at":"2022-01-31T16:26:20Z","updated_at":"2022-05-09T10:59:54Z","state":"open","title":"GRPC request: Unable to use ${} as a path for Proto Root and Library Directory directories."}
+{"id":1205167420,"created_at":"2022-04-15T01:46:44Z","updated_at":"2022-04-19T14:08:57Z","state":"open","title":"Not working as of 2.4"}
+{"id":1161853462,"created_at":"2022-03-07T19:51:49Z","updated_at":"2022-03-07T19:51:49Z","state":"open","title":"2.5.22294: ClientFileSystemHelper#getCodeSourceFolder:49 - java.lang.IllegalArgumentException"}
+{"id":849889682,"created_at":"2021-04-04T14:44:49Z","updated_at":"2022-05-15T18:47:26Z","state":"open","title":"StackTrace Error"}
+{"id":244848594,"created_at":"2017-07-22T13:55:47Z","updated_at":"2017-10-13T10:41:30Z","state":"open","title":"awt support"}
+{"id":864935181,"created_at":"2021-04-22T13:12:23Z","updated_at":"2022-05-17T06:34:47Z","state":"open","title":"Spontaneous Exception while idling"}
+{"id":441100463,"created_at":"2019-05-07T08:17:28Z","updated_at":"2019-05-08T00:09:49Z","state":"open","title":"Feature/awt carlos cifrado cesar"}
+{"id":440537205,"created_at":"2019-05-06T04:35:30Z","updated_at":"2019-05-06T17:53:46Z","state":"open","title":"Feature/awt carlos ean validation"}
+{"id":573455695,"created_at":"2020-03-01T01:58:19Z","updated_at":"2022-04-11T04:01:48Z","state":"open","title":"Bomb Bays Do Not Properly Transfer From MM to MHQ"}
+{"id":1163726008,"created_at":"2022-03-09T10:00:17Z","updated_at":"2022-03-09T14:08:53Z","state":"open","title":"Package Installer- While installing the package error - \"com.percussion.error.PSDeployException: Input document expected by server， none found.\" appeared"}
+{"id":1170217078,"created_at":"2022-03-15T20:34:50Z","updated_at":"2022-03-24T03:17:15Z","state":"open","title":"Erro numero 6de8e377e37cfd6d37f441157e21e42fe2106b5e v2.7.5"}
+{"id":1149037639,"created_at":"2022-02-24T09:12:41Z","updated_at":"2022-05-05T13:12:20Z","state":"open","title":"Tracerviewer 3.4.1 - Error \"UTF-8 has occurred while loading\" when opening trace file."}
+{"id":609256303,"created_at":"2020-04-29T18:12:36Z","updated_at":"2020-04-29T18:12:36Z","state":"open","title":"Generate awt.lib (.so) "}
+{"id":182438840,"created_at":"2016-10-12T05:30:48Z","updated_at":"2017-12-27T04:03:38Z","state":"open","title":"Whitelist review: Java AWT"}
+{"id":263931600,"created_at":"2017-10-09T15:15:35Z","updated_at":"2017-10-09T15:15:35Z","state":"open","title":"Swing vs AWT"}
+{"id":1230633811,"created_at":"2022-05-10T05:24:28Z","updated_at":"2022-05-10T05:24:28Z","state":"open","title":"com.intellij.openapi.project.IndexNotReadyException: Please change caller according to com.intellij.openapi.project.IndexNotReadyException documentation at com.intellij.openapi.project.IndexNotReadyException.create(IndexNotReadyException.java:67)"}
+{"id":1195697329,"created_at":"2022-04-07T08:27:39Z","updated_at":"2022-05-01T00:03:48Z","state":"open","title":"Plugin not working in PyCharm 2022.1 EAP"}
+{"id":709533633,"created_at":"2020-09-26T13:00:58Z","updated_at":"2020-09-29T07:54:00Z","state":"open","title":"AWT-EventQueue-0"}
+{"id":1177254805,"created_at":"2022-03-22T20:11:58Z","updated_at":"2022-03-22T20:11:59Z","state":"open","title":"2.5.22294: GameXmlWriter#exportXml:17 - java.lang.NoClassDefFoundError"}
+{"id":25007022,"created_at":"2014-01-03T09:24:43Z","updated_at":"2014-01-03T09:24:43Z","state":"open","title":"Remove dependency on AWT"}
+{"id":1164300564,"created_at":"2022-03-09T18:35:47Z","updated_at":"2022-03-09T19:06:26Z","state":"open","title":"Local jdeploy crashes"}
+{"id":1160983343,"created_at":"2022-03-07T06:58:43Z","updated_at":"2022-03-07T06:58:43Z","state":"open","title":"java.lang.IndexOutOfBoundsException (error attempting to autostart remotelight on startup)"}
+{"id":1185035349,"created_at":"2022-03-29T15:20:41Z","updated_at":"2022-03-30T16:34:50Z","state":"open","title":"Enigma crashes when clicking outside of search box"}
+{"id":1222342526,"created_at":"2022-05-02T00:22:34Z","updated_at":"2022-05-02T00:22:34Z","state":"open","title":"Not compatable with Rider 2021.1"}
+{"id":1176159472,"created_at":"2022-03-22T01:43:20Z","updated_at":"2022-03-22T01:43:20Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":84868130,"created_at":"2015-06-04T02:24:31Z","updated_at":"2015-06-04T02:24:31Z","state":"open","title":"Error [AWT-EventQueue-0] "}
+{"id":128091076,"created_at":"2016-01-22T06:05:59Z","updated_at":"2016-01-29T11:42:28Z","state":"open","title":"gwt-awt issue"}
+{"id":1149689945,"created_at":"2022-02-24T19:56:21Z","updated_at":"2022-04-29T00:57:18Z","state":"open","title":"CLion 2022.1 EAP: IllegalStateException: You must not register toolwindow programmatically so early."}
+{"id":1159369148,"created_at":"2022-03-04T08:16:45Z","updated_at":"2022-03-04T08:16:45Z","state":"open","title":"RIDER IDE: Azure DevOps throws java.lang.NullPointerException"}
+{"id":1198757962,"created_at":"2022-04-09T20:06:26Z","updated_at":"2022-04-09T20:06:26Z","state":"open","title":"Deobfuscation failed. Please open a ticket"}
+{"id":1187607773,"created_at":"2022-03-31T07:00:10Z","updated_at":"2022-03-31T07:00:10Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1199124721,"created_at":"2022-04-10T17:50:45Z","updated_at":"2022-05-03T02:26:32Z","state":"open","title":"RAM consumption for large images"}
+{"id":1173538307,"created_at":"2022-03-18T12:28:17Z","updated_at":"2022-03-18T12:28:17Z","state":"open","title":"Do not allow the \"Roll for token\" button to be clicked on when the game starts"}
+{"id":1149142786,"created_at":"2022-02-24T10:56:52Z","updated_at":"2022-02-24T10:56:52Z","state":"open","title":"java.lang.Throwable: Assertion failed: dataContext has no component for new ListPopupStep"}
+{"id":917521588,"created_at":"2021-06-10T16:04:27Z","updated_at":"2022-03-15T00:23:57Z","state":"open","title":"2.5.22294: ProductionPanel#show:114 - java.lang.NullPointerException"}
+{"id":482936690,"created_at":"2019-08-20T15:37:17Z","updated_at":"2019-08-20T15:38:35Z","state":"open","title":"java.awt/README/"}
+{"id":73351523,"created_at":"2015-05-05T15:47:21Z","updated_at":"2015-05-05T15:47:21Z","state":"open","title":"Error [AWT-EventQueue-0] "}
+{"id":1264817,"created_at":"2011-07-21T18:01:03Z","updated_at":"2011-07-21T18:01:03Z","state":"open","title":"Update AWT user interface"}
+{"id":188388802,"created_at":"2016-11-10T00:30:30Z","updated_at":"2016-12-13T03:00:54Z","state":"open","title":"uses java.awt"}
+{"id":649731756,"created_at":"2020-07-02T08:15:09Z","updated_at":"2022-04-11T09:51:46Z","state":"open","title":"InvalidPathExceptions (\\\\?\\D:\\...)"}
+{"id":232384877,"created_at":"2017-05-30T21:17:24Z","updated_at":"2017-05-30T21:22:59Z","state":"open","title":"AWT Text Quality Regression"}
+{"id":74114157,"created_at":"2015-05-07T20:21:07Z","updated_at":"2015-05-07T20:21:07Z","state":"open","title":"Error [AWT-EventQueue-0] "}
+{"id":1102247,"created_at":"2011-06-23T03:55:22Z","updated_at":"2011-12-07T00:02:11Z","state":"open","title":"AWT Permissions Denied"}
+{"id":1163712285,"created_at":"2022-03-09T09:47:07Z","updated_at":"2022-03-09T14:11:26Z","state":"open","title":"While login Package Builder error \"Exception in thread \"AWT-EventQueue-0\" java.lang.IllegalArgumentException: Algorithm not supported\" appeared."}
+{"id":1178112750,"created_at":"2022-03-23T13:18:24Z","updated_at":"2022-03-23T13:18:24Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":243249332,"created_at":"2017-07-16T16:11:58Z","updated_at":"2019-06-25T14:01:53Z","state":"open","title":"Remove dependency on awt"}
+{"id":79050295,"created_at":"2015-05-21T15:42:48Z","updated_at":"2015-05-21T15:42:48Z","state":"open","title":"Error [AWT-EventQueue-0] "}
+{"id":77396195,"created_at":"2015-05-17T20:52:32Z","updated_at":"2015-05-17T20:52:32Z","state":"open","title":"Error [AWT-EventQueue-0] "}
+{"id":139362076,"created_at":"2016-03-08T18:55:58Z","updated_at":"2016-03-08T18:56:33Z","state":"open","title":"Remove AWT dependency"}
+{"id":742964381,"created_at":"2020-11-14T09:00:41Z","updated_at":"2022-03-21T20:46:13Z","state":"open","title":"2.5.22294: MapPanel#notifyTerritorySelected:491 - java.util.ConcurrentModificationException"}
+{"id":97348067,"created_at":"2015-07-26T20:37:05Z","updated_at":"2015-07-26T20:37:05Z","state":"open","title":"Error [AWT-EventQueue-0] "}
+{"id":107506996,"created_at":"2015-09-21T13:02:28Z","updated_at":"2016-05-23T00:28:08Z","state":"open","title":"Remove awt dependencies"}
+{"id":1226436711,"created_at":"2022-05-05T09:36:48Z","updated_at":"2022-05-05T09:36:48Z","state":"open","title":"*** exception class was changed or removed"}
+{"id":1212642131,"created_at":"2022-04-22T18:07:23Z","updated_at":"2022-04-22T18:07:23Z","state":"open","title":"Adding stroke(outlines) to new text "}
+{"id":617870178,"created_at":"2020-05-14T02:10:36Z","updated_at":"2020-05-14T02:10:36Z","state":"open","title":"\"Java.awt.Color\""}
+{"id":1127678773,"created_at":"2022-02-08T19:38:11Z","updated_at":"2022-02-08T19:38:11Z","state":"open","title":"2.5.22294: ImageScrollerLargeView#lambda$new$0:103 - java.lang.NullPointerException"}
+{"id":1147502209,"created_at":"2022-02-23T00:27:25Z","updated_at":"2022-02-23T00:27:26Z","state":"open","title":"2.6.581: GameSetting#getValueOrThrow:43 - java.util.NoSuchElementException"}
+{"id":1147487133,"created_at":"2022-02-23T00:00:32Z","updated_at":"2022-02-23T00:00:32Z","state":"open","title":"2.5.22294: GameSetting#getValueOrThrow:43 - java.util.NoSuchElementException"}
+{"id":21601604,"created_at":"2013-10-25T16:36:54Z","updated_at":"2016-07-20T20:17:35Z","state":"open","title":"Clean up AWT dependencies"}
+{"id":88663352,"created_at":"2015-06-16T08:52:59Z","updated_at":"2015-06-16T08:52:59Z","state":"open","title":"Error [AWT-EventQueue-0] "}
+{"id":1198700388,"created_at":"2022-04-09T16:10:25Z","updated_at":"2022-04-24T15:18:22Z","state":"open","title":"Refactor/rename a rule name can cause NPE"}
+{"id":1148985327,"created_at":"2022-02-24T08:12:45Z","updated_at":"2022-02-24T10:43:22Z","state":"open","title":"NoSuchMethodError: fiji.plugin.trackmate.Settings.setFrom(Lij/ImagePlus;)V"}
+{"id":1201489072,"created_at":"2022-04-12T09:15:09Z","updated_at":"2022-04-22T14:36:02Z","state":"open","title":"Clion crash: java.lang.Throwable: Assertion failed: assert !app.isDispatchThread()"}
+{"id":1137196905,"created_at":"2022-02-14T11:58:36Z","updated_at":"2022-02-14T11:58:37Z","state":"open","title":"2.6.574: MapPanel#lambda$paint$8:736 - java.lang.OutOfMemoryError"}
+{"id":731363609,"created_at":"2020-10-28T11:38:15Z","updated_at":"2022-05-16T12:39:14Z","state":"open","title":"Fixed handling of svgs in PolygonSymbolizer"}
+{"id":1247955556,"created_at":"2022-05-25T11:27:31Z","updated_at":"2022-05-25T17:57:56Z","state":"open","title":"JHelioviewer not responding"}
+{"id":1160392871,"created_at":"2022-03-05T16:30:38Z","updated_at":"2022-03-05T16:30:38Z","state":"open","title":"Clion 2021.3， Assertion failed: dataContext has no component for new ListPopupStep"}
+{"id":1154795253,"created_at":"2022-03-01T03:01:41Z","updated_at":"2022-04-14T15:32:44Z","state":"open","title":"AssertionError in Type.getClassName when calling GroovifiedTextifier"}
+{"id":1030213082,"created_at":"2021-10-19T11:55:16Z","updated_at":"2021-10-22T06:14:58Z","state":"open","title":"AWT Windows linker invocations lack /MACHINE"}
+{"id":1168316169,"created_at":"2022-03-14T12:35:45Z","updated_at":"2022-03-14T12:36:25Z","state":"open","title":"Package Installer- Exception in thread \"AWT-EventQueue-0\" java.lang.IllegalArgumentException: Algorithm not supported appear while launching Package Installer"}
+{"id":1105549271,"created_at":"2022-01-17T08:55:25Z","updated_at":"2022-05-25T08:45:40Z","state":"open","title":"Move SettingsDialog and ErrorDialog in jme3-awt-dialogs module"}
+{"id":665605324,"created_at":"2020-07-25T15:33:39Z","updated_at":"2020-10-21T19:29:16Z","state":"open","title":"layout algorithms without awt imports"}
+{"id":471680742,"created_at":"2019-07-23T12:55:39Z","updated_at":"2020-10-03T11:38:10Z","state":"open","title":"Adding AWT Component Rendering capabilities"}
+{"id":1170650929,"created_at":"2022-03-16T07:39:21Z","updated_at":"2022-05-16T21:25:49Z","state":"open","title":"8282863: java/awt/FullScreen/FullscreenWindowProps/FullscreenWindowProps.java fails on Windows 10 with HiDPI screen"}
+{"id":1110844630,"created_at":"2022-01-21T19:51:09Z","updated_at":"2022-01-21T19:58:36Z","state":"open","title":"Bring in java.awt.Color (or similar) to color code"}
+{"id":1142030452,"created_at":"2022-02-17T23:02:49Z","updated_at":"2022-02-17T23:02:49Z","state":"open","title":"Update-Probleme beim Laden der Einstellungen"}
+{"id":166612156,"created_at":"2016-07-20T15:35:20Z","updated_at":"2018-11-08T11:30:06Z","state":"open","title":"Embedding processing inside AWT Canvas"}
+{"id":244950306,"created_at":"2017-07-24T01:13:40Z","updated_at":"2018-03-07T12:37:58Z","state":"open","title":"provide simple non-AWT example"}
+{"id":140472837,"created_at":"2016-03-13T10:26:08Z","updated_at":"2016-03-13T10:26:08Z","state":"open","title":"Add an AWT update queue"}
+{"id":1160036131,"created_at":"2022-03-04T20:44:07Z","updated_at":"2022-03-15T21:43:46Z","state":"open","title":"Assertion failed: dataContext has no component for new ListPopupStep"}
+{"id":1213492160,"created_at":"2022-04-24T00:59:45Z","updated_at":"2022-04-25T16:34:57Z","state":"open","title":"Error getting Flutter sdk information."}
+{"id":1178715407,"created_at":"2022-03-23T22:01:08Z","updated_at":"2022-03-24T03:23:06Z","state":"open","title":"Erro ao chamar funcao sorteia sem biblioteca dentro de um vetor"}
+{"id":1209429143,"created_at":"2022-04-20T09:35:22Z","updated_at":"2022-04-20T09:35:49Z","state":"open","title":"Colorblind support"}
+{"id":1155016606,"created_at":"2022-03-01T08:20:44Z","updated_at":"2022-03-02T09:25:22Z","state":"open","title":"OpenJDK 17 启动异常"}
+{"id":831503004,"created_at":"2021-03-15T07:18:18Z","updated_at":"2022-04-16T20:36:36Z","state":"open","title":"Exception in thread \"AWT-EventQueue-0\" java.lang.NullPointerException"}
+{"id":1137472125,"created_at":"2022-02-14T15:31:38Z","updated_at":"2022-02-14T15:31:39Z","state":"open","title":"2.1.20365: UnitImageFactory#lambda$getImageDimensions$3:301 - RuntimeException"}
+{"id":1168819465,"created_at":"2022-03-14T19:35:29Z","updated_at":"2022-03-14T19:35:29Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":995090197,"created_at":"2021-09-13T16:27:07Z","updated_at":"2022-05-22T19:20:17Z","state":"open","title":"ArrayIndexOutOfBoundsException in prebuilt distributable"}
+{"id":1153949168,"created_at":"2022-02-28T11:03:01Z","updated_at":"2022-02-28T11:03:14Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1208001819,"created_at":"2022-04-19T08:46:28Z","updated_at":"2022-04-22T07:34:45Z","state":"open","title":"[Bug] Throwable: The method designed for fully qualified names only. Got \"array|null\""}
+{"id":1188368551,"created_at":"2022-03-31T16:51:35Z","updated_at":"2022-04-22T09:54:02Z","state":"open","title":"IDE Error Report"}
+{"id":1179918830,"created_at":"2022-03-24T18:54:43Z","updated_at":"2022-03-24T18:54:43Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1238051290,"created_at":"2022-05-17T04:33:26Z","updated_at":"2022-05-18T01:48:14Z","state":"open","title":"JBR 17 release  question and solution  collection"}
+{"id":607092088,"created_at":"2020-04-26T19:21:38Z","updated_at":"2020-04-26T19:22:34Z","state":"open","title":"java.awt.event.*;"}
+{"id":868381459,"created_at":"2021-04-27T02:33:14Z","updated_at":"2021-05-10T01:40:37Z","state":"open","title":"java.awt.HeadlessException: null"}
+{"id":225107949,"created_at":"2017-04-28T15:03:26Z","updated_at":"2022-04-09T12:57:30Z","state":"open","title":"Modal window for \"create symfony service\" hint does not open - exception"}
+{"id":453282281,"created_at":"2019-06-06T23:39:00Z","updated_at":"2019-06-06T23:39:00Z","state":"open","title":"Occasional java.awt.IllegalComponentStateException"}
+{"id":118220810,"created_at":"2015-11-21T21:11:15Z","updated_at":"2015-12-15T11:50:56Z","state":"open","title":"Remove AWT dependency"}
+{"id":66960275,"created_at":"2015-04-07T18:25:30Z","updated_at":"2015-04-07T18:25:30Z","state":"open","title":"Error [AWT-EventQueue-0] "}
+{"id":1125006459,"created_at":"2022-02-05T19:00:30Z","updated_at":"2022-02-13T12:00:13Z","state":"open","title":"Suddenly stops downloading"}
+{"id":1131543905,"created_at":"2022-02-11T02:49:43Z","updated_at":"2022-03-12T06:59:42Z","state":"open","title":"Client Shows No Cards or Player Info After A Crash"}
+{"id":1148953829,"created_at":"2022-02-24T07:30:21Z","updated_at":"2022-02-24T07:30:21Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1087082573,"created_at":"2021-12-22T18:37:15Z","updated_at":"2022-05-16T23:37:40Z","state":"open","title":"incompatible serialized files between 2.x and 3.x versions (tested while upgrading to java 17)"}
+{"id":1170645189,"created_at":"2022-03-16T07:31:57Z","updated_at":"2022-03-16T07:31:57Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1088724538,"created_at":"2021-12-26T08:37:03Z","updated_at":"2021-12-26T08:37:03Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1125735559,"created_at":"2022-02-07T09:34:20Z","updated_at":"2022-02-07T12:31:42Z","state":"open","title":"插件报错"}
+{"id":1146858577,"created_at":"2022-02-22T12:36:37Z","updated_at":"2022-02-22T12:36:37Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1028383791,"created_at":"2021-10-17T17:06:49Z","updated_at":"2021-11-23T11:24:59Z","state":"open","title":"Integrate 3D scene in an AWT canvas"}
+{"id":787664023,"created_at":"2021-01-17T09:08:21Z","updated_at":"2021-02-01T15:53:11Z","state":"open","title":"java.awt is not implemented?"}
+{"id":1092102729,"created_at":"2022-01-02T21:18:09Z","updated_at":"2022-03-06T23:24:26Z","state":"open","title":"Rendering/Encoding MIDI files to wav not providing expected results."}
+{"id":1239635242,"created_at":"2022-05-18T08:49:21Z","updated_at":"2022-05-18T16:25:07Z","state":"open","title":"HSB/HSV Farbraum erlauben"}
+{"id":925764765,"created_at":"2021-06-21T02:34:33Z","updated_at":"2022-04-08T08:34:36Z","state":"open","title":"liblwjgl.so"}
+{"id":1146310423,"created_at":"2022-02-21T23:37:39Z","updated_at":"2022-02-22T20:45:00Z","state":"open","title":"Erro numero 5b966ea25d8061c71e284db2664fdad3451b41e9 v2.7.5"}
+{"id":1245670699,"created_at":"2022-05-23T20:37:21Z","updated_at":"2022-05-23T20:37:21Z","state":"open","title":"An illegal reflective access operation has occurred"}
+{"id":1179877699,"created_at":"2022-03-24T18:21:50Z","updated_at":"2022-03-24T18:21:50Z","state":"open","title":"java.io.InvalidClassException: javax.swing.text.JTextComponent; local class incompatible: stream classdesc serialVersionUID = -8043358055867187832， local class serialVersionUID = -7141373156355680543"}
+{"id":1169772941,"created_at":"2022-03-15T14:45:21Z","updated_at":"2022-03-15T15:25:26Z","state":"open","title":"Portable Case report string index out of range -1"}
+{"id":1243863172,"created_at":"2022-05-21T04:18:02Z","updated_at":"2022-05-21T04:18:08Z","state":"open","title":"Error when saving preferences when background is an image"}
+{"id":1196078732,"created_at":"2022-04-07T13:48:21Z","updated_at":"2022-05-24T12:10:56Z","state":"open","title":"Problem with IntelliJ and Spring Javaformat 0.0.31"}
+{"id":285254093,"created_at":"2017-12-31T12:01:41Z","updated_at":"2017-12-31T12:01:59Z","state":"open","title":"convert from awt to swing"}
+{"id":127068730,"created_at":"2016-01-17T01:53:08Z","updated_at":"2016-01-17T01:53:08Z","state":"open","title":"Add an AWT update queue"}
+{"id":873717466,"created_at":"2021-05-01T16:38:15Z","updated_at":"2021-05-01T16:38:15Z","state":"open","title":"Use dorkbox SystemTray instead of awt SystemTray"}
+{"id":1235316701,"created_at":"2022-05-13T14:25:29Z","updated_at":"2022-05-20T18:05:29Z","state":"open","title":"Opening a new project window "}
+{"id":1118613319,"created_at":"2022-01-30T17:28:40Z","updated_at":"2022-05-27T19:36:38Z","state":"open","title":"Add snap package"}
+{"id":1193638817,"created_at":"2022-04-05T19:40:24Z","updated_at":"2022-05-09T13:01:20Z","state":"open","title":"macOS m1 failed build"}
+{"id":1007854968,"created_at":"2021-09-27T08:28:41Z","updated_at":"2021-10-26T15:35:14Z","state":"open","title":"Compilation of awt classes like java.awt.Color fail since upgrade to version 3.1.0"}
+{"id":993056950,"created_at":"2021-09-10T09:28:15Z","updated_at":"2021-09-13T07:41:08Z","state":"open","title":"Eliminate dependency on Swing and call to invokeLater"}
+{"id":141239651,"created_at":"2016-03-16T11:09:08Z","updated_at":"2016-03-16T11:09:09Z","state":"open","title":"Add an AWT update queue"}
+{"id":213669073,"created_at":"2017-03-13T04:05:43Z","updated_at":"2017-03-13T04:11:25Z","state":"open","title":"blast2lca gives X11 missing error"}
+{"id":227567153,"created_at":"2017-05-10T04:55:33Z","updated_at":"2017-05-10T04:55:33Z","state":"open","title":"Java swing， Java awt 학습"}
+{"id":226288150,"created_at":"2017-05-04T13:53:20Z","updated_at":"2017-05-04T14:12:54Z","state":"open","title":"AWT.JFrame on server?"}
+{"id":1205599398,"created_at":"2022-04-15T13:57:39Z","updated_at":"2022-05-02T06:07:49Z","state":"open","title":"phpstorm 2022.1"}
+{"id":1173200659,"created_at":"2022-03-18T05:23:10Z","updated_at":"2022-03-18T05:23:10Z","state":"open","title":"[auto-generated:7479e619] Unspecified error"}

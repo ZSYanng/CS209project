@@ -1,0 +1,200 @@
+{"id":1242416659,"created_at":"2022-05-19T23:10:20Z","updated_at":"2022-05-19T23:12:02Z","state":"open","title":"swing concurrency fixes"}
+{"id":1248938812,"created_at":"2022-05-26T00:19:38Z","updated_at":"2022-05-26T00:19:38Z","state":"open","title":"Swing for GUI"}
+{"id":1239511313,"created_at":"2022-04-20T09:19:21Z","updated_at":"2022-05-18T16:06:28Z","state":"open","title":"Swing theme"}
+{"id":1235312368,"created_at":"2022-05-13T14:21:49Z","updated_at":"2022-05-13T14:21:49Z","state":"open","title":"Use only swing for graphics"}
+{"id":1223923525,"created_at":"2022-05-03T10:29:21Z","updated_at":"2022-05-24T12:28:15Z","state":"open","title":"Issue 210: javax.swing.JComponent: ArrayIndexOutOfBoundsException"}
+{"id":1204177361,"created_at":"2022-04-14T08:02:16Z","updated_at":"2022-04-14T08:02:22Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1221336298,"created_at":"2022-04-29T17:37:29Z","updated_at":"2022-04-29T17:37:29Z","state":"open","title":"Adicionando menu com o java swing"}
+{"id":1213711266,"created_at":"2022-04-24T17:11:19Z","updated_at":"2022-05-25T20:21:08Z","state":"open","title":"Redo Javax Swing GUI as AngularJS frontend"}
+{"id":822250455,"created_at":"2021-03-04T15:40:56Z","updated_at":"2022-05-03T08:20:41Z","state":"open","title":"javax.swing.JComponent: ArrayIndexOutOfBoundsException"}
+{"id":1061610490,"created_at":"2021-11-23T18:53:54Z","updated_at":"2021-11-30T04:35:46Z","state":"open","title":"Swing"}
+{"id":1244799354,"created_at":"2022-05-23T08:48:27Z","updated_at":"2022-05-23T08:48:27Z","state":"open","title":"Disabled broken test cases for SWING Test suite"}
+{"id":1203141998,"created_at":"2022-04-13T11:02:05Z","updated_at":"2022-05-18T08:37:02Z","state":"open","title":"8284767: Create an automated test for JDK-4422535"}
+{"id":1180459550,"created_at":"2022-03-25T07:52:38Z","updated_at":"2022-03-25T07:52:38Z","state":"open","title":"Swing picture quality"}
+{"id":1172993215,"created_at":"2022-03-17T22:37:36Z","updated_at":"2022-03-17T22:37:36Z","state":"open","title":"Why cant I swing?"}
+{"id":1182919506,"created_at":"2022-03-28T05:44:02Z","updated_at":"2022-05-02T02:32:13Z","state":"open","title":"swing: Make tooltips have infinite duration"}
+{"id":1230421761,"created_at":"2022-05-09T23:57:58Z","updated_at":"2022-05-12T19:03:05Z","state":"open","title":"2.5.22294: HeadedGameRunner - 4 >= 1"}
+{"id":1232083872,"created_at":"2022-05-11T06:37:29Z","updated_at":"2022-05-23T06:04:14Z","state":"open","title":"8130895: Test javax/swing/system/6799345/TestShutdown.java fails on Solaris11 Sparcv9"}
+{"id":1166921067,"created_at":"2022-03-11T22:04:24Z","updated_at":"2022-03-11T22:04:24Z","state":"open","title":"Trapdoor Swing Motion [REQUEST]"}
+{"id":1245802813,"created_at":"2022-05-23T23:33:21Z","updated_at":"2022-05-23T23:33:21Z","state":"open","title":"check into using SWT instead of AWT/Swing"}
+{"id":772898511,"created_at":"2020-12-22T12:09:50Z","updated_at":"2022-04-11T13:24:49Z","state":"open","title":"AWT & Swing on Windows"}
+{"id":1230214414,"created_at":"2022-05-09T20:26:01Z","updated_at":"2022-05-13T15:15:10Z","state":"open","title":"0.8.0"}
+{"id":1218624115,"created_at":"2022-04-28T11:59:45Z","updated_at":"2022-05-27T20:31:09Z","state":"open","title":"8213531: Test javax/swing/border/TestTitledBorderLeak.java fails"}
+{"id":1243929757,"created_at":"2022-05-21T09:39:24Z","updated_at":"2022-05-21T09:40:06Z","state":"open","title":"no arrow keys for BSBs"}
+{"id":340029657,"created_at":"2018-07-10T22:31:36Z","updated_at":"2022-04-16T15:18:58Z","state":"open","title":"Update Bonus_Details.java"}
+{"id":1229050930,"created_at":"2022-05-09T01:22:47Z","updated_at":"2022-05-11T13:57:33Z","state":"open","title":"FlatLaf causes ArrayIndexOutOfBoundsException ONLY on Linux"}
+{"id":1240251412,"created_at":"2022-05-18T17:11:25Z","updated_at":"2022-05-19T20:06:23Z","state":"open","title":"[Commands & Colors Ancients] NullPointerException: Cannot invoke \"String.isBlank()\" because \"file\" is null"}
+{"id":1199093197,"created_at":"2022-04-10T16:34:41Z","updated_at":"2022-04-10T16:39:32Z","state":"open","title":"Adds a clickable swing task monitor progress bar to imagej legacy ui"}
+{"id":262006231,"created_at":"2017-10-02T07:54:29Z","updated_at":"2017-10-02T07:54:29Z","state":"open","title":"Swing"}
+{"id":34736635,"created_at":"2014-06-01T20:57:02Z","updated_at":"2014-07-04T14:42:45Z","state":"open","title":"Swing"}
+{"id":1250527935,"created_at":"2022-05-27T09:08:15Z","updated_at":"2022-05-27T09:35:24Z","state":"open","title":"[SP-6144] Backport of PDI-19514 - Spoon fires queries on opening or e…"}
+{"id":1221385559,"created_at":"2022-04-29T18:28:17Z","updated_at":"2022-04-29T22:44:05Z","state":"open","title":"Add protocol support for AutoBone and migrate old Swing GUI"}
+{"id":1026435106,"created_at":"2021-10-14T13:58:22Z","updated_at":"2021-10-14T13:58:22Z","state":"open","title":"Swing"}
+{"id":1171057787,"created_at":"2022-03-16T13:53:42Z","updated_at":"2022-03-16T13:53:42Z","state":"open","title":"Technical debt: AWT to swing"}
+{"id":1112199825,"created_at":"2022-01-24T05:46:02Z","updated_at":"2022-01-24T05:46:02Z","state":"open","title":"Swing App"}
+{"id":1234258896,"created_at":"2022-05-12T17:00:59Z","updated_at":"2022-05-12T17:00:59Z","state":"open","title":"[Swing]JFrameのウィンドウサイズを変更する"}
+{"id":1235962645,"created_at":"2022-05-14T12:31:13Z","updated_at":"2022-05-14T12:31:22Z","state":"open","title":"ToolBar: hover effect for button groups"}
+{"id":1250227030,"created_at":"2022-05-27T00:58:21Z","updated_at":"2022-05-27T00:58:22Z","state":"open","title":"2.5.22294: BattleCalculatorDialog#addDefenders:115 - java.lang.NullPointerException"}
+{"id":1225085570,"created_at":"2022-05-04T08:50:55Z","updated_at":"2022-05-19T11:37:06Z","state":"open","title":"添加Armv8，Mars"}
+{"id":473937753,"created_at":"2019-07-29T09:10:50Z","updated_at":"2022-03-16T22:02:46Z","state":"open","title":"Autocompletion window (Fx & Swing)"}
+{"id":1189035778,"created_at":"2022-04-01T00:17:28Z","updated_at":"2022-04-18T22:24:14Z","state":"open","title":"NPE Parsing javax.swing.DefaultListModel.java"}
+{"id":1243934461,"created_at":"2022-05-21T10:02:47Z","updated_at":"2022-05-21T10:03:25Z","state":"open","title":"tooltips are not shown"}
+{"id":1096902682,"created_at":"2022-01-08T11:19:00Z","updated_at":"2022-03-18T20:47:31Z","state":"open","title":"Looking for AssertJ Swing committers"}
+{"id":1239015138,"created_at":"2022-05-17T18:31:23Z","updated_at":"2022-05-28T00:48:41Z","state":"open","title":"8194873: right ALT key hotkeys no longer work in Swing components"}
+{"id":1182002709,"created_at":"2022-03-26T19:21:12Z","updated_at":"2022-03-26T19:21:12Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1174960209,"created_at":"2013-11-20T20:04:10Z","updated_at":"2022-03-21T07:02:23Z","state":"open","title":"Swing Internationalization [sf#16]"}
+{"id":1220026346,"created_at":"2022-04-29T06:50:44Z","updated_at":"2022-05-09T02:46:37Z","state":"open","title":"Problem with font"}
+{"id":1206371686,"created_at":"2022-04-17T13:11:43Z","updated_at":"2022-04-17T13:12:51Z","state":"open","title":"Improve vertical centering of FlatLAF buttons on Windows"}
+{"id":1229511548,"created_at":"2022-05-09T10:37:53Z","updated_at":"2022-05-11T13:59:28Z","state":"open","title":"Use kotlinx-coroutines for UI launcher"}
+{"id":1059448404,"created_at":"2021-11-21T18:14:31Z","updated_at":"2021-11-22T09:01:05Z","state":"open","title":"Swing interface"}
+{"id":1248985236,"created_at":"2022-05-26T01:39:33Z","updated_at":"2022-05-27T22:44:05Z","state":"open","title":"Added Dagger to ComposerSearch"}
+{"id":1046756439,"created_at":"2021-11-07T14:08:19Z","updated_at":"2022-05-18T01:17:04Z","state":"open","title":"[Suggestion & Bug] Config values & Swing bug"}
+{"id":979080380,"created_at":"2021-08-25T12:20:36Z","updated_at":"2021-11-06T02:17:38Z","state":"open","title":"WIP: Swing chat"}
+{"id":642375020,"created_at":"2020-06-20T13:22:39Z","updated_at":"2020-06-20T13:22:39Z","state":"open","title":"Swing#2"}
+{"id":429956152,"created_at":"2019-04-05T22:23:06Z","updated_at":"2020-05-16T20:00:55Z","state":"open","title":"Swing"}
+{"id":1247518275,"created_at":"2022-05-25T05:48:27Z","updated_at":"2022-05-25T05:48:28Z","state":"open","title":"Bump spring-core from 5.3.19 to 5.3.20 in /project-xml-swing"}
+{"id":1247544142,"created_at":"2022-05-25T06:13:27Z","updated_at":"2022-05-25T06:13:28Z","state":"open","title":"Bump spring-core from 4.2.6.RELEASE to 5.2.22.RELEASE in /oim-swing"}
+{"id":1249256219,"created_at":"2022-05-26T08:19:51Z","updated_at":"2022-05-26T08:19:51Z","state":"open","title":"IDE Error Report (v4.0.0)"}
+{"id":524064400,"created_at":"2019-11-17T23:12:31Z","updated_at":"2019-11-17T23:12:31Z","state":"open","title":"Swing display"}
+{"id":1241192014,"created_at":"2022-05-19T04:29:05Z","updated_at":"2022-05-19T21:08:20Z","state":"open","title":"2.5.22294: JFrameBuilder#getGameIcon:106 - java.nio.file.FileSystemException"}
+{"id":1140829840,"created_at":"2022-02-17T03:23:04Z","updated_at":"2022-02-17T03:27:16Z","state":"open","title":"Update java-swing-app-1.iml"}
+{"id":1246178515,"created_at":"2022-05-24T08:28:57Z","updated_at":"2022-05-25T02:55:53Z","state":"open","title":"8286846: test/jdk/javax/swing/plaf/aqua/CustomComboBoxFocusTest.java fails on mac aarch64"}
+{"id":1198824181,"created_at":"2022-04-10T00:59:05Z","updated_at":"2022-04-10T00:59:05Z","state":"open","title":"swap table on an empty table"}
+{"id":1022977761,"created_at":"2021-10-11T18:01:10Z","updated_at":"2021-10-11T18:01:10Z","state":"open","title":"Lab2. Quizer Swing"}
+{"id":1180252958,"created_at":"2022-03-25T01:57:30Z","updated_at":"2022-03-25T01:57:30Z","state":"open","title":"Add file choosers"}
+{"id":1167152707,"created_at":"2022-03-12T02:37:57Z","updated_at":"2022-03-20T03:06:29Z","state":"open","title":"remove qt dependency from launcher"}
+{"id":1239279884,"created_at":"2022-05-18T00:08:31Z","updated_at":"2022-05-20T06:58:17Z","state":"open","title":"Breaking Blocks "}
+{"id":1243616735,"created_at":"2022-05-20T20:53:05Z","updated_at":"2022-05-20T20:53:06Z","state":"open","title":"Bump gson from 2.6.2 to 2.8.9 in /oim-swing"}
+{"id":318435119,"created_at":"2018-04-27T14:39:56Z","updated_at":"2018-04-27T14:39:56Z","state":"open","title":"swing"}
+{"id":1204925444,"created_at":"2022-04-14T20:00:07Z","updated_at":"2022-04-14T20:06:28Z","state":"open","title":"problem launching fetchRandomUserList 2nd time in java swing"}
+{"id":1186301732,"created_at":"2022-03-30T11:15:26Z","updated_at":"2022-04-19T09:59:14Z","state":"open","title":"Copy-Paste hangs terminator OL8"}
+{"id":1223690596,"created_at":"2022-05-03T04:48:44Z","updated_at":"2022-05-03T04:48:44Z","state":"open","title":"java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 at gui.toolwindow.view.BugTreePanel.scrollToPreviewSource(BugTreePanel.java:148)"}
+{"id":467403146,"created_at":"2019-07-12T13:03:26Z","updated_at":"2020-01-06T06:22:15Z","state":"open","title":"Java Swing"}
+{"id":301253808,"created_at":"2018-03-01T02:15:02Z","updated_at":"2018-03-01T02:16:44Z","state":"open","title":"Swing -> JavaFX"}
+{"id":493646390,"created_at":"2019-09-14T17:25:20Z","updated_at":"2019-09-14T17:25:20Z","state":"open","title":"swing"}
+{"id":1248766608,"created_at":"2022-05-25T21:40:59Z","updated_at":"2022-05-25T21:53:11Z","state":"open","title":"cmdLineTester_libpathTestRtfChild_0 fails against headless platforms"}
+{"id":1210344501,"created_at":"2022-04-21T00:16:27Z","updated_at":"2022-04-21T00:16:27Z","state":"open","title":"Plugin fails to render on arm based MacOS"}
+{"id":1174965834,"created_at":"2014-04-27T21:10:29Z","updated_at":"2022-03-21T07:08:23Z","state":"open","title":"Redesign Filters in Swing Version"}
+{"id":1225785871,"created_at":"2022-05-04T19:19:38Z","updated_at":"2022-05-04T19:20:03Z","state":"open","title":"Prop diameter 0"}
+{"id":1245626877,"created_at":"2022-05-23T19:51:45Z","updated_at":"2022-05-24T18:59:51Z","state":"open","title":"Switched from jfoenix to gemsfx"}
+{"id":1160101626,"created_at":"2022-03-04T22:22:09Z","updated_at":"2022-05-12T10:53:37Z","state":"open","title":"import javax.swing.*; não é reconhecido no intellij"}
+{"id":1194130748,"created_at":"2022-04-06T06:51:01Z","updated_at":"2022-04-06T09:05:16Z","state":"open","title":"插件报错"}
+{"id":1250525169,"created_at":"2022-05-27T09:05:21Z","updated_at":"2022-05-27T14:25:17Z","state":"open","title":"Address Overflow in subtract: 00000000 - 0x10000"}
+{"id":1229911136,"created_at":"2022-05-09T15:37:16Z","updated_at":"2022-05-09T15:38:05Z","state":"open","title":"Crash after selecting DXM power supplies"}
+{"id":1191115550,"created_at":"2022-04-04T01:05:53Z","updated_at":"2022-04-08T21:22:36Z","state":"open","title":"OptionsLookAndFeel: Support for FlatLaf"}
+{"id":162099915,"created_at":"2016-06-24T08:29:32Z","updated_at":"2018-03-28T21:45:43Z","state":"open","title":"Swing GUI"}
+{"id":185754093,"created_at":"2016-10-27T19:06:56Z","updated_at":"2016-10-27T19:06:56Z","state":"open","title":"Test Swing?"}
+{"id":1248443102,"created_at":"2022-05-25T17:35:56Z","updated_at":"2022-05-25T18:11:36Z","state":"open","title":"Opening zarr files with .zattrs"}
+{"id":1239359200,"created_at":"2022-05-18T02:42:23Z","updated_at":"2022-05-21T20:34:25Z","state":"open","title":"(DRAFT) Simultaneous Phases: Removing Broken Deployment and Movement Setups"}
+{"id":1221787757,"created_at":"2022-04-30T09:33:38Z","updated_at":"2022-04-30T09:37:03Z","state":"open","title":"[PATCH] Avoid redundant HashMap.containsKey calls in NimbusDefaults"}
+{"id":1219543262,"created_at":"2022-04-29T01:26:18Z","updated_at":"2022-04-29T01:26:18Z","state":"open","title":"Setup methods"}
+{"id":1048430859,"created_at":"2021-11-09T10:21:40Z","updated_at":"2021-11-09T10:21:40Z","state":"open","title":"Made StatusBar swing timer stoppable"}
+{"id":801076663,"created_at":"2021-02-04T09:02:39Z","updated_at":"2021-02-04T09:02:39Z","state":"open","title":"Calculadora Swing"}
+{"id":1232890433,"created_at":"2022-05-11T16:13:41Z","updated_at":"2022-05-11T16:13:41Z","state":"open","title":"[Snyk] Security upgrade org.apache.xmlgraphics:batik-swing from 1.7 to 1.8"}
+{"id":406138843,"created_at":"2019-02-03T22:26:26Z","updated_at":"2019-02-03T22:26:42Z","state":"open","title":"Swing error"}
+{"id":45355390,"created_at":"2014-10-09T11:32:18Z","updated_at":"2014-10-18T08:50:29Z","state":"open","title":"[Swing] Player"}
+{"id":36126166,"created_at":"2014-06-19T22:55:37Z","updated_at":"2014-06-19T22:55:38Z","state":"open","title":"Version in pure Swing"}
+{"id":200647633,"created_at":"2017-01-13T14:49:07Z","updated_at":"2017-01-13T14:50:55Z","state":"open","title":"Swing GUI"}
+{"id":20831057,"created_at":"2013-10-10T19:54:58Z","updated_at":"2013-11-05T02:19:58Z","state":"open","title":"Swing Display"}
+{"id":1237535880,"created_at":"2022-05-16T18:23:43Z","updated_at":"2022-05-16T18:23:43Z","state":"open","title":"server install weird dialog: \"dialog.server.noscript\""}
+{"id":250037693,"created_at":"2017-08-14T13:53:58Z","updated_at":"2017-08-14T13:53:58Z","state":"open","title":"Calculadora Swing"}
+{"id":1242416659,"created_at":"2022-05-19T23:10:20Z","updated_at":"2022-05-19T23:12:02Z","state":"open","title":"swing concurrency fixes"}
+{"id":1248938812,"created_at":"2022-05-26T00:19:38Z","updated_at":"2022-05-26T00:19:38Z","state":"open","title":"Swing for GUI"}
+{"id":1239511313,"created_at":"2022-04-20T09:19:21Z","updated_at":"2022-05-18T16:06:28Z","state":"open","title":"Swing theme"}
+{"id":1235312368,"created_at":"2022-05-13T14:21:49Z","updated_at":"2022-05-13T14:21:49Z","state":"open","title":"Use only swing for graphics"}
+{"id":1223923525,"created_at":"2022-05-03T10:29:21Z","updated_at":"2022-05-24T12:28:15Z","state":"open","title":"Issue 210: javax.swing.JComponent: ArrayIndexOutOfBoundsException"}
+{"id":1204177361,"created_at":"2022-04-14T08:02:16Z","updated_at":"2022-04-14T08:02:22Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1221336298,"created_at":"2022-04-29T17:37:29Z","updated_at":"2022-04-29T17:37:29Z","state":"open","title":"Adicionando menu com o java swing"}
+{"id":1213711266,"created_at":"2022-04-24T17:11:19Z","updated_at":"2022-05-25T20:21:08Z","state":"open","title":"Redo Javax Swing GUI as AngularJS frontend"}
+{"id":822250455,"created_at":"2021-03-04T15:40:56Z","updated_at":"2022-05-03T08:20:41Z","state":"open","title":"javax.swing.JComponent: ArrayIndexOutOfBoundsException"}
+{"id":1061610490,"created_at":"2021-11-23T18:53:54Z","updated_at":"2021-11-30T04:35:46Z","state":"open","title":"Swing"}
+{"id":1244799354,"created_at":"2022-05-23T08:48:27Z","updated_at":"2022-05-23T08:48:27Z","state":"open","title":"Disabled broken test cases for SWING Test suite"}
+{"id":1180459550,"created_at":"2022-03-25T07:52:38Z","updated_at":"2022-03-25T07:52:38Z","state":"open","title":"Swing picture quality"}
+{"id":1203141998,"created_at":"2022-04-13T11:02:05Z","updated_at":"2022-05-18T08:37:02Z","state":"open","title":"8284767: Create an automated test for JDK-4422535"}
+{"id":1172993215,"created_at":"2022-03-17T22:37:36Z","updated_at":"2022-03-17T22:37:36Z","state":"open","title":"Why cant I swing?"}
+{"id":1232083872,"created_at":"2022-05-11T06:37:29Z","updated_at":"2022-05-23T06:04:14Z","state":"open","title":"8130895: Test javax/swing/system/6799345/TestShutdown.java fails on Solaris11 Sparcv9"}
+{"id":1230421761,"created_at":"2022-05-09T23:57:58Z","updated_at":"2022-05-12T19:03:05Z","state":"open","title":"2.5.22294: HeadedGameRunner - 4 >= 1"}
+{"id":1182919506,"created_at":"2022-03-28T05:44:02Z","updated_at":"2022-05-02T02:32:13Z","state":"open","title":"swing: Make tooltips have infinite duration"}
+{"id":1166921067,"created_at":"2022-03-11T22:04:24Z","updated_at":"2022-03-11T22:04:24Z","state":"open","title":"Trapdoor Swing Motion [REQUEST]"}
+{"id":1245802813,"created_at":"2022-05-23T23:33:21Z","updated_at":"2022-05-23T23:33:21Z","state":"open","title":"check into using SWT instead of AWT/Swing"}
+{"id":772898511,"created_at":"2020-12-22T12:09:50Z","updated_at":"2022-04-11T13:24:49Z","state":"open","title":"AWT & Swing on Windows"}
+{"id":1230214414,"created_at":"2022-05-09T20:26:01Z","updated_at":"2022-05-13T15:15:10Z","state":"open","title":"0.8.0"}
+{"id":1218624115,"created_at":"2022-04-28T11:59:45Z","updated_at":"2022-05-27T20:31:09Z","state":"open","title":"8213531: Test javax/swing/border/TestTitledBorderLeak.java fails"}
+{"id":1243929757,"created_at":"2022-05-21T09:39:24Z","updated_at":"2022-05-21T09:40:06Z","state":"open","title":"no arrow keys for BSBs"}
+{"id":340029657,"created_at":"2018-07-10T22:31:36Z","updated_at":"2022-04-16T15:18:58Z","state":"open","title":"Update Bonus_Details.java"}
+{"id":1240251412,"created_at":"2022-05-18T17:11:25Z","updated_at":"2022-05-19T20:06:23Z","state":"open","title":"[Commands & Colors Ancients] NullPointerException: Cannot invoke \"String.isBlank()\" because \"file\" is null"}
+{"id":1229050930,"created_at":"2022-05-09T01:22:47Z","updated_at":"2022-05-11T13:57:33Z","state":"open","title":"FlatLaf causes ArrayIndexOutOfBoundsException ONLY on Linux"}
+{"id":262006231,"created_at":"2017-10-02T07:54:29Z","updated_at":"2017-10-02T07:54:29Z","state":"open","title":"Swing"}
+{"id":34736635,"created_at":"2014-06-01T20:57:02Z","updated_at":"2014-07-04T14:42:45Z","state":"open","title":"Swing"}
+{"id":1199093197,"created_at":"2022-04-10T16:34:41Z","updated_at":"2022-04-10T16:39:32Z","state":"open","title":"Adds a clickable swing task monitor progress bar to imagej legacy ui"}
+{"id":1250527935,"created_at":"2022-05-27T09:08:15Z","updated_at":"2022-05-27T09:35:24Z","state":"open","title":"[SP-6144] Backport of PDI-19514 - Spoon fires queries on opening or e…"}
+{"id":1221385559,"created_at":"2022-04-29T18:28:17Z","updated_at":"2022-04-29T22:44:05Z","state":"open","title":"Add protocol support for AutoBone and migrate old Swing GUI"}
+{"id":1026435106,"created_at":"2021-10-14T13:58:22Z","updated_at":"2021-10-14T13:58:22Z","state":"open","title":"Swing"}
+{"id":1171057787,"created_at":"2022-03-16T13:53:42Z","updated_at":"2022-03-16T13:53:42Z","state":"open","title":"Technical debt: AWT to swing"}
+{"id":1234258896,"created_at":"2022-05-12T17:00:59Z","updated_at":"2022-05-12T17:00:59Z","state":"open","title":"[Swing]JFrameのウィンドウサイズを変更する"}
+{"id":1112199825,"created_at":"2022-01-24T05:46:02Z","updated_at":"2022-01-24T05:46:02Z","state":"open","title":"Swing App"}
+{"id":1235962645,"created_at":"2022-05-14T12:31:13Z","updated_at":"2022-05-14T12:31:22Z","state":"open","title":"ToolBar: hover effect for button groups"}
+{"id":1250227030,"created_at":"2022-05-27T00:58:21Z","updated_at":"2022-05-27T00:58:22Z","state":"open","title":"2.5.22294: BattleCalculatorDialog#addDefenders:115 - java.lang.NullPointerException"}
+{"id":1225085570,"created_at":"2022-05-04T08:50:55Z","updated_at":"2022-05-19T11:37:06Z","state":"open","title":"添加Armv8，Mars"}
+{"id":473937753,"created_at":"2019-07-29T09:10:50Z","updated_at":"2022-03-16T22:02:46Z","state":"open","title":"Autocompletion window (Fx & Swing)"}
+{"id":1189035778,"created_at":"2022-04-01T00:17:28Z","updated_at":"2022-04-18T22:24:14Z","state":"open","title":"NPE Parsing javax.swing.DefaultListModel.java"}
+{"id":1243934461,"created_at":"2022-05-21T10:02:47Z","updated_at":"2022-05-21T10:03:25Z","state":"open","title":"tooltips are not shown"}
+{"id":1096902682,"created_at":"2022-01-08T11:19:00Z","updated_at":"2022-03-18T20:47:31Z","state":"open","title":"Looking for AssertJ Swing committers"}
+{"id":1239015138,"created_at":"2022-05-17T18:31:23Z","updated_at":"2022-05-28T00:48:41Z","state":"open","title":"8194873: right ALT key hotkeys no longer work in Swing components"}
+{"id":1182002709,"created_at":"2022-03-26T19:21:12Z","updated_at":"2022-03-26T19:21:12Z","state":"open","title":"[ImgBot] Optimize images"}
+{"id":1174960209,"created_at":"2013-11-20T20:04:10Z","updated_at":"2022-03-21T07:02:23Z","state":"open","title":"Swing Internationalization [sf#16]"}
+{"id":1220026346,"created_at":"2022-04-29T06:50:44Z","updated_at":"2022-05-09T02:46:37Z","state":"open","title":"Problem with font"}
+{"id":1206371686,"created_at":"2022-04-17T13:11:43Z","updated_at":"2022-04-17T13:12:51Z","state":"open","title":"Improve vertical centering of FlatLAF buttons on Windows"}
+{"id":1229511548,"created_at":"2022-05-09T10:37:53Z","updated_at":"2022-05-11T13:59:28Z","state":"open","title":"Use kotlinx-coroutines for UI launcher"}
+{"id":1059448404,"created_at":"2021-11-21T18:14:31Z","updated_at":"2021-11-22T09:01:05Z","state":"open","title":"Swing interface"}
+{"id":1248985236,"created_at":"2022-05-26T01:39:33Z","updated_at":"2022-05-27T22:44:05Z","state":"open","title":"Added Dagger to ComposerSearch"}
+{"id":1046756439,"created_at":"2021-11-07T14:08:19Z","updated_at":"2022-05-18T01:17:04Z","state":"open","title":"[Suggestion & Bug] Config values & Swing bug"}
+{"id":979080380,"created_at":"2021-08-25T12:20:36Z","updated_at":"2021-11-06T02:17:38Z","state":"open","title":"WIP: Swing chat"}
+{"id":429956152,"created_at":"2019-04-05T22:23:06Z","updated_at":"2020-05-16T20:00:55Z","state":"open","title":"Swing"}
+{"id":1247518275,"created_at":"2022-05-25T05:48:27Z","updated_at":"2022-05-25T05:48:28Z","state":"open","title":"Bump spring-core from 5.3.19 to 5.3.20 in /project-xml-swing"}
+{"id":642375020,"created_at":"2020-06-20T13:22:39Z","updated_at":"2020-06-20T13:22:39Z","state":"open","title":"Swing#2"}
+{"id":1247544142,"created_at":"2022-05-25T06:13:27Z","updated_at":"2022-05-25T06:13:28Z","state":"open","title":"Bump spring-core from 4.2.6.RELEASE to 5.2.22.RELEASE in /oim-swing"}
+{"id":1249256219,"created_at":"2022-05-26T08:19:51Z","updated_at":"2022-05-26T08:19:51Z","state":"open","title":"IDE Error Report (v4.0.0)"}
+{"id":524064400,"created_at":"2019-11-17T23:12:31Z","updated_at":"2019-11-17T23:12:31Z","state":"open","title":"Swing display"}
+{"id":1241192014,"created_at":"2022-05-19T04:29:05Z","updated_at":"2022-05-19T21:08:20Z","state":"open","title":"2.5.22294: JFrameBuilder#getGameIcon:106 - java.nio.file.FileSystemException"}
+{"id":1140829840,"created_at":"2022-02-17T03:23:04Z","updated_at":"2022-02-17T03:27:16Z","state":"open","title":"Update java-swing-app-1.iml"}
+{"id":1246178515,"created_at":"2022-05-24T08:28:57Z","updated_at":"2022-05-25T02:55:53Z","state":"open","title":"8286846: test/jdk/javax/swing/plaf/aqua/CustomComboBoxFocusTest.java fails on mac aarch64"}
+{"id":1022977761,"created_at":"2021-10-11T18:01:10Z","updated_at":"2021-10-11T18:01:10Z","state":"open","title":"Lab2. Quizer Swing"}
+{"id":1198824181,"created_at":"2022-04-10T00:59:05Z","updated_at":"2022-04-10T00:59:05Z","state":"open","title":"swap table on an empty table"}
+{"id":1180252958,"created_at":"2022-03-25T01:57:30Z","updated_at":"2022-03-25T01:57:30Z","state":"open","title":"Add file choosers"}
+{"id":1239279884,"created_at":"2022-05-18T00:08:31Z","updated_at":"2022-05-20T06:58:17Z","state":"open","title":"Breaking Blocks "}
+{"id":1167152707,"created_at":"2022-03-12T02:37:57Z","updated_at":"2022-03-20T03:06:29Z","state":"open","title":"remove qt dependency from launcher"}
+{"id":1243616735,"created_at":"2022-05-20T20:53:05Z","updated_at":"2022-05-20T20:53:06Z","state":"open","title":"Bump gson from 2.6.2 to 2.8.9 in /oim-swing"}
+{"id":318435119,"created_at":"2018-04-27T14:39:56Z","updated_at":"2018-04-27T14:39:56Z","state":"open","title":"swing"}
+{"id":1186301732,"created_at":"2022-03-30T11:15:26Z","updated_at":"2022-04-19T09:59:14Z","state":"open","title":"Copy-Paste hangs terminator OL8"}
+{"id":1204925444,"created_at":"2022-04-14T20:00:07Z","updated_at":"2022-04-14T20:06:28Z","state":"open","title":"problem launching fetchRandomUserList 2nd time in java swing"}
+{"id":1223690596,"created_at":"2022-05-03T04:48:44Z","updated_at":"2022-05-03T04:48:44Z","state":"open","title":"java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0 at gui.toolwindow.view.BugTreePanel.scrollToPreviewSource(BugTreePanel.java:148)"}
+{"id":467403146,"created_at":"2019-07-12T13:03:26Z","updated_at":"2020-01-06T06:22:15Z","state":"open","title":"Java Swing"}
+{"id":301253808,"created_at":"2018-03-01T02:15:02Z","updated_at":"2018-03-01T02:16:44Z","state":"open","title":"Swing -> JavaFX"}
+{"id":493646390,"created_at":"2019-09-14T17:25:20Z","updated_at":"2019-09-14T17:25:20Z","state":"open","title":"swing"}
+{"id":1248766608,"created_at":"2022-05-25T21:40:59Z","updated_at":"2022-05-25T21:53:11Z","state":"open","title":"cmdLineTester_libpathTestRtfChild_0 fails against headless platforms"}
+{"id":1210344501,"created_at":"2022-04-21T00:16:27Z","updated_at":"2022-04-21T00:16:27Z","state":"open","title":"Plugin fails to render on arm based MacOS"}
+{"id":1225785871,"created_at":"2022-05-04T19:19:38Z","updated_at":"2022-05-04T19:20:03Z","state":"open","title":"Prop diameter 0"}
+{"id":1174965834,"created_at":"2014-04-27T21:10:29Z","updated_at":"2022-03-21T07:08:23Z","state":"open","title":"Redesign Filters in Swing Version"}
+{"id":1160101626,"created_at":"2022-03-04T22:22:09Z","updated_at":"2022-05-12T10:53:37Z","state":"open","title":"import javax.swing.*; não é reconhecido no intellij"}
+{"id":1245626877,"created_at":"2022-05-23T19:51:45Z","updated_at":"2022-05-24T18:59:51Z","state":"open","title":"Switched from jfoenix to gemsfx"}
+{"id":1194130748,"created_at":"2022-04-06T06:51:01Z","updated_at":"2022-04-06T09:05:16Z","state":"open","title":"插件报错"}
+{"id":1250525169,"created_at":"2022-05-27T09:05:21Z","updated_at":"2022-05-27T14:25:17Z","state":"open","title":"Address Overflow in subtract: 00000000 - 0x10000"}
+{"id":1191115550,"created_at":"2022-04-04T01:05:53Z","updated_at":"2022-04-08T21:22:36Z","state":"open","title":"OptionsLookAndFeel: Support for FlatLaf"}
+{"id":1229911136,"created_at":"2022-05-09T15:37:16Z","updated_at":"2022-05-09T15:38:05Z","state":"open","title":"Crash after selecting DXM power supplies"}
+{"id":162099915,"created_at":"2016-06-24T08:29:32Z","updated_at":"2018-03-28T21:45:43Z","state":"open","title":"Swing GUI"}
+{"id":185754093,"created_at":"2016-10-27T19:06:56Z","updated_at":"2016-10-27T19:06:56Z","state":"open","title":"Test Swing?"}
+{"id":1248443102,"created_at":"2022-05-25T17:35:56Z","updated_at":"2022-05-25T18:11:36Z","state":"open","title":"Opening zarr files with .zattrs"}
+{"id":1239359200,"created_at":"2022-05-18T02:42:23Z","updated_at":"2022-05-21T20:34:25Z","state":"open","title":"(DRAFT) Simultaneous Phases: Removing Broken Deployment and Movement Setups"}
+{"id":1221787757,"created_at":"2022-04-30T09:33:38Z","updated_at":"2022-04-30T09:37:03Z","state":"open","title":"[PATCH] Avoid redundant HashMap.containsKey calls in NimbusDefaults"}
+{"id":1048430859,"created_at":"2021-11-09T10:21:40Z","updated_at":"2021-11-09T10:21:40Z","state":"open","title":"Made StatusBar swing timer stoppable"}
+{"id":1219543262,"created_at":"2022-04-29T01:26:18Z","updated_at":"2022-04-29T01:26:18Z","state":"open","title":"Setup methods"}
+{"id":801076663,"created_at":"2021-02-04T09:02:39Z","updated_at":"2021-02-04T09:02:39Z","state":"open","title":"Calculadora Swing"}
+{"id":1232890433,"created_at":"2022-05-11T16:13:41Z","updated_at":"2022-05-11T16:13:41Z","state":"open","title":"[Snyk] Security upgrade org.apache.xmlgraphics:batik-swing from 1.7 to 1.8"}
+{"id":406138843,"created_at":"2019-02-03T22:26:26Z","updated_at":"2019-02-03T22:26:42Z","state":"open","title":"Swing error"}
+{"id":45355390,"created_at":"2014-10-09T11:32:18Z","updated_at":"2014-10-18T08:50:29Z","state":"open","title":"[Swing] Player"}
+{"id":36126166,"created_at":"2014-06-19T22:55:37Z","updated_at":"2014-06-19T22:55:38Z","state":"open","title":"Version in pure Swing"}
+{"id":200647633,"created_at":"2017-01-13T14:49:07Z","updated_at":"2017-01-13T14:50:55Z","state":"open","title":"Swing GUI"}
+{"id":20831057,"created_at":"2013-10-10T19:54:58Z","updated_at":"2013-11-05T02:19:58Z","state":"open","title":"Swing Display"}
+{"id":1237535880,"created_at":"2022-05-16T18:23:43Z","updated_at":"2022-05-16T18:23:43Z","state":"open","title":"server install weird dialog: \"dialog.server.noscript\""}
+{"id":250037693,"created_at":"2017-08-14T13:53:58Z","updated_at":"2017-08-14T13:53:58Z","state":"open","title":"Calculadora Swing"}
