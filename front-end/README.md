@@ -1,6 +1,7 @@
 # vue-java2
 
 > A Vue.js project
+> Lack node-module, it's too big.
 
 ## Build Setup
 
