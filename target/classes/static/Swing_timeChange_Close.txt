@@ -1,0 +1,1000 @@
+{"id":1240288566,"created_at":"2022-05-18T17:33:41Z","updated_at":"2022-05-18T18:27:46Z","state":"closed","title":"Swing GUI"}
+{"id":1248564218,"created_at":"2022-05-25T18:51:33Z","updated_at":"2022-05-25T18:51:43Z","state":"closed","title":"Swing GUI (nonfunctional)"}
+{"id":1232902017,"created_at":"2022-05-11T16:24:06Z","updated_at":"2022-05-11T16:24:53Z","state":"closed","title":"Swing sample"}
+{"id":1221880495,"created_at":"2022-04-30T17:26:05Z","updated_at":"2022-04-30T17:26:21Z","state":"closed","title":"Swing"}
+{"id":1245550251,"created_at":"2022-05-23T18:29:14Z","updated_at":"2022-05-23T18:29:29Z","state":"closed","title":"create Layouting components in swing"}
+{"id":1248258537,"created_at":"2022-05-25T15:17:05Z","updated_at":"2022-05-25T15:21:44Z","state":"closed","title":"[VL] Swing/Layout-Manager: Improve Intro/Outro"}
+{"id":1212162990,"created_at":"2022-04-22T10:22:59Z","updated_at":"2022-04-22T10:23:22Z","state":"closed","title":"Swing"}
+{"id":1212084199,"created_at":"2022-04-22T09:33:17Z","updated_at":"2022-04-22T09:33:31Z","state":"closed","title":"Swing"}
+{"id":1225146672,"created_at":"2022-05-04T09:46:38Z","updated_at":"2022-05-27T14:09:36Z","state":"closed","title":"Support of Swing UI"}
+{"id":1246952529,"created_at":"2022-05-24T18:07:05Z","updated_at":"2022-05-25T15:21:43Z","state":"closed","title":"[VL] Swing/Layout-Manager: Improve Intro/Outro"}
+{"id":1203640322,"created_at":"2022-04-13T18:25:39Z","updated_at":"2022-04-13T18:27:59Z","state":"closed","title":"Swing"}
+{"id":1228915229,"created_at":"2022-05-08T15:23:31Z","updated_at":"2022-05-12T21:18:44Z","state":"closed","title":"Swing classes with main methods"}
+{"id":1203327793,"created_at":"2022-04-13T13:47:11Z","updated_at":"2022-04-13T13:47:18Z","state":"closed","title":"Swing"}
+{"id":1238903834,"created_at":"2022-05-17T16:40:21Z","updated_at":"2022-05-20T07:07:30Z","state":"closed","title":"[issue-8] Swing UI tesztek implementálása"}
+{"id":1245947287,"created_at":"2022-05-24T04:00:04Z","updated_at":"2022-05-24T08:09:05Z","state":"closed","title":"re #1  - added example for using swings Tree model classes"}
+{"id":1193604847,"created_at":"2022-04-05T19:09:54Z","updated_at":"2022-04-05T19:10:04Z","state":"closed","title":"Swing"}
+{"id":1218707357,"created_at":"2022-04-28T13:09:20Z","updated_at":"2022-04-28T13:23:10Z","state":"closed","title":"Swing adjust for start time"}
+{"id":1242853997,"created_at":"2022-05-20T09:07:29Z","updated_at":"2022-05-24T04:34:55Z","state":"closed","title":"8286786: [macos] javax/swing/JInternalFrame/8146321/JInternalFrameIconTest.java still fails"}
+{"id":1167297931,"created_at":"2022-03-12T14:05:12Z","updated_at":"2022-05-24T18:25:48Z","state":"closed","title":"Vorlesung: GUI: Swing"}
+{"id":1225091070,"created_at":"2022-05-04T08:55:24Z","updated_at":"2022-05-04T09:06:32Z","state":"closed","title":"End time and Swing errror bound strict"}
+{"id":1237406117,"created_at":"2022-05-16T16:29:41Z","updated_at":"2022-05-18T09:44:54Z","state":"closed","title":"Megfelelő Swing UI teszt keretrendszer keresése és beüzemelése "}
+{"id":1237815648,"created_at":"2022-05-16T22:38:15Z","updated_at":"2022-05-25T15:34:38Z","state":"closed","title":"JMenuBar NullPointer"}
+{"id":1228057025,"created_at":"2022-05-06T16:16:46Z","updated_at":"2022-05-20T07:07:29Z","state":"closed","title":"[issue-4] Swing UI tesztek megtervezése"}
+{"id":1206023512,"created_at":"2022-04-16T05:49:20Z","updated_at":"2022-04-16T05:49:35Z","state":"closed","title":"Swing view refactor"}
+{"id":1235951459,"created_at":"2022-05-14T11:36:42Z","updated_at":"2022-05-14T11:43:30Z","state":"closed","title":"feat: Change package name"}
+{"id":1211667088,"created_at":"2022-04-22T00:09:33Z","updated_at":"2022-04-22T19:18:45Z","state":"closed","title":"Extract swing UI from ServerModel"}
+{"id":1237740306,"created_at":"2022-05-16T21:23:42Z","updated_at":"2022-05-16T21:23:55Z","state":"closed","title":"multi-target gradle project done."}
+{"id":1216935702,"created_at":"2022-04-27T07:41:27Z","updated_at":"2022-05-12T04:06:27Z","state":"closed","title":"INT-2830: Update examples for TinyMCE swing"}
+{"id":1207979066,"created_at":"2022-04-19T08:32:01Z","updated_at":"2022-04-19T09:34:44Z","state":"closed","title":"add swing vorgaben"}
+{"id":1245145389,"created_at":"2022-05-23T13:09:22Z","updated_at":"2022-05-23T13:24:47Z","state":"closed","title":"\"Save current view\" crashes"}
+{"id":1241804843,"created_at":"2022-05-19T13:42:25Z","updated_at":"2022-05-19T20:56:40Z","state":"closed","title":"[FEAT] Worked on the UI of system admin"}
+{"id":1241657239,"created_at":"2022-05-19T11:51:58Z","updated_at":"2022-05-19T12:02:15Z","state":"closed","title":"Ft system admin dashboard"}
+{"id":1208726127,"created_at":"2022-04-19T18:45:58Z","updated_at":"2022-05-25T07:43:14Z","state":"closed","title":"need to implement gui with java swing"}
+{"id":1245403604,"created_at":"2022-05-23T16:05:59Z","updated_at":"2022-05-23T16:12:27Z","state":"closed","title":"Openrocket Bug Report"}
+{"id":1236839905,"created_at":"2022-05-16T09:00:04Z","updated_at":"2022-05-20T07:07:29Z","state":"closed","title":"[issue-5] Megfelelő Swing UI teszt keretrendszer keresése és beüzemelése"}
+{"id":1243660653,"created_at":"2022-05-20T21:19:09Z","updated_at":"2022-05-26T08:28:28Z","state":"closed","title":"Bump gson from 2.8.5 to 2.8.9"}
+{"id":1240541013,"created_at":"2022-05-18T21:17:12Z","updated_at":"2022-05-25T08:26:37Z","state":"closed","title":"DBZ-5119 Add `heartbeat.action.query` support for Oracle"}
+{"id":1244482575,"created_at":"2022-05-23T02:18:18Z","updated_at":"2022-05-24T10:53:43Z","state":"closed","title":"LogixNG ConfigureXml SLF4J Spotbugs"}
+{"id":1214142826,"created_at":"2022-04-25T08:17:14Z","updated_at":"2022-05-26T13:26:25Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1199720948,"created_at":"2022-04-11T10:01:37Z","updated_at":"2022-04-12T01:16:39Z","state":"closed","title":"[11일차]최재석 Swing 주소록"}
+{"id":1198764634,"created_at":"2022-04-09T20:37:01Z","updated_at":"2022-04-09T20:37:31Z","state":"closed","title":"Javax swing gui1"}
+{"id":1190754015,"created_at":"2022-04-02T22:26:50Z","updated_at":"2022-04-02T22:26:58Z","state":"closed","title":"Java swing"}
+{"id":1243838482,"created_at":"2022-05-21T02:08:08Z","updated_at":"2022-05-21T10:44:56Z","state":"closed","title":"Bug report 5/20/2022"}
+{"id":1198225336,"created_at":"2022-04-09T05:14:33Z","updated_at":"2022-04-09T05:14:50Z","state":"closed","title":"Javax swing gui1"}
+{"id":1237241769,"created_at":"2022-05-16T14:24:18Z","updated_at":"2022-05-16T15:04:16Z","state":"closed","title":"Implemented application gui "}
+{"id":1197066803,"created_at":"2022-04-08T09:22:06Z","updated_at":"2022-04-11T01:06:22Z","state":"closed","title":"[최재석]10일차 Swing 코드수정"}
+{"id":1227283703,"created_at":"2022-05-05T23:50:23Z","updated_at":"2022-05-08T01:53:04Z","state":"closed","title":"Spotbugs UWF Warnings"}
+{"id":1159476525,"created_at":"2022-03-04T10:14:51Z","updated_at":"2022-05-24T18:25:46Z","state":"closed","title":"VL überarbeiten: GUI: Swing"}
+{"id":1206536752,"created_at":"2022-04-18T00:54:42Z","updated_at":"2022-04-23T13:02:10Z","state":"closed","title":"[BUG] Swing Application FlatLafDark bug."}
+{"id":1224051679,"created_at":"2022-05-03T12:47:30Z","updated_at":"2022-05-03T12:53:44Z","state":"closed","title":"org.eclipse.wb.swing updated to use Java11"}
+{"id":1235058723,"created_at":"2022-05-13T10:36:07Z","updated_at":"2022-05-23T07:53:30Z","state":"closed","title":"[BUG] Cannot Invoke \"module.lineup...\" error"}
+{"id":1195823918,"created_at":"2022-04-07T10:08:59Z","updated_at":"2022-04-08T01:28:47Z","state":"closed","title":"[최재석]9일차 Swing"}
+{"id":1237512893,"created_at":"2022-05-16T18:04:26Z","updated_at":"2022-05-18T17:16:22Z","state":"closed","title":"[SP-6118] Backport of  PDI-19426: Calculator step: No error occurs ev…"}
+{"id":1198666372,"created_at":"2022-04-09T15:05:56Z","updated_at":"2022-04-09T15:12:54Z","state":"closed","title":"Swing task monitor"}
+{"id":1238868866,"created_at":"2022-05-17T16:09:05Z","updated_at":"2022-05-25T08:36:57Z","state":"closed","title":"[SP-6090] Backport of PDI-19320 - XML output with servlet with carte sh (9.2 Suite)"}
+{"id":1193849797,"created_at":"2022-04-05T23:56:21Z","updated_at":"2022-04-06T00:37:26Z","state":"closed","title":"[최재석] 7일차 Swing"}
+{"id":1206402971,"created_at":"2022-04-17T15:09:28Z","updated_at":"2022-04-18T06:51:47Z","state":"closed","title":"[Refactor] 프로젝트 패키지 구조"}
+{"id":1240335376,"created_at":"2022-05-18T18:14:23Z","updated_at":"2022-05-19T10:00:08Z","state":"closed","title":"[SP-6120] Backport of PDI-19423 Calculator step: The result of SQRT(A…"}
+{"id":1192463211,"created_at":"2022-04-05T00:34:41Z","updated_at":"2022-04-05T00:38:13Z","state":"closed","title":"[최재석]6일차 Swing"}
+{"id":1243076625,"created_at":"2022-05-20T12:25:55Z","updated_at":"2022-05-24T11:26:28Z","state":"closed","title":"Removing isEventDispatchThread - it causes problems in headless env"}
+{"id":1213802569,"created_at":"2022-04-24T23:42:39Z","updated_at":"2022-04-25T06:29:23Z","state":"closed","title":"Consider migrating away from Java/Swing!"}
+{"id":1180548222,"created_at":"2022-03-25T09:30:02Z","updated_at":"2022-04-13T19:10:04Z","state":"closed","title":"Umsetzung Swing"}
+{"id":1242785221,"created_at":"2022-05-20T08:07:46Z","updated_at":"2022-05-23T13:21:35Z","state":"closed","title":"crash when annotating crops"}
+{"id":1245944366,"created_at":"2022-05-24T03:54:20Z","updated_at":"2022-05-24T08:10:43Z","state":"closed","title":"Add another java specific example for the tree model classes in swing"}
+{"id":1213361422,"created_at":"2022-04-23T16:56:53Z","updated_at":"2022-05-19T13:11:40Z","state":"closed","title":"Rewrite the screen-sharing example"}
+{"id":1246726961,"created_at":"2022-05-24T15:23:09Z","updated_at":"2022-05-25T07:44:39Z","state":"closed","title":"Music Player: Use Custom SoundFont doesn't work"}
+{"id":1239573395,"created_at":"2022-05-18T07:54:36Z","updated_at":"2022-05-18T09:44:32Z","state":"closed","title":"InaccessibleObjectException in IconListCellRendererTest"}
+{"id":1192761659,"created_at":"2022-04-05T07:49:21Z","updated_at":"2022-04-05T11:32:05Z","state":"closed","title":"Feature branch swing"}
+{"id":1218960122,"created_at":"2022-04-28T16:13:14Z","updated_at":"2022-04-28T17:26:54Z","state":"closed","title":"[BUG] npe in training prediction panel "}
+{"id":1203541093,"created_at":"2022-04-13T16:40:00Z","updated_at":"2022-05-12T05:10:33Z","state":"closed","title":"IMPORTLIST extension (v15) crashes on Windows (not Mac) with NPE. Moneydance 2022.3 build 4060 upwards..."}
+{"id":1236853937,"created_at":"2022-05-16T09:11:12Z","updated_at":"2022-05-19T19:02:24Z","state":"closed","title":"Java janus desktop app"}
+{"id":1232150059,"created_at":"2022-05-11T07:39:55Z","updated_at":"2022-05-11T12:51:28Z","state":"closed","title":"Crash on OsmAndMapCreator.bat"}
+{"id":1177523783,"created_at":"2022-03-23T02:42:36Z","updated_at":"2022-03-23T05:24:13Z","state":"closed","title":"cb swing"}
+{"id":1243923930,"created_at":"2022-05-21T09:10:15Z","updated_at":"2022-05-26T12:38:56Z","state":"closed","title":"[Week 14] timer 3분， 5분 추가 (운관)"}
+{"id":1222680374,"created_at":"2022-05-02T09:35:20Z","updated_at":"2022-05-23T05:31:17Z","state":"closed","title":"JDK 17 not works for keymap `command + ~` on macos m1"}
+{"id":1224895908,"created_at":"2022-05-04T03:54:53Z","updated_at":"2022-05-04T08:45:36Z","state":"closed","title":"添加Armv8，Mars"}
+{"id":1242918511,"created_at":"2022-05-20T10:03:28Z","updated_at":"2022-05-23T07:50:06Z","state":"closed","title":"Replace RealParameter inputs with Functions in population models."}
+{"id":1230329059,"created_at":"2022-05-09T22:46:56Z","updated_at":"2022-05-10T22:28:28Z","state":"closed","title":"Issue #11214: Specify violation messages for ImportControlCheck"}
+{"id":1198902451,"created_at":"2022-04-10T06:27:35Z","updated_at":"2022-04-12T15:23:58Z","state":"closed","title":"Remove Swing dependency of base source folder"}
+{"id":1211601787,"created_at":"2022-04-21T22:10:47Z","updated_at":"2022-04-21T22:11:34Z","state":"closed","title":"feat: criando tela de acesso do java swing"}
+{"id":1184311848,"created_at":"2022-03-29T05:07:32Z","updated_at":"2022-04-09T20:38:00Z","state":"closed","title":"JavaX Swing GUI"}
+{"id":1213980986,"created_at":"2022-04-25T05:12:15Z","updated_at":"2022-04-26T14:40:50Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1234709033,"created_at":"2022-05-13T03:58:46Z","updated_at":"2022-05-14T23:38:23Z","state":"closed","title":"clientui: setResizable after setVisible"}
+{"id":1159800558,"created_at":"2022-03-04T16:03:30Z","updated_at":"2022-03-09T01:58:01Z","state":"closed","title":"Swing"}
+{"id":1196838344,"created_at":"2022-04-08T05:15:04Z","updated_at":"2022-04-10T06:27:57Z","state":"closed","title":"Remove Swing dependency of base source folder"}
+{"id":1176503140,"created_at":"2022-03-22T09:26:38Z","updated_at":"2022-04-13T19:18:10Z","state":"closed","title":"Swing anzeigen lassen"}
+{"id":1176500873,"created_at":"2022-03-22T09:25:28Z","updated_at":"2022-04-13T19:10:50Z","state":"closed","title":"Informationen über Swing sammeln"}
+{"id":1247143146,"created_at":"2022-05-24T21:26:40Z","updated_at":"2022-05-25T18:28:26Z","state":"closed","title":"[SP-6139] [PDI-18826] Pentaho platform needs to be able to provide po…"}
+{"id":1245942443,"created_at":"2022-05-24T03:50:26Z","updated_at":"2022-05-24T08:56:16Z","state":"closed","title":"ArrayIndexOutOfBoundsException occurs upon trying to open any 3D view"}
+{"id":1241994837,"created_at":"2022-05-19T15:58:49Z","updated_at":"2022-05-19T20:50:47Z","state":"closed","title":"Fix Date Bug in Month View + Tooltip on Hover"}
+{"id":1213280415,"created_at":"2022-04-23T11:47:44Z","updated_at":"2022-04-23T11:52:17Z","state":"closed","title":"the manager ui first stage with the search and add offer done"}
+{"id":1210374463,"created_at":"2022-04-21T01:05:01Z","updated_at":"2022-04-24T02:51:18Z","state":"closed","title":"Update ActionClock. Add ActionClockRate"}
+{"id":1246660927,"created_at":"2022-05-24T14:37:22Z","updated_at":"2022-05-24T16:22:21Z","state":"closed","title":"[SP-6122] - Backport of PDI-19396 - Error in Null Handling: Filter Rows， Anything using di.core.Condition (9.2 Suite)"}
+{"id":1157932434,"created_at":"2022-03-03T03:42:17Z","updated_at":"2022-03-04T22:05:39Z","state":"closed","title":"Swing"}
+{"id":1197025729,"created_at":"2022-04-08T08:46:24Z","updated_at":"2022-04-08T08:46:35Z","state":"closed","title":"Feature/oli/implementation of a swing GUI"}
+{"id":1214651209,"created_at":"2022-04-25T15:04:26Z","updated_at":"2022-04-25T15:05:52Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1235003884,"created_at":"2022-05-13T09:45:51Z","updated_at":"2022-05-15T19:40:57Z","state":"closed","title":"Invalid memory access when play a video has  mkv format (this file has ASS format subtitles)，then play another video."}
+{"id":1232918555,"created_at":"2022-05-11T16:39:04Z","updated_at":"2022-05-11T16:40:51Z","state":"closed","title":"GUI template AB#537"}
+{"id":1213909452,"created_at":"2022-04-25T03:22:19Z","updated_at":"2022-04-25T07:24:24Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1208034702,"created_at":"2022-04-19T09:10:30Z","updated_at":"2022-04-22T06:48:24Z","state":"closed","title":"8284993: Replace System.exit call in swing tests with RuntimeException"}
+{"id":1240288566,"created_at":"2022-05-18T17:33:41Z","updated_at":"2022-05-18T18:27:46Z","state":"closed","title":"Swing GUI"}
+{"id":1248564218,"created_at":"2022-05-25T18:51:33Z","updated_at":"2022-05-25T18:51:43Z","state":"closed","title":"Swing GUI (nonfunctional)"}
+{"id":1232902017,"created_at":"2022-05-11T16:24:06Z","updated_at":"2022-05-11T16:24:53Z","state":"closed","title":"Swing sample"}
+{"id":1221880495,"created_at":"2022-04-30T17:26:05Z","updated_at":"2022-04-30T17:26:21Z","state":"closed","title":"Swing"}
+{"id":1245550251,"created_at":"2022-05-23T18:29:14Z","updated_at":"2022-05-23T18:29:29Z","state":"closed","title":"create Layouting components in swing"}
+{"id":1248258537,"created_at":"2022-05-25T15:17:05Z","updated_at":"2022-05-25T15:21:44Z","state":"closed","title":"[VL] Swing/Layout-Manager: Improve Intro/Outro"}
+{"id":1212162990,"created_at":"2022-04-22T10:22:59Z","updated_at":"2022-04-22T10:23:22Z","state":"closed","title":"Swing"}
+{"id":1212084199,"created_at":"2022-04-22T09:33:17Z","updated_at":"2022-04-22T09:33:31Z","state":"closed","title":"Swing"}
+{"id":1225146672,"created_at":"2022-05-04T09:46:38Z","updated_at":"2022-05-27T14:09:36Z","state":"closed","title":"Support of Swing UI"}
+{"id":1246952529,"created_at":"2022-05-24T18:07:05Z","updated_at":"2022-05-25T15:21:43Z","state":"closed","title":"[VL] Swing/Layout-Manager: Improve Intro/Outro"}
+{"id":1203640322,"created_at":"2022-04-13T18:25:39Z","updated_at":"2022-04-13T18:27:59Z","state":"closed","title":"Swing"}
+{"id":1228915229,"created_at":"2022-05-08T15:23:31Z","updated_at":"2022-05-12T21:18:44Z","state":"closed","title":"Swing classes with main methods"}
+{"id":1203327793,"created_at":"2022-04-13T13:47:11Z","updated_at":"2022-04-13T13:47:18Z","state":"closed","title":"Swing"}
+{"id":1238903834,"created_at":"2022-05-17T16:40:21Z","updated_at":"2022-05-20T07:07:30Z","state":"closed","title":"[issue-8] Swing UI tesztek implementálása"}
+{"id":1245947287,"created_at":"2022-05-24T04:00:04Z","updated_at":"2022-05-24T08:09:05Z","state":"closed","title":"re #1  - added example for using swings Tree model classes"}
+{"id":1193604847,"created_at":"2022-04-05T19:09:54Z","updated_at":"2022-04-05T19:10:04Z","state":"closed","title":"Swing"}
+{"id":1218707357,"created_at":"2022-04-28T13:09:20Z","updated_at":"2022-04-28T13:23:10Z","state":"closed","title":"Swing adjust for start time"}
+{"id":1242853997,"created_at":"2022-05-20T09:07:29Z","updated_at":"2022-05-24T04:34:55Z","state":"closed","title":"8286786: [macos] javax/swing/JInternalFrame/8146321/JInternalFrameIconTest.java still fails"}
+{"id":1167297931,"created_at":"2022-03-12T14:05:12Z","updated_at":"2022-05-24T18:25:48Z","state":"closed","title":"Vorlesung: GUI: Swing"}
+{"id":1225091070,"created_at":"2022-05-04T08:55:24Z","updated_at":"2022-05-04T09:06:32Z","state":"closed","title":"End time and Swing errror bound strict"}
+{"id":1237406117,"created_at":"2022-05-16T16:29:41Z","updated_at":"2022-05-18T09:44:54Z","state":"closed","title":"Megfelelő Swing UI teszt keretrendszer keresése és beüzemelése "}
+{"id":1237815648,"created_at":"2022-05-16T22:38:15Z","updated_at":"2022-05-25T15:34:38Z","state":"closed","title":"JMenuBar NullPointer"}
+{"id":1228057025,"created_at":"2022-05-06T16:16:46Z","updated_at":"2022-05-20T07:07:29Z","state":"closed","title":"[issue-4] Swing UI tesztek megtervezése"}
+{"id":1206023512,"created_at":"2022-04-16T05:49:20Z","updated_at":"2022-04-16T05:49:35Z","state":"closed","title":"Swing view refactor"}
+{"id":1235951459,"created_at":"2022-05-14T11:36:42Z","updated_at":"2022-05-14T11:43:30Z","state":"closed","title":"feat: Change package name"}
+{"id":1211667088,"created_at":"2022-04-22T00:09:33Z","updated_at":"2022-04-22T19:18:45Z","state":"closed","title":"Extract swing UI from ServerModel"}
+{"id":1237740306,"created_at":"2022-05-16T21:23:42Z","updated_at":"2022-05-16T21:23:55Z","state":"closed","title":"multi-target gradle project done."}
+{"id":1216935702,"created_at":"2022-04-27T07:41:27Z","updated_at":"2022-05-12T04:06:27Z","state":"closed","title":"INT-2830: Update examples for TinyMCE swing"}
+{"id":1207979066,"created_at":"2022-04-19T08:32:01Z","updated_at":"2022-04-19T09:34:44Z","state":"closed","title":"add swing vorgaben"}
+{"id":1245145389,"created_at":"2022-05-23T13:09:22Z","updated_at":"2022-05-23T13:24:47Z","state":"closed","title":"\"Save current view\" crashes"}
+{"id":1241804843,"created_at":"2022-05-19T13:42:25Z","updated_at":"2022-05-19T20:56:40Z","state":"closed","title":"[FEAT] Worked on the UI of system admin"}
+{"id":1241657239,"created_at":"2022-05-19T11:51:58Z","updated_at":"2022-05-19T12:02:15Z","state":"closed","title":"Ft system admin dashboard"}
+{"id":1208726127,"created_at":"2022-04-19T18:45:58Z","updated_at":"2022-05-25T07:43:14Z","state":"closed","title":"need to implement gui with java swing"}
+{"id":1245403604,"created_at":"2022-05-23T16:05:59Z","updated_at":"2022-05-23T16:12:27Z","state":"closed","title":"Openrocket Bug Report"}
+{"id":1236839905,"created_at":"2022-05-16T09:00:04Z","updated_at":"2022-05-20T07:07:29Z","state":"closed","title":"[issue-5] Megfelelő Swing UI teszt keretrendszer keresése és beüzemelése"}
+{"id":1243660653,"created_at":"2022-05-20T21:19:09Z","updated_at":"2022-05-26T08:28:28Z","state":"closed","title":"Bump gson from 2.8.5 to 2.8.9"}
+{"id":1240541013,"created_at":"2022-05-18T21:17:12Z","updated_at":"2022-05-25T08:26:37Z","state":"closed","title":"DBZ-5119 Add `heartbeat.action.query` support for Oracle"}
+{"id":1244482575,"created_at":"2022-05-23T02:18:18Z","updated_at":"2022-05-24T10:53:43Z","state":"closed","title":"LogixNG ConfigureXml SLF4J Spotbugs"}
+{"id":1214142826,"created_at":"2022-04-25T08:17:14Z","updated_at":"2022-05-26T13:26:25Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1199720948,"created_at":"2022-04-11T10:01:37Z","updated_at":"2022-04-12T01:16:39Z","state":"closed","title":"[11일차]최재석 Swing 주소록"}
+{"id":1198764634,"created_at":"2022-04-09T20:37:01Z","updated_at":"2022-04-09T20:37:31Z","state":"closed","title":"Javax swing gui1"}
+{"id":1190754015,"created_at":"2022-04-02T22:26:50Z","updated_at":"2022-04-02T22:26:58Z","state":"closed","title":"Java swing"}
+{"id":1243838482,"created_at":"2022-05-21T02:08:08Z","updated_at":"2022-05-21T10:44:56Z","state":"closed","title":"Bug report 5/20/2022"}
+{"id":1198225336,"created_at":"2022-04-09T05:14:33Z","updated_at":"2022-04-09T05:14:50Z","state":"closed","title":"Javax swing gui1"}
+{"id":1237241769,"created_at":"2022-05-16T14:24:18Z","updated_at":"2022-05-16T15:04:16Z","state":"closed","title":"Implemented application gui "}
+{"id":1197066803,"created_at":"2022-04-08T09:22:06Z","updated_at":"2022-04-11T01:06:22Z","state":"closed","title":"[최재석]10일차 Swing 코드수정"}
+{"id":1227283703,"created_at":"2022-05-05T23:50:23Z","updated_at":"2022-05-08T01:53:04Z","state":"closed","title":"Spotbugs UWF Warnings"}
+{"id":1159476525,"created_at":"2022-03-04T10:14:51Z","updated_at":"2022-05-24T18:25:46Z","state":"closed","title":"VL überarbeiten: GUI: Swing"}
+{"id":1206536752,"created_at":"2022-04-18T00:54:42Z","updated_at":"2022-04-23T13:02:10Z","state":"closed","title":"[BUG] Swing Application FlatLafDark bug."}
+{"id":1224051679,"created_at":"2022-05-03T12:47:30Z","updated_at":"2022-05-03T12:53:44Z","state":"closed","title":"org.eclipse.wb.swing updated to use Java11"}
+{"id":1235058723,"created_at":"2022-05-13T10:36:07Z","updated_at":"2022-05-23T07:53:30Z","state":"closed","title":"[BUG] Cannot Invoke \"module.lineup...\" error"}
+{"id":1195823918,"created_at":"2022-04-07T10:08:59Z","updated_at":"2022-04-08T01:28:47Z","state":"closed","title":"[최재석]9일차 Swing"}
+{"id":1237512893,"created_at":"2022-05-16T18:04:26Z","updated_at":"2022-05-18T17:16:22Z","state":"closed","title":"[SP-6118] Backport of  PDI-19426: Calculator step: No error occurs ev…"}
+{"id":1198666372,"created_at":"2022-04-09T15:05:56Z","updated_at":"2022-04-09T15:12:54Z","state":"closed","title":"Swing task monitor"}
+{"id":1238868866,"created_at":"2022-05-17T16:09:05Z","updated_at":"2022-05-25T08:36:57Z","state":"closed","title":"[SP-6090] Backport of PDI-19320 - XML output with servlet with carte sh (9.2 Suite)"}
+{"id":1193849797,"created_at":"2022-04-05T23:56:21Z","updated_at":"2022-04-06T00:37:26Z","state":"closed","title":"[최재석] 7일차 Swing"}
+{"id":1206402971,"created_at":"2022-04-17T15:09:28Z","updated_at":"2022-04-18T06:51:47Z","state":"closed","title":"[Refactor] 프로젝트 패키지 구조"}
+{"id":1240335376,"created_at":"2022-05-18T18:14:23Z","updated_at":"2022-05-19T10:00:08Z","state":"closed","title":"[SP-6120] Backport of PDI-19423 Calculator step: The result of SQRT(A…"}
+{"id":1192463211,"created_at":"2022-04-05T00:34:41Z","updated_at":"2022-04-05T00:38:13Z","state":"closed","title":"[최재석]6일차 Swing"}
+{"id":1243076625,"created_at":"2022-05-20T12:25:55Z","updated_at":"2022-05-24T11:26:28Z","state":"closed","title":"Removing isEventDispatchThread - it causes problems in headless env"}
+{"id":1213802569,"created_at":"2022-04-24T23:42:39Z","updated_at":"2022-04-25T06:29:23Z","state":"closed","title":"Consider migrating away from Java/Swing!"}
+{"id":1180548222,"created_at":"2022-03-25T09:30:02Z","updated_at":"2022-04-13T19:10:04Z","state":"closed","title":"Umsetzung Swing"}
+{"id":1242785221,"created_at":"2022-05-20T08:07:46Z","updated_at":"2022-05-23T13:21:35Z","state":"closed","title":"crash when annotating crops"}
+{"id":1245944366,"created_at":"2022-05-24T03:54:20Z","updated_at":"2022-05-24T08:10:43Z","state":"closed","title":"Add another java specific example for the tree model classes in swing"}
+{"id":1213361422,"created_at":"2022-04-23T16:56:53Z","updated_at":"2022-05-19T13:11:40Z","state":"closed","title":"Rewrite the screen-sharing example"}
+{"id":1246726961,"created_at":"2022-05-24T15:23:09Z","updated_at":"2022-05-25T07:44:39Z","state":"closed","title":"Music Player: Use Custom SoundFont doesn't work"}
+{"id":1239573395,"created_at":"2022-05-18T07:54:36Z","updated_at":"2022-05-18T09:44:32Z","state":"closed","title":"InaccessibleObjectException in IconListCellRendererTest"}
+{"id":1192761659,"created_at":"2022-04-05T07:49:21Z","updated_at":"2022-04-05T11:32:05Z","state":"closed","title":"Feature branch swing"}
+{"id":1218960122,"created_at":"2022-04-28T16:13:14Z","updated_at":"2022-04-28T17:26:54Z","state":"closed","title":"[BUG] npe in training prediction panel "}
+{"id":1203541093,"created_at":"2022-04-13T16:40:00Z","updated_at":"2022-05-12T05:10:33Z","state":"closed","title":"IMPORTLIST extension (v15) crashes on Windows (not Mac) with NPE. Moneydance 2022.3 build 4060 upwards..."}
+{"id":1236853937,"created_at":"2022-05-16T09:11:12Z","updated_at":"2022-05-19T19:02:24Z","state":"closed","title":"Java janus desktop app"}
+{"id":1232150059,"created_at":"2022-05-11T07:39:55Z","updated_at":"2022-05-11T12:51:28Z","state":"closed","title":"Crash on OsmAndMapCreator.bat"}
+{"id":1177523783,"created_at":"2022-03-23T02:42:36Z","updated_at":"2022-03-23T05:24:13Z","state":"closed","title":"cb swing"}
+{"id":1243923930,"created_at":"2022-05-21T09:10:15Z","updated_at":"2022-05-26T12:38:56Z","state":"closed","title":"[Week 14] timer 3분， 5분 추가 (운관)"}
+{"id":1222680374,"created_at":"2022-05-02T09:35:20Z","updated_at":"2022-05-23T05:31:17Z","state":"closed","title":"JDK 17 not works for keymap `command + ~` on macos m1"}
+{"id":1224895908,"created_at":"2022-05-04T03:54:53Z","updated_at":"2022-05-04T08:45:36Z","state":"closed","title":"添加Armv8，Mars"}
+{"id":1242918511,"created_at":"2022-05-20T10:03:28Z","updated_at":"2022-05-23T07:50:06Z","state":"closed","title":"Replace RealParameter inputs with Functions in population models."}
+{"id":1230329059,"created_at":"2022-05-09T22:46:56Z","updated_at":"2022-05-10T22:28:28Z","state":"closed","title":"Issue #11214: Specify violation messages for ImportControlCheck"}
+{"id":1198902451,"created_at":"2022-04-10T06:27:35Z","updated_at":"2022-04-12T15:23:58Z","state":"closed","title":"Remove Swing dependency of base source folder"}
+{"id":1211601787,"created_at":"2022-04-21T22:10:47Z","updated_at":"2022-04-21T22:11:34Z","state":"closed","title":"feat: criando tela de acesso do java swing"}
+{"id":1184311848,"created_at":"2022-03-29T05:07:32Z","updated_at":"2022-04-09T20:38:00Z","state":"closed","title":"JavaX Swing GUI"}
+{"id":1213980986,"created_at":"2022-04-25T05:12:15Z","updated_at":"2022-04-26T14:40:50Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1234709033,"created_at":"2022-05-13T03:58:46Z","updated_at":"2022-05-14T23:38:23Z","state":"closed","title":"clientui: setResizable after setVisible"}
+{"id":1159800558,"created_at":"2022-03-04T16:03:30Z","updated_at":"2022-03-09T01:58:01Z","state":"closed","title":"Swing"}
+{"id":1196838344,"created_at":"2022-04-08T05:15:04Z","updated_at":"2022-04-10T06:27:57Z","state":"closed","title":"Remove Swing dependency of base source folder"}
+{"id":1176503140,"created_at":"2022-03-22T09:26:38Z","updated_at":"2022-04-13T19:18:10Z","state":"closed","title":"Swing anzeigen lassen"}
+{"id":1176500873,"created_at":"2022-03-22T09:25:28Z","updated_at":"2022-04-13T19:10:50Z","state":"closed","title":"Informationen über Swing sammeln"}
+{"id":1247143146,"created_at":"2022-05-24T21:26:40Z","updated_at":"2022-05-25T18:28:26Z","state":"closed","title":"[SP-6139] [PDI-18826] Pentaho platform needs to be able to provide po…"}
+{"id":1245942443,"created_at":"2022-05-24T03:50:26Z","updated_at":"2022-05-24T08:56:16Z","state":"closed","title":"ArrayIndexOutOfBoundsException occurs upon trying to open any 3D view"}
+{"id":1241994837,"created_at":"2022-05-19T15:58:49Z","updated_at":"2022-05-19T20:50:47Z","state":"closed","title":"Fix Date Bug in Month View + Tooltip on Hover"}
+{"id":1213280415,"created_at":"2022-04-23T11:47:44Z","updated_at":"2022-04-23T11:52:17Z","state":"closed","title":"the manager ui first stage with the search and add offer done"}
+{"id":1210374463,"created_at":"2022-04-21T01:05:01Z","updated_at":"2022-04-24T02:51:18Z","state":"closed","title":"Update ActionClock. Add ActionClockRate"}
+{"id":1246660927,"created_at":"2022-05-24T14:37:22Z","updated_at":"2022-05-24T16:22:21Z","state":"closed","title":"[SP-6122] - Backport of PDI-19396 - Error in Null Handling: Filter Rows， Anything using di.core.Condition (9.2 Suite)"}
+{"id":1157932434,"created_at":"2022-03-03T03:42:17Z","updated_at":"2022-03-04T22:05:39Z","state":"closed","title":"Swing"}
+{"id":1197025729,"created_at":"2022-04-08T08:46:24Z","updated_at":"2022-04-08T08:46:35Z","state":"closed","title":"Feature/oli/implementation of a swing GUI"}
+{"id":1214651209,"created_at":"2022-04-25T15:04:26Z","updated_at":"2022-04-25T15:05:52Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1235003884,"created_at":"2022-05-13T09:45:51Z","updated_at":"2022-05-15T19:40:57Z","state":"closed","title":"Invalid memory access when play a video has  mkv format (this file has ASS format subtitles)，then play another video."}
+{"id":1232918555,"created_at":"2022-05-11T16:39:04Z","updated_at":"2022-05-11T16:40:51Z","state":"closed","title":"GUI template AB#537"}
+{"id":1213909452,"created_at":"2022-04-25T03:22:19Z","updated_at":"2022-04-25T07:24:24Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1208034702,"created_at":"2022-04-19T09:10:30Z","updated_at":"2022-04-22T06:48:24Z","state":"closed","title":"8284993: Replace System.exit call in swing tests with RuntimeException"}
+{"id":1225611823,"created_at":"2022-05-04T16:32:09Z","updated_at":"2022-05-04T18:29:42Z","state":"closed","title":"8286138: ProblemList javax/swing/JInternalFrame/8146321/JInternalFrameIconTest.java on macosx-aarch64"}
+{"id":1211474408,"created_at":"2022-04-21T19:38:56Z","updated_at":"2022-04-26T17:13:32Z","state":"closed","title":"Bump javafx-swing from 18 to 18.0.1"}
+{"id":1174385790,"created_at":"2022-03-19T22:29:35Z","updated_at":"2022-04-10T09:36:51Z","state":"closed","title":"[Suggestion] Hand view swing speed"}
+{"id":1239833012,"created_at":"2022-05-18T11:43:03Z","updated_at":"2022-05-25T10:29:11Z","state":"closed","title":"Switching LAF is changing JPanels custom background color"}
+{"id":1229018480,"created_at":"2022-05-08T23:37:03Z","updated_at":"2022-05-12T10:32:51Z","state":"closed","title":"AssertionException spamming logs"}
+{"id":534699093,"created_at":"2019-12-09T05:24:44Z","updated_at":"2022-05-20T05:40:36Z","state":"closed","title":"Update ClientReceiver.java with swing"}
+{"id":1167401021,"created_at":"2022-03-12T21:08:00Z","updated_at":"2022-03-12T21:21:26Z","state":"closed","title":"Swing work"}
+{"id":1199078043,"created_at":"2022-04-10T15:39:46Z","updated_at":"2022-04-10T15:41:36Z","state":"closed","title":"Revert \"Refer to drag coefficient consistently as CD\""}
+{"id":1179670664,"created_at":"2022-03-24T15:22:35Z","updated_at":"2022-05-04T07:49:13Z","state":"closed","title":"8283621: Write a regression test for CCC4400728"}
+{"id":1230356465,"created_at":"2022-05-09T23:07:40Z","updated_at":"2022-05-11T14:56:17Z","state":"closed","title":"Detachable Unit Display Removal"}
+{"id":1212997972,"created_at":"2022-04-23T00:39:58Z","updated_at":"2022-05-25T06:13:32Z","state":"closed","title":"Bump spring-core from 4.2.6.RELEASE to 5.3.19 in /oim-swing"}
+{"id":1233289626,"created_at":"2022-05-11T23:59:26Z","updated_at":"2022-05-14T22:16:35Z","state":"closed","title":"Standardizing Minimap Spelling"}
+{"id":1225231982,"created_at":"2022-05-04T11:16:17Z","updated_at":"2022-05-12T09:28:25Z","state":"closed","title":"8278348: [macos12] javax/swing/JTree/4908142/bug4908142.java fails in macos12"}
+{"id":1205760813,"created_at":"2022-04-15T17:52:30Z","updated_at":"2022-04-15T19:31:50Z","state":"closed","title":"Level up increases stats， AB#420"}
+{"id":1226643149,"created_at":"2022-05-05T13:01:17Z","updated_at":"2022-05-05T14:46:18Z","state":"closed","title":"Screenshot does not work"}
+{"id":1205624756,"created_at":"2022-04-15T14:32:39Z","updated_at":"2022-04-15T19:30:30Z","state":"closed","title":"Music stuff"}
+{"id":1243922947,"created_at":"2022-05-21T09:05:40Z","updated_at":"2022-05-26T12:39:14Z","state":"closed","title":"[Week 14] 한글 encoding 문제 (효근)"}
+{"id":1244404365,"created_at":"2022-05-22T23:57:25Z","updated_at":"2022-05-27T22:13:32Z","state":"closed","title":"Failed to Contact the OLS and other errors"}
+{"id":1228637914,"created_at":"2022-05-07T14:07:26Z","updated_at":"2022-05-08T21:41:56Z","state":"closed","title":"El comienzo"}
+{"id":1177035009,"created_at":"2022-03-22T16:46:27Z","updated_at":"2022-03-22T16:46:33Z","state":"closed","title":"frame+panel on java swing"}
+{"id":1228975173,"created_at":"2022-05-08T20:04:10Z","updated_at":"2022-05-09T23:13:38Z","state":"closed","title":"(DRAFT) Detachable Unit Detail Removal"}
+{"id":1249467327,"created_at":"2022-05-26T11:45:25Z","updated_at":"2022-05-26T16:26:12Z","state":"closed","title":"jadx.core.utils.exceptions.JadxRuntimeException: Failed to delete directory C:\\Users\\yzswk\\AppData\\Local\\Temp\\jadx-instance-1806581481949998600"}
+{"id":1189549089,"created_at":"2022-04-01T09:59:09Z","updated_at":"2022-04-01T09:59:15Z","state":"closed","title":"Added a first dummy swing GUI."}
+{"id":1236472860,"created_at":"2022-05-16T00:15:03Z","updated_at":"2022-05-18T02:06:05Z","state":"closed","title":"Cannot hit players or swing in the air using the most recent version of ForgeHax 1.16.5"}
+{"id":1199616309,"created_at":"2022-04-11T08:38:43Z","updated_at":"2022-04-21T10:15:18Z","state":"closed","title":"8284646: Some swing test fail in macos12-aarch64 host"}
+{"id":1228663937,"created_at":"2022-05-07T16:11:49Z","updated_at":"2022-05-08T11:53:48Z","state":"closed","title":"java.lang.NullPointerException: Cannot invoke \"org.fife.ui.rsyntaxtextarea.Theme.apply(org.fife.ui.rsyntaxtextarea.RSyntaxTextArea)\" because the return value of \"jadx.gui.ui.MainWindow.getEditorTheme()\" is null"}
+{"id":1146387251,"created_at":"2022-02-22T02:34:31Z","updated_at":"2022-04-21T13:25:20Z","state":"closed","title":"Make UI in Swing"}
+{"id":1213825470,"created_at":"2022-04-25T00:59:45Z","updated_at":"2022-04-25T01:58:06Z","state":"closed","title":"Add frame configuration"}
+{"id":1203297423,"created_at":"2022-04-13T13:23:28Z","updated_at":"2022-04-21T11:09:19Z","state":"closed","title":"With FlatLightLaf and setShowGrid enabled the grid lines are so faint not clear if they are there or not"}
+{"id":1220267136,"created_at":"2022-04-29T08:50:23Z","updated_at":"2022-05-04T18:50:13Z","state":"closed","title":"exception when removing an annotation (Beta)"}
+{"id":1199081087,"created_at":"2022-04-10T15:51:07Z","updated_at":"2022-04-10T15:56:59Z","state":"closed","title":"fix cancel not called when no user confirmation is required"}
+{"id":1162507930,"created_at":"2022-03-08T10:52:44Z","updated_at":"2022-05-04T07:49:00Z","state":"closed","title":"8282789: Create a regression test for the JTree usecase of JDK-4618767"}
+{"id":1150188930,"created_at":"2022-02-25T08:44:29Z","updated_at":"2022-05-23T14:22:47Z","state":"closed","title":"NullPointerException: core.model.XtraData.getNextTrainingDate()\" is null"}
+{"id":1201443836,"created_at":"2022-04-12T08:46:09Z","updated_at":"2022-04-12T13:09:20Z","state":"closed","title":"8196465: javax/swing/JComboBox/8182031/ComboPopupTest.java fails on Linux"}
+{"id":1203793661,"created_at":"2022-04-13T21:09:22Z","updated_at":"2022-04-20T16:28:46Z","state":"closed","title":"2.5.22294: MapRouteDrawer#drawCurvedPath:312 - org.apache.commons.math3.exception.NonMonotonicSequenceException"}
+{"id":1205689544,"created_at":"2022-04-15T16:08:09Z","updated_at":"2022-04-16T09:37:24Z","state":"closed","title":"Update Regicide.java. Tooltip about bringing extra ropes."}
+{"id":1149190371,"created_at":"2022-02-24T11:46:58Z","updated_at":"2022-05-04T07:48:54Z","state":"closed","title":"8282343: Create a regression test for JDK-4518432"}
+{"id":1228123353,"created_at":"2022-05-06T17:36:41Z","updated_at":"2022-05-12T15:40:24Z","state":"closed","title":"[JENKINS-51820] Removing Java Web Start support"}
+{"id":1221303801,"created_at":"2022-04-29T17:20:17Z","updated_at":"2022-05-03T15:53:54Z","state":"closed","title":"Se duplican los mensajes de pandemia"}
+{"id":1235947527,"created_at":"2022-05-14T11:17:22Z","updated_at":"2022-05-21T08:41:48Z","state":"closed","title":"[Week 13] json 2p setting"}
+{"id":1200273754,"created_at":"2022-04-11T17:10:27Z","updated_at":"2022-04-11T19:13:55Z","state":"closed","title":"8284691: ProblemList javax/swing/JTable/8236907/LastVisibleRow.java on macosx"}
+{"id":1147073743,"created_at":"2022-02-22T15:47:20Z","updated_at":"2022-05-04T07:48:55Z","state":"closed","title":"8282234: Create a regression test for JDK-4532513"}
+{"id":1198671614,"created_at":"2022-04-09T15:14:37Z","updated_at":"2022-04-10T19:40:32Z","state":"closed","title":"Adds swing ui which monitors scijava's tasks"}
+{"id":1213486426,"created_at":"2022-04-24T00:21:04Z","updated_at":"2022-04-26T00:35:16Z","state":"closed","title":"Add dispose to Programmer interface"}
+{"id":1198717793,"created_at":"2022-04-09T17:14:23Z","updated_at":"2022-04-10T01:03:28Z","state":"closed","title":"created a GUI developer file to see if we can use that. Also just cre…"}
+{"id":1206396900,"created_at":"2022-04-17T14:44:51Z","updated_at":"2022-04-18T17:06:58Z","state":"closed","title":"#1190 Tuner Management Redesign"}
+{"id":1192814699,"created_at":"2022-04-05T08:38:02Z","updated_at":"2022-04-05T12:09:05Z","state":"closed","title":"Context Menu for Screenshot Hangs"}
+{"id":1224081348,"created_at":"2022-05-03T13:17:13Z","updated_at":"2022-05-07T08:46:25Z","state":"closed","title":"Fix: line erase 횟수별 아이템 생성 동작 확인"}
+{"id":1213265928,"created_at":"2022-04-23T10:29:38Z","updated_at":"2022-04-24T09:32:26Z","state":"closed","title":"java.lang.NullPointerException"}
+{"id":1175121412,"created_at":"2022-03-21T09:38:42Z","updated_at":"2022-04-25T09:20:29Z","state":"closed","title":"Bump javafx-swing from 17.0.1 to 18"}
+{"id":1236113482,"created_at":"2022-05-14T20:18:59Z","updated_at":"2022-05-18T20:56:57Z","state":"closed","title":"Add ScriptEngineSelector to select script engine"}
+{"id":1222001805,"created_at":"2022-05-01T03:20:52Z","updated_at":"2022-05-11T12:50:59Z","state":"closed","title":"Update java.fx.version to v18.0.1 (patch)"}
+{"id":1218433967,"created_at":"2022-04-28T09:11:19Z","updated_at":"2022-04-30T02:49:48Z","state":"closed","title":"8254759: [TEST_BUG] [macosx] javax/swing/JInternalFrame/4202966/IntFrameCoord.html fails"}
+{"id":1235584108,"created_at":"2022-05-13T19:01:01Z","updated_at":"2022-05-23T08:16:32Z","state":"closed","title":"Allow to use HeapProgress in head-less environment"}
+{"id":1194389565,"created_at":"2022-04-06T10:11:33Z","updated_at":"2022-04-12T07:31:16Z","state":"closed","title":"8282716: [macos] Enable javax/swing/JScrollPane/TestMouseWheelScroll.java on macos"}
+{"id":1232748251,"created_at":"2022-05-11T14:32:14Z","updated_at":"2022-05-13T20:05:37Z","state":"closed","title":"Adjust initiative bonus processing"}
+{"id":1221898865,"created_at":"2022-04-30T19:01:13Z","updated_at":"2022-05-01T21:52:52Z","state":"closed","title":"Execption when adding new material."}
+{"id":1174832594,"created_at":"2022-03-21T03:17:22Z","updated_at":"2022-04-25T03:32:36Z","state":"closed","title":"Bump javafx-swing from 17.0.2 to 18"}
+{"id":1170993906,"created_at":"2022-03-16T13:03:01Z","updated_at":"2022-04-27T13:03:36Z","state":"closed","title":"Bump javafx-swing from 11.0.1 to 18"}
+{"id":1204854125,"created_at":"2022-04-14T18:29:50Z","updated_at":"2022-04-19T14:31:57Z","state":"closed","title":"[SP-6112] Backport of PDI-19445 - Json Parser syntax not working (9.2…"}
+{"id":1204814789,"created_at":"2022-04-14T17:50:38Z","updated_at":"2022-04-14T19:02:33Z","state":"closed","title":"Fix layout issue"}
+{"id":1206754270,"created_at":"2022-04-18T07:11:45Z","updated_at":"2022-04-27T07:18:44Z","state":"closed","title":"8208565: [TEST_BUG] javax\\swing\\PopupFactory\\6276087\\NonOpaquePopupMenuTest.java throws NPE"}
+{"id":1221990457,"created_at":"2022-05-01T02:32:46Z","updated_at":"2022-05-11T13:00:45Z","state":"closed","title":"Update java.fx.version to v18.0.1 (patch)"}
+{"id":1204550318,"created_at":"2022-04-14T13:45:13Z","updated_at":"2022-04-16T12:49:57Z","state":"closed","title":"Processing rarely aborts with a java swing exception"}
+{"id":1221991342,"created_at":"2022-05-01T02:39:05Z","updated_at":"2022-05-11T12:43:42Z","state":"closed","title":"Update java.fx.version to v18.0.1 (patch)"}
+{"id":1222006934,"created_at":"2022-05-01T03:57:43Z","updated_at":"2022-05-11T12:54:02Z","state":"closed","title":"Update java.fx.version to v18.0.1 (patch)"}
+{"id":1208787795,"created_at":"2022-04-19T19:41:51Z","updated_at":"2022-04-20T17:42:19Z","state":"closed","title":"Chore: fix NPE when Cancel button in dialog is used"}
+{"id":1210602591,"created_at":"2022-04-21T07:16:16Z","updated_at":"2022-04-21T07:44:34Z","state":"closed","title":"Bump javafx.version from 18 to 18.0.1"}
+{"id":1176802743,"created_at":"2022-03-22T13:40:02Z","updated_at":"2022-04-20T12:55:57Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 18"}
+{"id":1193466242,"created_at":"2022-04-05T16:58:18Z","updated_at":"2022-04-05T17:02:39Z","state":"closed","title":"Just playing around with Swing GUI， AB#416"}
+{"id":1194719562,"created_at":"2022-04-06T14:45:52Z","updated_at":"2022-04-06T19:21:54Z","state":"closed","title":"Not having a camera causes errors"}
+{"id":1170993853,"created_at":"2022-03-16T13:02:58Z","updated_at":"2022-04-27T13:05:40Z","state":"closed","title":"Bump javafx-swing from 11.0.1 to 18"}
+{"id":1212976359,"created_at":"2022-04-22T23:46:37Z","updated_at":"2022-04-28T11:02:46Z","state":"closed","title":"Bump spring-core from 5.2.7.RELEASE to 5.3.19 in /project-xml-swing"}
+{"id":1235487196,"created_at":"2022-05-13T17:09:51Z","updated_at":"2022-05-13T18:08:15Z","state":"closed","title":"Warning message when recoding in MySQL"}
+{"id":1221869474,"created_at":"2022-04-30T16:30:55Z","updated_at":"2022-05-03T08:24:30Z","state":"closed","title":"`src/main/ui` is ambigious"}
+{"id":1223019642,"created_at":"2022-05-02T12:55:07Z","updated_at":"2022-05-03T01:17:54Z","state":"closed","title":"(0.49.7) Mek fleeing while swarmed causes crash"}
+{"id":1236244563,"created_at":"2022-05-15T10:14:54Z","updated_at":"2022-05-17T00:11:30Z","state":"closed","title":"Update BlockTableAction Test"}
+{"id":1230486823,"created_at":"2022-05-10T01:42:00Z","updated_at":"2022-05-11T14:46:08Z","state":"closed","title":"[49.8 Testing Branch] MASC Confirmation Question always chooses YES"}
+{"id":1188628163,"created_at":"2022-03-31T19:49:40Z","updated_at":"2022-04-24T16:12:15Z","state":"closed","title":"NoClassDefFoundError: org/lwjglx/debug/RT"}
+{"id":1198596944,"created_at":"2022-04-09T13:18:21Z","updated_at":"2022-04-09T13:26:37Z","state":"closed","title":"Client Crashes on macOS when changing display presets."}
+{"id":1165473210,"created_at":"2022-03-10T16:49:45Z","updated_at":"2022-03-16T17:53:18Z","state":"closed","title":"Fix Structure (Swing)"}
+{"id":1141069010,"created_at":"2022-02-17T09:18:59Z","updated_at":"2022-05-03T08:31:51Z","state":"closed","title":"SPARK-2257: Make execution on Event Dispatch Thread more explicit"}
+{"id":1190657251,"created_at":"2022-04-02T15:03:05Z","updated_at":"2022-04-22T12:28:40Z","state":"closed","title":"JTable: Fix absence of horizontal scrollbar and add popup menu actions"}
+{"id":1217445958,"created_at":"2022-04-27T14:30:29Z","updated_at":"2022-04-30T09:48:08Z","state":"closed","title":"Tensioned bow is not displayed."}
+{"id":1169596934,"created_at":"2022-03-15T12:17:37Z","updated_at":"2022-04-20T12:24:22Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 18"}
+{"id":1228698269,"created_at":"2022-05-07T18:55:24Z","updated_at":"2022-05-13T20:18:04Z","state":"closed","title":"[WIP] Parse and tree view refresh in background"}
+{"id":1228934648,"created_at":"2022-05-08T16:50:22Z","updated_at":"2022-05-09T08:52:10Z","state":"closed","title":"Fix links and LICENSE"}
+{"id":1169598633,"created_at":"2022-03-15T12:19:13Z","updated_at":"2022-04-20T12:55:39Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 18"}
+{"id":1169589625,"created_at":"2022-03-15T12:10:39Z","updated_at":"2022-04-20T12:14:20Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 18"}
+{"id":1141552325,"created_at":"2022-02-17T16:17:31Z","updated_at":"2022-05-24T09:13:53Z","state":"closed","title":"Allow adding/removing/adding a chart canvas from a frame without exception."}
+{"id":1212493401,"created_at":"2022-04-22T15:20:49Z","updated_at":"2022-04-22T15:20:59Z","state":"closed","title":"modified speechToText class to have direct access to the Swing Jpanel…"}
+{"id":1244524815,"created_at":"2022-05-23T03:28:20Z","updated_at":"2022-05-23T08:07:50Z","state":"closed","title":"Bump geotools.version from 26.4 to 27.0"}
+{"id":1169594794,"created_at":"2022-03-15T12:15:38Z","updated_at":"2022-04-20T12:22:06Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 18"}
+{"id":1209336189,"created_at":"2022-04-20T08:19:26Z","updated_at":"2022-04-20T12:12:16Z","state":"closed","title":"fix(deps): update dependency org.openjfx:javafx-swing to v18.0.1"}
+{"id":1236286002,"created_at":"2022-05-15T13:15:53Z","updated_at":"2022-05-19T00:21:21Z","state":"closed","title":"Editor - No User Level warning for Switch tables"}
+{"id":1190762369,"created_at":"2022-04-02T23:21:03Z","updated_at":"2022-04-08T21:30:44Z","state":"closed","title":"8283706: Add final or sealed modifier to appropriate javax.swing API classes"}
+{"id":1204109239,"created_at":"2022-04-14T06:50:10Z","updated_at":"2022-05-05T08:51:20Z","state":"closed","title":"7132796: [macosx] closed/javax/swing/JComboBox/4517214/bug4517214.java fails on MacOS"}
+{"id":1224084983,"created_at":"2022-05-03T13:19:14Z","updated_at":"2022-05-08T10:46:43Z","state":"closed","title":"REFACTOR: eraseLines refactoring"}
+{"id":1224027109,"created_at":"2022-05-03T12:22:53Z","updated_at":"2022-05-07T00:59:09Z","state":"closed","title":"Editor - Saving Nissan ROM fails with Error"}
+{"id":1223172359,"created_at":"2022-05-02T17:58:11Z","updated_at":"2022-05-03T09:16:46Z","state":"closed","title":"[bug] Some special settings will cause IllegalArgumentException when importing from height map."}
+{"id":1223172359,"created_at":"2022-05-02T17:58:11Z","updated_at":"2022-05-03T09:16:46Z","state":"closed","title":"[bug] Some special settings will cause IllegalArgumentException when importing from height map."}
+{"id":1190836435,"created_at":"2022-04-03T06:48:22Z","updated_at":"2022-04-04T13:24:17Z","state":"closed","title":"fix: make better use of Radiation Animation API features "}
+{"id":1217494281,"created_at":"2022-04-27T15:07:41Z","updated_at":"2022-04-29T08:47:08Z","state":"closed","title":"Detect current monitor (screen) change to trigger text and legend redraw"}
+{"id":1165468112,"created_at":"2022-03-10T16:44:59Z","updated_at":"2022-03-10T16:49:11Z","state":"closed","title":"Make GUI in Swing."}
+{"id":1205449051,"created_at":"2022-04-15T09:57:53Z","updated_at":"2022-04-19T07:00:11Z","state":"closed","title":"8266246: Swing test PressedIconTest.java sometimes fails on macOS 11 ARM"}
+{"id":1210457723,"created_at":"2022-04-21T03:46:49Z","updated_at":"2022-04-21T15:29:55Z","state":"closed","title":"[Component] Command Menus should toggle when opening and closing"}
+{"id":1124980611,"created_at":"2022-02-05T17:02:38Z","updated_at":"2022-05-19T17:54:35Z","state":"closed","title":"thoughts on Swing for version 2.8.2"}
+{"id":1211390894,"created_at":"2022-04-21T18:13:00Z","updated_at":"2022-04-28T17:01:13Z","state":"closed","title":"Completar la vista del juego"}
+{"id":1204946115,"created_at":"2022-04-14T20:25:56Z","updated_at":"2022-04-19T12:41:47Z","state":"closed","title":"8284884: Replace polling with waiting in javax/swing/text/html/parser/Parser/8078268/bug8078268.java"}
+{"id":1229213621,"created_at":"2022-05-09T05:57:56Z","updated_at":"2022-05-11T05:58:14Z","state":"closed","title":"Just resolve the problem for print a document"}
+{"id":1247381448,"created_at":"2022-05-25T02:40:25Z","updated_at":"2022-05-25T16:35:31Z","state":"closed","title":"0.49.7 Uncaught java.lang.NullPointerException mid way through a match"}
+{"id":1222441150,"created_at":"2022-05-02T03:37:13Z","updated_at":"2022-05-03T22:38:58Z","state":"closed","title":"allow extensions to add  LocoNet menu items"}
+{"id":1134353455,"created_at":"2022-02-12T17:44:23Z","updated_at":"2022-02-12T17:44:34Z","state":"closed","title":"Swing"}
+{"id":1203409364,"created_at":"2022-04-13T14:47:50Z","updated_at":"2022-04-23T15:15:15Z","state":"closed","title":"BooleanRenderer provided by JTable doesnt respect striped background if using Table.alternateRowColor"}
+{"id":1242221085,"created_at":"2022-05-19T19:18:41Z","updated_at":"2022-05-27T16:17:12Z","state":"closed","title":"Open network of .xml file does not open it"}
+{"id":1169600509,"created_at":"2022-03-15T12:20:57Z","updated_at":"2022-04-20T12:46:09Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 18"}
+{"id":1199878209,"created_at":"2022-04-11T12:08:58Z","updated_at":"2022-05-03T19:51:41Z","state":"closed","title":"Fins in duplicate pods in a set do not contribute to hover-over mass value in rocket design window"}
+{"id":1205620727,"created_at":"2022-04-15T14:26:53Z","updated_at":"2022-04-21T20:09:44Z","state":"closed","title":"Fix long delay when using \"undo all\" with lots of moves."}
+{"id":1209160256,"created_at":"2022-04-20T04:52:08Z","updated_at":"2022-04-20T16:48:25Z","state":"closed","title":"8266247: Swing test bug7154030.java sometimes fails on macOS 11 ARM"}
+{"id":1083859843,"created_at":"2021-12-18T15:53:57Z","updated_at":"2022-05-17T17:37:30Z","state":"closed","title":"Added Swing component and logic for this component"}
+{"id":1187895388,"created_at":"2022-03-31T10:52:41Z","updated_at":"2022-05-05T10:08:12Z","state":"closed","title":"Error connecting to GBQ - \"Could not initialize class sun.font.SunFontManager\""}
+{"id":1208331136,"created_at":"2022-04-19T12:53:35Z","updated_at":"2022-04-20T09:04:52Z","state":"closed","title":"8042381: Test javax/swing/JRootPane/4670486/bug4670486.java fails with Action has not been received"}
+{"id":1194777678,"created_at":"2022-04-06T15:30:14Z","updated_at":"2022-04-06T15:37:15Z","state":"closed","title":"2.0.1"}
+{"id":1209765810,"created_at":"2022-04-20T14:22:49Z","updated_at":"2022-04-25T13:44:24Z","state":"closed","title":"8284884: Replace polling with waiting in javax/swing/text/html/parser/Parser/8078268/bug8078268.java"}
+{"id":1169597638,"created_at":"2022-03-15T12:18:16Z","updated_at":"2022-04-20T12:24:58Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 18"}
+{"id":1169592817,"created_at":"2022-03-15T12:13:43Z","updated_at":"2022-04-20T12:19:11Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 18"}
+{"id":1190994724,"created_at":"2022-04-03T17:33:04Z","updated_at":"2022-04-13T05:57:48Z","state":"closed","title":"Lesson 4"}
+{"id":1221579685,"created_at":"2022-04-29T21:39:22Z","updated_at":"2022-05-03T16:30:14Z","state":"closed","title":"Create new food error"}
+{"id":1206229044,"created_at":"2022-04-16T22:29:13Z","updated_at":"2022-04-29T20:36:01Z","state":"closed","title":"Splitting finset causes null pointer exception closing component analysis dialog"}
+{"id":1235866289,"created_at":"2022-05-14T04:29:04Z","updated_at":"2022-05-22T19:56:20Z","state":"closed","title":"created combat-level-calc"}
+{"id":1214236835,"created_at":"2022-04-25T09:37:10Z","updated_at":"2022-05-12T08:58:13Z","state":"closed","title":"8284888 : [macos] javax/swing/JInternalFrame/8146321/JInternalFrameIconTest.java failed with \"NimbusLookAndFeel] : ERROR: icon and imageIcon not same.\""}
+{"id":1210929879,"created_at":"2022-04-21T11:56:15Z","updated_at":"2022-04-21T13:20:34Z","state":"closed","title":"Code cleanup run to add missing annotations org.eclipse.wb.swing.java6"}
+{"id":1210928040,"created_at":"2022-04-21T11:54:22Z","updated_at":"2022-04-21T13:21:00Z","state":"closed","title":"Code cleanup run to add missing annotations org.eclipse.wb.swing.FormLayout"}
+{"id":1205230035,"created_at":"2022-04-15T03:42:59Z","updated_at":"2022-04-21T09:10:33Z","state":"closed","title":"[General] NPE when clicking \"Open Website\" for certain modpacks"}
+{"id":1186634521,"created_at":"2022-03-30T15:29:41Z","updated_at":"2022-03-31T06:24:22Z","state":"closed","title":"Implement export command"}
+{"id":1177269026,"created_at":"2022-03-22T20:26:40Z","updated_at":"2022-03-22T20:26:46Z","state":"closed","title":"ChatBotSwing"}
+{"id":1228852209,"created_at":"2022-05-08T10:34:39Z","updated_at":"2022-05-08T16:03:44Z","state":"closed","title":"GUI of the app not displayed fully."}
+{"id":1181282040,"created_at":"2022-03-25T21:24:41Z","updated_at":"2022-03-25T21:28:01Z","state":"closed","title":"Fixes a couple of issues with restarting"}
+{"id":1206343355,"created_at":"2022-04-17T10:51:55Z","updated_at":"2022-05-25T11:59:40Z","state":"closed","title":"[FEATURE] Recalculation of players skill after reimporting old HRF files"}
+{"id":1200647472,"created_at":"2022-04-11T22:54:26Z","updated_at":"2022-04-11T23:26:17Z","state":"closed","title":"Runelite crashes on startup"}
+{"id":1209427181,"created_at":"2022-04-20T09:33:41Z","updated_at":"2022-04-20T09:34:23Z","state":"closed","title":"chore(deps): bump javafx-swing from 18 to 18.0.1"}
+{"id":1223506227,"created_at":"2022-05-03T00:27:04Z","updated_at":"2022-05-12T00:53:19Z","state":"closed","title":"0.49.8 Testing Branch"}
+{"id":1210272508,"created_at":"2022-04-20T22:12:43Z","updated_at":"2022-04-21T13:43:59Z","state":"closed","title":"Swapping to using a single XTableColumnModel"}
+{"id":1224127511,"created_at":"2022-05-03T13:43:23Z","updated_at":"2022-05-08T10:47:18Z","state":"closed","title":"CHORE: launch4j 및 test"}
+{"id":1209861904,"created_at":"2022-04-20T15:37:13Z","updated_at":"2022-04-20T16:27:37Z","state":"closed","title":"Fix dialog scaling bug"}
+{"id":1170388219,"created_at":"2022-03-16T00:12:15Z","updated_at":"2022-05-11T08:55:27Z","state":"closed","title":"Backport \"Release 0.1\""}
+{"id":1162900230,"created_at":"2022-03-08T17:01:50Z","updated_at":"2022-04-17T20:57:32Z","state":"closed","title":"NullPointer in PopupMenuContainer caused by JTabbedPane with SCROLL_TAB_LAYOUT"}
+{"id":1165422866,"created_at":"2022-03-10T16:09:18Z","updated_at":"2022-03-14T07:49:08Z","state":"closed","title":"8210039: move OSInfo to top level testlibrary"}
+{"id":1198631718,"created_at":"2022-04-09T14:21:27Z","updated_at":"2022-04-09T19:34:45Z","state":"closed","title":"font character not accepted"}
+{"id":1207075500,"created_at":"2022-04-18T13:56:31Z","updated_at":"2022-04-19T10:31:31Z","state":"closed","title":"Rating change"}
+{"id":1219905853,"created_at":"2022-04-29T05:36:55Z","updated_at":"2022-05-19T14:18:11Z","state":"closed","title":"NPE in TableChooserDialog: Null address passed to ProgramLocation"}
+{"id":1209826195,"created_at":"2022-04-20T15:08:43Z","updated_at":"2022-04-21T06:19:03Z","state":"closed","title":"Cost calculations"}
+{"id":1109854566,"created_at":"2022-01-20T23:12:48Z","updated_at":"2022-04-15T20:19:46Z","state":"closed","title":"Update Transition interface name in Swing module"}
+{"id":1205278585,"created_at":"2022-04-15T05:26:11Z","updated_at":"2022-04-15T08:33:35Z","state":"closed","title":"8042380: Test javax/swing/JFileChooser/4524490/bug4524490.java fails with InvocationTargetException"}
+{"id":1175161322,"created_at":"2022-03-21T10:13:43Z","updated_at":"2022-03-25T12:55:15Z","state":"closed","title":"Bump javafx-swing from 17.0.2 to 18"}
+{"id":1205793019,"created_at":"2022-04-15T18:48:40Z","updated_at":"2022-05-07T03:38:46Z","state":"closed","title":"Mole client crash with HD turned on"}
+{"id":1188499964,"created_at":"2022-03-31T18:45:17Z","updated_at":"2022-04-28T11:03:14Z","state":"closed","title":"Bump spring-beans from 5.2.7.RELEASE to 5.3.18 in /project-xml-swing"}
+{"id":1165045389,"created_at":"2022-03-10T10:36:17Z","updated_at":"2022-03-10T11:40:18Z","state":"closed","title":"Don't depend on kotlinx-coroutines-swing"}
+{"id":1206503792,"created_at":"2022-04-17T22:45:23Z","updated_at":"2022-04-18T06:54:38Z","state":"closed","title":"[Logic] 기본 로직 추가 구현"}
+{"id":1184318396,"created_at":"2022-03-29T05:16:58Z","updated_at":"2022-04-02T00:51:43Z","state":"closed","title":"Catch up to the main branch， remove Swing code， and cleanup old JavaFX code"}
+{"id":1221886132,"created_at":"2022-04-30T17:55:10Z","updated_at":"2022-05-02T14:28:20Z","state":"closed","title":"ExecutionException: java.io.IOException: failed to start child process"}
+{"id":1207097237,"created_at":"2022-04-18T14:19:28Z","updated_at":"2022-04-21T16:28:43Z","state":"closed","title":"reset 후 키보드 값이 변경 안됨."}
+{"id":1221845495,"created_at":"2022-04-30T14:34:55Z","updated_at":"2022-05-02T14:27:13Z","state":"closed","title":"ExecutionException: java.io.IOException: failed to start child process"}
+{"id":1222776842,"created_at":"2022-05-02T11:31:17Z","updated_at":"2022-05-12T04:45:58Z","state":"closed","title":"8134640 ( Left Insets Margin Test ) moved to open repo from closed"}
+{"id":1162377860,"created_at":"2022-03-08T08:44:54Z","updated_at":"2022-05-12T11:38:31Z","state":"closed","title":"Parse error  - different base classes"}
+{"id":1164381600,"created_at":"2022-03-09T20:01:12Z","updated_at":"2022-03-09T20:01:19Z","state":"closed","title":"Signup and Login with Java Swing  Library"}
+{"id":370190124,"created_at":"2018-10-15T14:28:04Z","updated_at":"2022-04-16T14:01:21Z","state":"closed","title":"Remove org.switglabs.swing-layout"}
+{"id":1201774743,"created_at":"2022-04-12T12:27:22Z","updated_at":"2022-04-13T11:01:58Z","state":"closed","title":"8194946: Regression automated Test 'javax/swing/JFileChooser/6738668/bug6738668.java' fails"}
+{"id":1218931836,"created_at":"2022-04-28T15:50:05Z","updated_at":"2022-05-02T14:25:54Z","state":"closed","title":"ExecutionException: java.io.IOException: failed to start child process"}
+{"id":1218912777,"created_at":"2022-04-28T15:35:34Z","updated_at":"2022-05-02T14:25:19Z","state":"closed","title":"ExecutionException: java.io.IOException: failed to start child process"}
+{"id":1218885541,"created_at":"2022-04-28T15:15:15Z","updated_at":"2022-05-02T14:26:14Z","state":"closed","title":"ExecutionException: java.io.IOException: failed to start child process"}
+{"id":1200966102,"created_at":"2022-04-12T03:50:18Z","updated_at":"2022-04-21T11:04:39Z","state":"closed","title":"Layout loop caused by FlatSplitPaneUI"}
+{"id":1172738800,"created_at":"2022-03-17T18:35:02Z","updated_at":"2022-03-17T18:48:28Z","state":"closed","title":"Proper Promotion/Underpromotion Support"}
+{"id":1167633230,"created_at":"2022-03-13T16:49:00Z","updated_at":"2022-04-02T07:59:23Z","state":"closed","title":"[tado] Add support for fanLevel， verticalSwing， horizontalSwing， light API"}
+{"id":1218343076,"created_at":"2022-04-28T07:52:39Z","updated_at":"2022-05-02T14:23:54Z","state":"closed","title":"ExecutionException: java.io.IOException: failed to start child process"}
+{"id":1221611296,"created_at":"2022-04-29T22:00:50Z","updated_at":"2022-05-10T15:22:34Z","state":"closed","title":"Inspection #FormViewTemplate has no description (PluginException)"}
+{"id":1245897103,"created_at":"2022-05-24T02:32:04Z","updated_at":"2022-05-24T07:14:50Z","state":"closed","title":"JDK-8287194: build failure on riscv after JDK-8286825"}
+{"id":1188633065,"created_at":"2022-03-31T19:52:18Z","updated_at":"2022-04-23T00:40:03Z","state":"closed","title":"Bump spring-core from 4.2.6.RELEASE to 5.3.18 in /oim-swing"}
+{"id":1188527772,"created_at":"2022-03-31T18:59:21Z","updated_at":"2022-04-22T23:46:41Z","state":"closed","title":"Bump spring-core from 5.2.7.RELEASE to 5.3.18 in /project-xml-swing"}
+{"id":1127458855,"created_at":"2022-02-08T16:09:08Z","updated_at":"2022-03-03T15:38:26Z","state":"closed","title":"Rfid swing tagcarwin tests"}
+{"id":1245488552,"created_at":"2022-05-23T17:25:30Z","updated_at":"2022-05-24T11:29:16Z","state":"closed","title":"8287174: Remove deprecated configure arguments"}
+{"id":1189398733,"created_at":"2022-04-01T07:48:32Z","updated_at":"2022-05-07T13:03:53Z","state":"closed","title":"[BUG] Mac M1 JDK 17 - sample app fails to start"}
+{"id":1174899925,"created_at":"2022-03-21T05:13:59Z","updated_at":"2022-03-23T21:46:34Z","state":"closed","title":"Bump javafx-swing from 17.0.2 to 18"}
+{"id":1168113070,"created_at":"2022-03-14T09:35:05Z","updated_at":"2022-03-14T16:27:15Z","state":"closed","title":"Make flamegraph swing component as a lib"}
+{"id":1198561732,"created_at":"2022-04-09T12:17:24Z","updated_at":"2022-04-09T15:33:44Z","state":"closed","title":"issue load gui design"}
+{"id":1190666450,"created_at":"2022-04-02T15:40:32Z","updated_at":"2022-04-04T20:52:07Z","state":"closed","title":"Fix Particle Editor Issues after recent commits， close #6816"}
+{"id":1189993497,"created_at":"2022-04-01T15:57:51Z","updated_at":"2022-04-05T18:28:03Z","state":"closed","title":"Native file chooser support"}
+{"id":1225448007,"created_at":"2022-05-04T14:25:22Z","updated_at":"2022-05-13T02:07:40Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception  com.intellij.diagnostic.PluginException: User data is not supported; editorClass='com.microsoft.azure.toolkit.intellij.legacy.function.FunctionAppPropertyView'; key='editor.notification.provider' [Plugin: com.microsoft.tooling.msservices.intellij.azure]"}
+{"id":1172857942,"created_at":"2022-03-17T20:04:26Z","updated_at":"2022-04-25T22:21:45Z","state":"closed","title":"Native window decorations character encoding issue - Incorrect title shown on Windows taskbar"}
+{"id":1221912788,"created_at":"2022-04-30T20:17:30Z","updated_at":"2022-05-01T10:13:40Z","state":"closed","title":"Uploading Screenshot of reticle not working"}
+{"id":1124253347,"created_at":"2022-02-04T14:17:11Z","updated_at":"2022-02-11T08:25:49Z","state":"closed","title":"Better swing"}
+{"id":1144979597,"created_at":"2022-02-20T10:28:05Z","updated_at":"2022-02-20T19:17:08Z","state":"closed","title":"Swing animations still choppy"}
+{"id":1213626129,"created_at":"2022-04-24T11:22:54Z","updated_at":"2022-05-08T23:09:48Z","state":"closed","title":"[BUG] re-importing a HRF files gives an unrecoverable error"}
+{"id":1171615249,"created_at":"2022-03-16T22:20:18Z","updated_at":"2022-03-18T14:35:16Z","state":"closed","title":"ClassNotFoundException: org.netbeans.lib.uihandler.Decorations"}
+{"id":1206334059,"created_at":"2022-04-17T10:04:12Z","updated_at":"2022-04-24T11:10:27Z","state":"closed","title":"[BUG] TeamAnalyzer Error on initial installation"}
+{"id":1174632890,"created_at":"2022-03-20T18:02:08Z","updated_at":"2022-03-29T07:51:48Z","state":"closed","title":"Causes the first person arm not to swing"}
+{"id":1210169583,"created_at":"2022-04-20T20:17:13Z","updated_at":"2022-04-20T21:20:52Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1146127729,"created_at":"2022-02-21T18:47:42Z","updated_at":"2022-02-22T09:18:08Z","state":"closed","title":"Bug/swing chart black 238"}
+{"id":1187509875,"created_at":"2022-03-31T04:59:29Z","updated_at":"2022-05-01T19:51:08Z","state":"closed","title":"System LookAndFeel within swing interferes with images due to improper scaling on HighDPI resolutions"}
+{"id":1166685063,"created_at":"2022-03-11T17:37:48Z","updated_at":"2022-03-11T17:38:55Z","state":"closed","title":"feat: Implementation of JavaFX"}
+{"id":1175518457,"created_at":"2022-03-21T15:04:15Z","updated_at":"2022-03-21T15:05:34Z","state":"closed","title":"Bump javafx-swing from 17.0.2 to 18"}
+{"id":1179110566,"created_at":"2022-03-24T07:21:15Z","updated_at":"2022-05-10T04:04:05Z","state":"closed","title":"added the edge case in the related document"}
+{"id":1174825532,"created_at":"2022-03-21T03:06:55Z","updated_at":"2022-03-21T07:41:49Z","state":"closed","title":"Bump javafx-swing from 17.0.2 to 18"}
+{"id":1225783130,"created_at":"2022-05-04T19:18:45Z","updated_at":"2022-05-05T15:28:32Z","state":"closed","title":"[bug] “Edit -> Import -> Height map to current dimension” will cause IllegalArgumentException"}
+{"id":1208699132,"created_at":"2022-04-19T18:21:22Z","updated_at":"2022-05-08T10:46:35Z","state":"closed","title":"jar build error message"}
+{"id":1195293610,"created_at":"2022-04-06T23:15:26Z","updated_at":"2022-04-11T01:51:57Z","state":"closed","title":"StringUtility: Renaming isNullOrEmpty to the proper isNullOrBlank"}
+{"id":1222510908,"created_at":"2022-05-02T05:55:15Z","updated_at":"2022-05-02T14:13:03Z","state":"closed","title":"[Battle Spirits Online Battlers] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Gate Open! Classic Field!.png:1，1@0.5"}
+{"id":1198911260,"created_at":"2022-04-10T06:57:58Z","updated_at":"2022-04-12T17:45:00Z","state":"closed","title":"Separation of Project Management"}
+{"id":1198909739,"created_at":"2022-04-10T06:52:56Z","updated_at":"2022-04-12T16:09:54Z","state":"closed","title":"Separation of Request Management"}
+{"id":1198720044,"created_at":"2022-04-09T17:23:13Z","updated_at":"2022-04-17T10:43:42Z","state":"closed","title":"[BUG] Importing .hrf files gives errors in output log"}
+{"id":1124189587,"created_at":"2022-02-04T13:11:33Z","updated_at":"2022-02-04T13:11:54Z","state":"closed","title":"Use swing"}
+{"id":1203381790,"created_at":"2022-04-13T14:27:30Z","updated_at":"2022-04-21T20:11:06Z","state":"closed","title":"Refactor and improve file chooser code."}
+{"id":1117932793,"created_at":"2022-01-28T23:23:51Z","updated_at":"2022-05-05T17:36:20Z","state":"closed","title":"Exception when using newlines with a empty line in 'attribution'"}
+{"id":1242178226,"created_at":"2022-05-19T18:44:56Z","updated_at":"2022-05-20T15:13:52Z","state":"closed","title":"Trying to Connect to LocalHost on Xmage. I have tried reading through the guides on here， but can't get it to work. Server Launches， Client， can't connect to it."}
+{"id":1158906264,"created_at":"2022-03-03T21:16:56Z","updated_at":"2022-05-26T14:24:42Z","state":"closed","title":"[SP-6110] [BAD-1920] Optional automatic updates of Hadoop *-site.xml …"}
+{"id":1213299060,"created_at":"2022-04-23T13:24:38Z","updated_at":"2022-05-12T03:43:44Z","state":"closed","title":"Clean up some code per IntelliJ suggestions."}
+{"id":1198618716,"created_at":"2022-04-09T13:57:55Z","updated_at":"2022-04-10T05:50:14Z","state":"closed","title":"homework 4"}
+{"id":1205519599,"created_at":"2022-04-15T11:53:03Z","updated_at":"2022-04-17T21:02:15Z","state":"closed","title":"ExecutionException: java.lang.IllegalStateException: bad type: 35"}
+{"id":1150831267,"created_at":"2022-02-25T20:16:06Z","updated_at":"2022-05-13T17:53:29Z","state":"closed","title":"#3742 [Feature Request] Add support the Import Order in Parallel and …"}
+{"id":1227224265,"created_at":"2022-05-05T22:11:35Z","updated_at":"2022-05-05T22:49:01Z","state":"closed","title":"chore(deps): bump javafx.version from 17.0.2 to 18.0.1"}
+{"id":1190014470,"created_at":"2022-04-01T16:14:14Z","updated_at":"2022-04-07T07:58:31Z","state":"closed","title":"IconImage to JButton not set with the correct distance when using setDefaultButton()"}
+{"id":1124394691,"created_at":"2022-02-04T16:35:36Z","updated_at":"2022-03-03T15:38:31Z","state":"closed","title":"Accessibility Checks"}
+{"id":1174272655,"created_at":"2022-03-19T14:03:11Z","updated_at":"2022-04-01T04:58:21Z","state":"closed","title":"XpTracker: Add a toggle for the \"Open Wise Old Man\" menu option"}
+{"id":1172715486,"created_at":"2022-03-17T18:20:35Z","updated_at":"2022-03-18T14:42:01Z","state":"closed","title":"Legal disclaimers"}
+{"id":1216943731,"created_at":"2022-04-27T07:48:01Z","updated_at":"2022-05-02T14:10:11Z","state":"closed","title":"[La Bataille de la Moscowa 0.6] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Map AC.jpg:3，0@0.5"}
+{"id":1213296368,"created_at":"2022-04-23T13:11:01Z","updated_at":"2022-04-26T21:04:13Z","state":"closed","title":"Editor - Compare images fails to open tables"}
+{"id":1166225141,"created_at":"2022-03-11T10:02:12Z","updated_at":"2022-03-11T14:56:12Z","state":"closed","title":"[guide] Remove ref to Swing/SwtScheduler in addons appendix"}
+{"id":1204856232,"created_at":"2022-04-14T18:32:18Z","updated_at":"2022-04-14T21:45:36Z","state":"closed","title":"[BUG]NPE in training prognose panel"}
+{"id":1206314678,"created_at":"2022-04-17T08:22:21Z","updated_at":"2022-04-18T06:55:48Z","state":"closed","title":"[Refactor] 프로젝트 패키지 구조"}
+{"id":1219615096,"created_at":"2022-04-29T02:18:44Z","updated_at":"2022-05-03T03:23:00Z","state":"closed","title":"Scrolling Lag "}
+{"id":1201767782,"created_at":"2022-04-12T12:21:28Z","updated_at":"2022-04-19T09:49:43Z","state":"closed","title":"Menu bar doesn't work on Mac when using JDK17"}
+{"id":1233247554,"created_at":"2022-05-11T22:35:32Z","updated_at":"2022-05-18T16:29:39Z","state":"closed","title":"8286422: Add OIDs for RC2 and Blowfish"}
+{"id":1213940081,"created_at":"2022-04-25T04:08:30Z","updated_at":"2022-04-25T15:16:11Z","state":"closed","title":"Can't use Mimir IR system."}
+{"id":1198327762,"created_at":"2022-04-09T06:35:25Z","updated_at":"2022-04-23T13:04:52Z","state":"closed","title":"Window Decorations: How to remove the dark border?"}
+{"id":1205404755,"created_at":"2022-04-15T08:53:31Z","updated_at":"2022-04-19T18:33:49Z","state":"closed","title":"Die neuste Karte immer \"oben\" darstellen"}
+{"id":1169435233,"created_at":"2022-03-15T09:57:27Z","updated_at":"2022-03-15T10:31:02Z","state":"closed","title":"Bump javafx-swing from 17.0.2 to 18"}
+{"id":1138633020,"created_at":"2022-02-15T12:35:31Z","updated_at":"2022-05-14T11:28:06Z","state":"closed","title":"Konzeptaufgabe: Reflection"}
+{"id":1172489574,"created_at":"2022-03-17T15:40:37Z","updated_at":"2022-04-02T12:49:02Z","state":"closed","title":"feat: add animated transition to frame on double-click."}
+{"id":1181569912,"created_at":"2022-03-26T07:19:28Z","updated_at":"2022-05-04T07:49:10Z","state":"closed","title":"8283623: Create an automated regression test for JDK-4525475"}
+{"id":1248048914,"created_at":"2022-05-25T12:50:05Z","updated_at":"2022-05-26T10:08:56Z","state":"closed","title":"java.lang.IllegalAccessError: jidesoft"}
+{"id":783816995,"created_at":"2021-01-12T00:49:07Z","updated_at":"2022-05-02T19:20:06Z","state":"closed","title":"cleanup warnings"}
+{"id":1159967778,"created_at":"2022-03-04T19:20:54Z","updated_at":"2022-05-21T02:50:18Z","state":"closed","title":"Hiddenunits"}
+{"id":1205481434,"created_at":"2022-04-15T10:43:16Z","updated_at":"2022-04-24T11:07:39Z","state":"closed","title":"[BUG] error message in output.log when logo not found / no logo available"}
+{"id":1143968430,"created_at":"2022-02-18T23:53:42Z","updated_at":"2022-03-26T09:30:30Z","state":"closed","title":"fixed bug in the resize and move windows"}
+{"id":1244313299,"created_at":"2022-05-22T17:07:40Z","updated_at":"2022-05-23T01:37:11Z","state":"closed","title":"Bug Report"}
+{"id":1231337899,"created_at":"2022-05-10T15:27:04Z","updated_at":"2022-05-13T05:10:24Z","state":"closed","title":"IDE Creates Multiple Folders as File Path is Being Typed"}
+{"id":1211111500,"created_at":"2022-04-21T14:17:33Z","updated_at":"2022-05-02T14:06:31Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1200533711,"created_at":"2022-04-11T21:06:08Z","updated_at":"2022-05-16T06:33:09Z","state":"closed","title":"8284699: Include all image types to the J2DBench.ColorConvertOpTests"}
+{"id":1227612005,"created_at":"2022-05-06T09:12:17Z","updated_at":"2022-05-17T11:59:29Z","state":"closed","title":"IDE Internal Error:  \"Key in.oneton.idea.spring.assistant.plugin.suggestion.service.SuggestionService duplicated\"; version 1.5.0"}
+{"id":1233648390,"created_at":"2022-05-12T08:43:56Z","updated_at":"2022-05-13T01:56:09Z","state":"closed","title":"8286623: Bundle zlib by default with JDK on macos aarch64"}
+{"id":1229569562,"created_at":"2022-05-09T11:31:46Z","updated_at":"2022-05-13T02:06:12Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception update failed for AnAction(com.microsoft.azure.hdinsight.spark.run.action.SparkJobDebugAction， id=SparkJobDebug) with text=SparkJobDebug com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.tree.java.PsiJavaTokenImpl #JAVA  because: parent is null"}
+{"id":1178752947,"created_at":"2022-03-23T22:55:56Z","updated_at":"2022-04-11T16:20:10Z","state":"closed","title":"BV Calculation part 2"}
+{"id":1222399000,"created_at":"2022-05-02T02:07:20Z","updated_at":"2022-05-23T13:55:54Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception  com.intellij.serviceContainer.AlreadyDisposedException: Already disposed: Project(name=FirstBlockProject， containerState=DISPOSE_COMPLETED， componentStore=/Users/nicolaskoriakos/Desktop/Code/Study/First Block/FirstBlockProject) (disposed)"}
+{"id":1233176151,"created_at":"2022-05-11T20:55:29Z","updated_at":"2022-05-12T11:57:48Z","state":"closed","title":"8286601: Mac Aarch: Excessive warnings to be ignored for build jdk"}
+{"id":1186957808,"created_at":"2022-03-30T20:33:56Z","updated_at":"2022-04-06T12:11:32Z","state":"closed","title":"Children are glitched and cannot work (1.18.2)"}
+{"id":1225305446,"created_at":"2022-05-04T12:30:53Z","updated_at":"2022-05-23T12:50:59Z","state":"closed","title":"8277090 : jsr166 refresh for jdk19"}
+{"id":1200320289,"created_at":"2022-04-11T17:46:04Z","updated_at":"2022-04-16T09:25:28Z","state":"closed","title":"NullPointerException from TimelineControllerImpl.setInterval"}
+{"id":1190890001,"created_at":"2022-04-03T10:33:13Z","updated_at":"2022-04-25T22:22:42Z","state":"closed","title":"Q: Accent Color"}
+{"id":1232234598,"created_at":"2022-05-11T08:49:46Z","updated_at":"2022-05-12T13:10:54Z","state":"closed","title":"8286573: Remove the unnecessary method Attr#attribTopLevel and its usage"}
+{"id":1231650176,"created_at":"2022-05-10T20:22:39Z","updated_at":"2022-05-12T15:59:00Z","state":"closed","title":"8286287: Reading file as UTF-16 causes Error which \"shouldn't happen\""}
+{"id":1127814622,"created_at":"2022-02-08T22:14:23Z","updated_at":"2022-04-28T20:34:20Z","state":"closed","title":"Module with javafx plugin is always considered out-of-date in a fresh gradle daemon"}
+{"id":1198568730,"created_at":"2022-04-09T12:32:32Z","updated_at":"2022-04-12T14:12:30Z","state":"closed","title":"[BUG] Quickstart-Guide: Welche Klassen soll ich  importieren?"}
+{"id":1231505708,"created_at":"2022-05-10T17:59:58Z","updated_at":"2022-05-12T15:18:45Z","state":"closed","title":"8286015 JFR: Remove jfr.save.generated.asm"}
+{"id":1207710073,"created_at":"2022-04-19T04:06:21Z","updated_at":"2022-05-02T14:08:41Z","state":"closed","title":"[LF1 module] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\LF_Map4.png:1，0@0.5"}
+{"id":1205515929,"created_at":"2022-04-15T11:45:43Z","updated_at":"2022-04-17T21:03:41Z","state":"closed","title":"[TSWW] ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Map 13.BK.png:0，0@0.03125"}
+{"id":1235048599,"created_at":"2022-05-13T10:26:21Z","updated_at":"2022-05-13T10:26:43Z","state":"closed","title":"JDK 8284960"}
+{"id":1223779911,"created_at":"2022-05-03T07:39:38Z","updated_at":"2022-05-22T14:22:23Z","state":"closed","title":"Visual Background mode indicator missing"}
+{"id":1146274889,"created_at":"2022-02-21T22:26:03Z","updated_at":"2022-04-18T19:54:12Z","state":"closed","title":"#550 decompress gzip files bigger than 10000 bytes"}
+{"id":1196027099,"created_at":"2022-04-07T13:10:57Z","updated_at":"2022-04-12T13:17:57Z","state":"closed","title":"8284125: AArch64: Remove partial masked operations for SVE"}
+{"id":1102081181,"created_at":"2022-01-13T17:36:08Z","updated_at":"2022-01-13T17:36:19Z","state":"closed","title":"Swing"}
+{"id":1216355616,"created_at":"2022-04-26T18:57:37Z","updated_at":"2022-05-01T18:44:37Z","state":"closed","title":"NPE when adding node MatParam without name in Shader Editor"}
+{"id":1227248445,"created_at":"2022-05-05T22:52:23Z","updated_at":"2022-05-13T02:05:07Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception  com.intellij.diagnostic.PluginException: Cannot create extension (class=com.microsoft.azure.toolkit.intellij.arm.language.ARMTemplateFileTypeFactory) [Plugin: com.microsoft.tooling.msservices.intellij.azure]"}
+{"id":1210073297,"created_at":"2022-04-20T18:41:01Z","updated_at":"2022-04-25T03:07:22Z","state":"closed","title":"Image Icons for General Screen buttons (fast forward 1 year， 5 years， and undo last change)"}
+{"id":1174148986,"created_at":"2022-03-19T02:28:35Z","updated_at":"2022-03-25T20:20:24Z","state":"closed","title":"Add Binding Book to Item Requirements for Freeing Ungadulu QuestStep"}
+{"id":1226726540,"created_at":"2022-05-05T14:09:02Z","updated_at":"2022-05-13T02:05:21Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception  com.intellij.diagnostic.PluginException: Cannot create extension (class=com.microsoft.azure.toolkit.intellij.arm.language.ARMTemplateFileTypeFactory) [Plugin: com.microsoft.tooling.msservices.intellij.azure]"}
+{"id":1213923317,"created_at":"2022-04-25T03:39:12Z","updated_at":"2022-05-01T23:46:13Z","state":"closed","title":"Formatting structure"}
+{"id":1085870035,"created_at":"2021-12-21T14:06:36Z","updated_at":"2022-05-07T21:45:05Z","state":"closed","title":"Can't open my Big profile."}
+{"id":1172036239,"created_at":"2022-03-17T07:43:54Z","updated_at":"2022-03-24T08:08:20Z","state":"closed","title":"Unit Tests"}
+{"id":687930795,"created_at":"2020-08-28T09:11:26Z","updated_at":"2022-04-18T15:46:38Z","state":"closed","title":"ArrayIndexOutOfBoundsException in JComponent.paint"}
+{"id":1150948595,"created_at":"2022-02-25T22:58:00Z","updated_at":"2022-04-13T15:59:10Z","state":"closed","title":"Add CalculationReport tools"}
+{"id":1180525058,"created_at":"2022-03-25T09:07:02Z","updated_at":"2022-03-25T13:31:31Z","state":"closed","title":"Feat: Add solution of #103"}
+{"id":1209668241,"created_at":"2022-04-20T13:11:32Z","updated_at":"2022-05-05T18:21:08Z","state":"closed","title":"Bump javafx.version from 17.0.2 to 18.0.1"}
+{"id":1212533855,"created_at":"2022-04-22T16:02:51Z","updated_at":"2022-04-28T03:29:00Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception  com.intellij.diagnostic.PluginException: User data is not supported; editorClass='com.microsoft.azure.toolkit.intellij.redis.explorer.RedisCacheExplorer'; key='editor.notification.provider' [Plugin: com.microsoft.tooling.msservices.intellij.azure]"}
+{"id":1182422263,"created_at":"2022-03-27T07:52:17Z","updated_at":"2022-03-27T19:04:57Z","state":"closed","title":"Error when loading kfmiop from xdf/bin"}
+{"id":1087973835,"created_at":"2021-12-23T20:23:57Z","updated_at":"2022-05-02T14:05:41Z","state":"closed","title":"AntiCrystal not exploding crystals"}
+{"id":1209008135,"created_at":"2022-04-20T00:35:32Z","updated_at":"2022-05-06T01:57:17Z","state":"closed","title":"Suite Cleanup 2: Spelling Fixes"}
+{"id":988789478,"created_at":"2021-09-06T05:46:15Z","updated_at":"2022-05-15T03:03:46Z","state":"closed","title":"Turnout Table checkboxes not rendering correctly."}
+{"id":1211420604,"created_at":"2022-04-21T18:43:33Z","updated_at":"2022-04-21T21:09:27Z","state":"closed","title":"[Combat Commander: Europe] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images/Map8.png:1，0@1.0"}
+{"id":1140030609,"created_at":"2022-02-16T13:34:57Z","updated_at":"2022-03-14T16:50:50Z","state":"closed","title":"testPlan showInGui exception"}
+{"id":1113195234,"created_at":"2022-01-24T22:12:01Z","updated_at":"2022-05-13T17:49:37Z","state":"closed","title":"#3703 [Bug Report] posible leak transaction when Account Processor ca…"}
+{"id":1207202602,"created_at":"2022-04-18T16:15:13Z","updated_at":"2022-04-18T16:31:22Z","state":"closed","title":"scoreboard에서 score항목 Object로 인식되는 문제"}
+{"id":1166681981,"created_at":"2022-03-11T17:34:14Z","updated_at":"2022-04-04T20:52:18Z","state":"closed","title":"2D particle effect freezes when loading a file"}
+{"id":1165402808,"created_at":"2022-03-10T15:53:21Z","updated_at":"2022-03-11T18:47:47Z","state":"closed","title":"An error is reported when idea creates a project， and the button and list are not displayed completely"}
+{"id":1181282049,"created_at":"2022-03-25T21:24:42Z","updated_at":"2022-04-05T20:39:11Z","state":"closed","title":"Bring Task Tree UI closer to native IntelliJ Build window"}
+{"id":1222293210,"created_at":"2022-05-01T21:21:40Z","updated_at":"2022-05-06T20:03:51Z","state":"closed","title":"Logging Modernization: Updating a Bunch More System.out， System.err， and printStackTraces"}
+{"id":1119103986,"created_at":"2022-01-31T08:14:45Z","updated_at":"2022-04-27T12:25:23Z","state":"closed","title":"NPE in Hierarchy tab when input text is empty"}
+{"id":1155146408,"created_at":"2022-03-01T10:16:16Z","updated_at":"2022-03-17T09:10:39Z","state":"closed","title":"8282473: Refactor swing classes javadoc to use @throws instead of @exception"}
+{"id":1118222907,"created_at":"2022-01-29T13:54:28Z","updated_at":"2022-05-04T07:48:37Z","state":"closed","title":"8280913: Create a regression test for JRootPane.setDefaultButton() method"}
+{"id":1121912135,"created_at":"2022-02-02T13:13:59Z","updated_at":"2022-02-02T13:14:05Z","state":"closed","title":"Programms on Swing"}
+{"id":1174415813,"created_at":"2022-03-20T01:51:04Z","updated_at":"2022-03-21T22:29:01Z","state":"closed","title":"Log4j2: Migrating a bunch of Legacy Logging"}
+{"id":1185463622,"created_at":"2022-03-29T21:59:08Z","updated_at":"2022-04-07T20:22:08Z","state":"closed","title":"Task interface and DefaultTask modifications - backward compatible"}
+{"id":1209289902,"created_at":"2022-04-20T07:43:44Z","updated_at":"2022-04-25T16:13:25Z","state":"closed","title":"NPE when closing a project (Intellij IDEA 2022.1 ; Plugin ANTLR v4 1.17)"}
+{"id":1178575874,"created_at":"2022-03-23T19:34:09Z","updated_at":"2022-04-04T00:42:35Z","state":"closed","title":"Add new solenoids to robot"}
+{"id":1163741438,"created_at":"2022-03-09T10:14:03Z","updated_at":"2022-03-09T10:26:25Z","state":"closed","title":"First version of Manager controller and model to debug and build the calculators "}
+{"id":920151090,"created_at":"2021-06-14T08:13:50Z","updated_at":"2022-04-25T03:00:23Z","state":"closed","title":"Bump material-ui-swing from 1.1.2-rc2 to 1.1.2"}
+{"id":1202399057,"created_at":"2022-04-12T21:18:18Z","updated_at":"2022-04-24T19:16:35Z","state":"closed","title":"chore(deps): bump reactor-extra from 3.4.6 to 3.4.8"}
+{"id":1137468539,"created_at":"2022-02-14T15:29:03Z","updated_at":"2022-02-14T17:03:40Z","state":"closed","title":"Fix swing frames updated in EncounterManager"}
+{"id":1068814077,"created_at":"2021-12-01T19:57:33Z","updated_at":"2022-04-07T08:53:51Z","state":"closed","title":"\"Should not reach here\" error compiling a Swing application"}
+{"id":1203374748,"created_at":"2022-04-13T14:22:19Z","updated_at":"2022-04-19T13:25:11Z","state":"closed","title":"Backward direction of the simulation failed"}
+{"id":1198372740,"created_at":"2022-04-09T07:10:50Z","updated_at":"2022-04-12T12:12:41Z","state":"closed","title":"8284622: Update versions of some Github Actions used in JDK workflow"}
+{"id":963476485,"created_at":"2021-08-08T17:14:26Z","updated_at":"2022-04-30T02:34:05Z","state":"closed","title":"WIP - SPI for LnMenu item extension"}
+{"id":1226399477,"created_at":"2022-05-05T09:00:47Z","updated_at":"2022-05-06T05:32:34Z","state":"closed","title":"8282060: RemoteRuntimeImageTest is not actually testing on JDK 8"}
+{"id":1170628340,"created_at":"2022-03-16T07:11:10Z","updated_at":"2022-03-19T07:37:53Z","state":"closed","title":"Bump javafx.version from 17.0.2 to 18"}
+{"id":727008822,"created_at":"2020-10-22T03:14:23Z","updated_at":"2022-05-25T13:43:41Z","state":"closed","title":"Brida0.4:Exception with spawn application"}
+{"id":1206650827,"created_at":"2022-04-18T04:31:40Z","updated_at":"2022-04-18T14:23:42Z","state":"closed","title":"[LF1 module] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\LF_Map4.png:0，0@0.5"}
+{"id":1174010669,"created_at":"2022-03-18T20:52:06Z","updated_at":"2022-03-20T07:06:18Z","state":"closed","title":"#3748 Note for Advanced Proxy Options"}
+{"id":1225187958,"created_at":"2022-05-04T10:29:53Z","updated_at":"2022-05-05T12:33:48Z","state":"closed","title":"8286115: G1: G1RemSetArrayOfCardsEntriesBase off-by-one error"}
+{"id":1212909711,"created_at":"2022-04-22T22:57:09Z","updated_at":"2022-04-25T00:02:00Z","state":"closed","title":"scale to 3x causes some components to look inconsistent"}
+{"id":1213261913,"created_at":"2022-04-23T10:08:05Z","updated_at":"2022-05-24T06:04:57Z","state":"closed","title":"Theme selector crashes."}
+{"id":1223524654,"created_at":"2022-05-03T01:00:20Z","updated_at":"2022-05-17T14:52:34Z","state":"closed","title":"Netbeans 13 Crash with out of memory"}
+{"id":1212352694,"created_at":"2022-04-22T13:18:36Z","updated_at":"2022-04-22T14:19:45Z","state":"closed","title":"Extent local rename"}
+{"id":1162758403,"created_at":"2022-03-08T14:57:54Z","updated_at":"2022-04-12T06:16:25Z","state":"closed","title":"clicking “Update All” on the Updates tab throws NullPointerException"}
+{"id":1192436767,"created_at":"2022-04-04T23:46:57Z","updated_at":"2022-04-14T19:57:06Z","state":"closed","title":"JDK-8283714: REDO - Unexpected TypeElement in ANALYZE TaskEvent"}
+{"id":1195756754,"created_at":"2022-04-07T09:17:02Z","updated_at":"2022-05-26T06:33:48Z","state":"closed","title":"8257810: Only First page are printed in JTable.scrollRectToVisible"}
+{"id":1197596332,"created_at":"2022-04-08T17:45:02Z","updated_at":"2022-04-11T16:20:20Z","state":"closed","title":"BV Calculations use CalculationReport"}
+{"id":1158778277,"created_at":"2022-03-03T18:46:14Z","updated_at":"2022-04-18T12:54:05Z","state":"closed","title":"cant add filetypes using the GUI"}
+{"id":1156935542,"created_at":"2022-03-02T09:49:30Z","updated_at":"2022-04-11T16:20:02Z","state":"closed","title":"MML Issue 1045: EquipmentType/MiscType updates， constants， data"}
+{"id":1221770859,"created_at":"2022-04-30T07:59:14Z","updated_at":"2022-05-03T00:13:11Z","state":"closed","title":"Enable GunEmplacement tooltips"}
+{"id":1210910732,"created_at":"2022-04-21T11:37:35Z","updated_at":"2022-04-21T11:37:59Z","state":"closed","title":"Bump javafx_version from 18 to 18.0.1"}
+{"id":424566515,"created_at":"2019-03-24T02:16:38Z","updated_at":"2022-05-01T09:31:16Z","state":"closed","title":"couldn't apply the sample rate setting"}
+{"id":467097064,"created_at":"2019-07-11T20:43:02Z","updated_at":"2022-04-05T19:41:48Z","state":"closed","title":"Swing null pointer error running olv.bat"}
+{"id":1186027426,"created_at":"2022-03-30T07:44:53Z","updated_at":"2022-04-18T05:28:15Z","state":"closed","title":"Refactor: 여러 View 관리 기능 추가"}
+{"id":1108723353,"created_at":"2022-01-20T01:10:32Z","updated_at":"2022-03-03T15:38:10Z","state":"closed","title":"J11 CBUS swing Table Sorter Warnings"}
+{"id":1219381117,"created_at":"2022-04-28T22:24:45Z","updated_at":"2022-05-17T20:21:37Z","state":"closed","title":"JxBrowser installation failed"}
+{"id":1208968559,"created_at":"2022-04-19T23:34:01Z","updated_at":"2022-04-20T16:21:15Z","state":"closed","title":"JDK-8280594: Refactor annotation invocation handler handling to use Objects.toIdentityString"}
+{"id":1210950646,"created_at":"2022-04-21T12:15:07Z","updated_at":"2022-04-21T16:41:44Z","state":"closed","title":"Bug Report 2022/04/21"}
+{"id":1151861739,"created_at":"2022-02-26T15:13:09Z","updated_at":"2022-04-24T19:10:57Z","state":"closed","title":"Support preview on remote Intellij (Gateway)"}
+{"id":1122266094,"created_at":"2022-02-02T18:38:47Z","updated_at":"2022-03-11T09:17:19Z","state":"closed","title":"Exception when opening Rider."}
+{"id":1148796369,"created_at":"2022-02-24T02:45:30Z","updated_at":"2022-03-04T18:56:38Z","state":"closed","title":"Position not represented by view "}
+{"id":1190848839,"created_at":"2022-04-03T07:37:13Z","updated_at":"2022-04-03T18:05:54Z","state":"closed","title":"OrdersGUI"}
+{"id":1189322691,"created_at":"2022-04-01T06:46:21Z","updated_at":"2022-04-01T10:11:46Z","state":"closed","title":"fast request tools windows 不显示"}
+{"id":1085243163,"created_at":"2021-12-20T22:06:08Z","updated_at":"2022-04-27T12:26:04Z","state":"closed","title":"Exception ANTLR v4 (1.17) in PyCharm 2021.3 (Professional Edition)"}
+{"id":1204592201,"created_at":"2022-04-14T14:22:18Z","updated_at":"2022-04-16T09:52:52Z","state":"closed","title":"8159599: [TEST_BUG] java/awt/Modal/ModalInternalFrameTest/ModalInternalFrameTest.java"}
+{"id":1190920664,"created_at":"2022-04-03T12:43:46Z","updated_at":"2022-04-08T19:59:05Z","state":"closed","title":"[Victory in the Pacific] ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Ship-Graveyard.gif:0，0@1.0"}
+{"id":1208979644,"created_at":"2022-04-19T23:57:29Z","updated_at":"2022-04-20T07:24:08Z","state":"closed","title":"WSL2 Installation Path Causes Error"}
+{"id":1158893671,"created_at":"2022-03-03T21:00:35Z","updated_at":"2022-03-03T21:03:14Z","state":"closed","title":"Changed DateFormatter to DateFormat in Question2"}
+{"id":1218280359,"created_at":"2022-04-28T06:48:36Z","updated_at":"2022-05-03T00:00:59Z","state":"closed","title":"Exception when loading the plugin"}
+{"id":1193910186,"created_at":"2022-04-06T01:54:04Z","updated_at":"2022-04-06T11:39:47Z","state":"closed","title":"AntiWeakness via ca"}
+{"id":1127103271,"created_at":"2022-02-08T11:03:13Z","updated_at":"2022-04-24T06:49:19Z","state":"closed","title":"Add all related IBAN config fields to Web UI"}
+{"id":1216293182,"created_at":"2022-04-26T17:54:34Z","updated_at":"2022-04-29T09:36:00Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception com.microsoft.azure.toolkit.intellij.legacy.function.runner.localrun.FunctionRunConfigurationFactory@17b621bb produced wrong type java.lang.ClassCastException: class java.lang.Integer cannot be cast to class java.lang.CharSequence (java.lang.Integer and java.lang.CharSequence are in module java.base of loader 'bootstrap')"}
+{"id":1140971645,"created_at":"2022-02-17T07:31:36Z","updated_at":"2022-02-18T21:36:53Z","state":"closed","title":"8233986: ProblemList javax/swing/plaf/basic/BasicTextUI/8001470/bug8001470.java for windows-x64"}
+{"id":1112348671,"created_at":"2022-01-24T08:58:45Z","updated_at":"2022-05-03T09:25:41Z","state":"closed","title":"IllegalComponentStateException: TreeViewerWin.showPopup()"}
+{"id":1119520855,"created_at":"2022-01-31T14:43:12Z","updated_at":"2022-05-04T07:52:29Z","state":"closed","title":"New toolbar with button"}
+{"id":1202188912,"created_at":"2022-04-12T17:38:07Z","updated_at":"2022-04-20T11:35:14Z","state":"closed","title":"IntelliJ 2022.1 startup issue."}
+{"id":1155510279,"created_at":"2022-03-01T15:56:24Z","updated_at":"2022-05-24T07:44:41Z","state":"closed","title":"[Native] Colorbar layout of native chart is not clean"}
+{"id":1206056999,"created_at":"2022-04-16T08:42:02Z","updated_at":"2022-04-16T10:25:09Z","state":"closed","title":"Error Bootstrap"}
+{"id":1184124680,"created_at":"2022-03-28T23:59:02Z","updated_at":"2022-03-29T05:03:07Z","state":"closed","title":"GUI"}
+{"id":1236107415,"created_at":"2022-05-14T19:45:29Z","updated_at":"2022-05-14T22:17:58Z","state":"closed","title":"Trimming Service IP Address"}
+{"id":1175070186,"created_at":"2022-03-21T08:49:32Z","updated_at":"2022-03-29T13:30:41Z","state":"closed","title":"Unable to export UTF-8 with bom"}
+{"id":1199752224,"created_at":"2022-04-11T10:26:39Z","updated_at":"2022-04-12T18:29:47Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /plugins/repository-azure"}
+{"id":1193366203,"created_at":"2022-04-05T15:41:16Z","updated_at":"2022-04-07T14:27:37Z","state":"closed","title":"How to new a Panel Object on the Brower Component on mac"}
+{"id":1163087755,"created_at":"2022-03-08T20:28:02Z","updated_at":"2022-04-25T16:16:13Z","state":"closed","title":"Changing files while in ANTLR Preview caused exception"}
+{"id":1189713600,"created_at":"2022-04-01T12:17:31Z","updated_at":"2022-04-01T12:19:37Z","state":"closed","title":"JMenuBar not showing"}
+{"id":1201882468,"created_at":"2022-04-12T13:49:16Z","updated_at":"2022-05-13T02:06:31Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception update failed for AnAction(com.microsoft.azure.hdinsight.spark.run.action.SparkJobRunAction， id=SparkJobRun) with text=SparkJobRun com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.tree.java.PsiJavaTokenImpl #JAVA  because: parent is null"}
+{"id":944321086,"created_at":"2021-07-14T11:19:53Z","updated_at":"2022-04-07T18:04:21Z","state":"closed","title":"8269637: javax/swing/JFileChooser/FileSystemView/SystemIconTest.java fails on windows"}
+{"id":1181364575,"created_at":"2022-03-25T23:43:53Z","updated_at":"2022-03-29T20:29:09Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1185390136,"created_at":"2022-03-29T20:41:17Z","updated_at":"2022-04-01T22:16:42Z","state":"closed","title":"Level mismatch between listOfUnitDefinitions in Level2 and unitDefinition in Level 3"}
+{"id":874845077,"created_at":"2021-05-03T19:30:07Z","updated_at":"2022-04-07T18:03:02Z","state":"closed","title":"8266249: javax/swing/JPopupMenu/7156657/bug7156657.java fails on macOS"}
+{"id":379464377,"created_at":"2018-11-10T21:44:55Z","updated_at":"2022-05-25T12:37:37Z","state":"closed","title":"Default close operation is used?"}
+{"id":1175003864,"created_at":"2022-03-21T07:52:41Z","updated_at":"2022-03-21T07:53:14Z","state":"closed","title":"Update java.fx.version to v18 (major)"}
+{"id":1189198266,"created_at":"2022-04-01T04:02:05Z","updated_at":"2022-05-01T04:03:21Z","state":"closed","title":"Bump javafx.version from 14.0.2.1 to 18"}
+{"id":1096610209,"created_at":"2022-01-07T19:34:15Z","updated_at":"2022-04-22T19:05:43Z","state":"closed","title":"In a multiple sites contest  all judgements may not be on all sites  (NPE in Contest XML report)"}
+{"id":1191846438,"created_at":"2022-04-04T14:05:14Z","updated_at":"2022-05-04T07:49:14Z","state":"closed","title":"8284294: Create an automated regression test for RFE 4138746"}
+{"id":1148814277,"created_at":"2022-02-24T03:21:14Z","updated_at":"2022-03-22T20:12:04Z","state":"closed","title":"Design Initialization"}
+{"id":1124952478,"created_at":"2022-02-05T15:07:06Z","updated_at":"2022-02-23T09:24:11Z","state":"closed","title":"demo_chat - v1"}
+{"id":959043053,"created_at":"2021-08-03T12:00:06Z","updated_at":"2022-04-04T14:27:51Z","state":"closed","title":"Skip swing ui package for examples in Sonar"}
+{"id":1188258255,"created_at":"2022-03-31T15:23:29Z","updated_at":"2022-04-01T16:50:01Z","state":"closed","title":"Change to regular file explorer"}
+{"id":1197217706,"created_at":"2022-04-08T11:45:13Z","updated_at":"2022-05-19T09:54:14Z","state":"closed","title":"8284578: Relax InterpreterCodelet stub alignment"}
+{"id":1154291284,"created_at":"2022-02-28T16:22:22Z","updated_at":"2022-03-13T12:58:32Z","state":"closed","title":"[fixes #1190] Fix ConfigDialog Close-button cut off"}
+{"id":1153581715,"created_at":"2022-02-28T03:31:12Z","updated_at":"2022-03-24T01:25:31Z","state":"closed","title":"使用报错"}
+{"id":1154577146,"created_at":"2022-02-28T21:37:06Z","updated_at":"2022-04-11T13:50:38Z","state":"closed","title":"Search and sort by Date"}
+{"id":1211498832,"created_at":"2022-04-21T20:06:19Z","updated_at":"2022-05-02T16:40:08Z","state":"closed","title":"FR: Vertical Repeater layouts"}
+{"id":1035071746,"created_at":"2021-10-25T12:23:15Z","updated_at":"2022-04-07T18:04:24Z","state":"closed","title":"8017175: [TESTBUG] javax/swing/JPopupMenu/4634626/bug4634626.java sometimes failed on mac"}
+{"id":1199187884,"created_at":"2022-04-10T22:08:41Z","updated_at":"2022-04-21T18:55:53Z","state":"closed","title":"Bug Report Cannot enable magento integration."}
+{"id":1192444298,"created_at":"2022-04-05T00:01:37Z","updated_at":"2022-04-19T04:30:03Z","state":"closed","title":"Score board or game over screen"}
+{"id":1205253531,"created_at":"2022-04-15T04:36:22Z","updated_at":"2022-04-15T05:44:23Z","state":"closed","title":"Bug Report 2022/04/15"}
+{"id":1175005108,"created_at":"2022-03-21T07:54:33Z","updated_at":"2022-03-21T07:55:14Z","state":"closed","title":"Update java.fx.version to v18 (major)"}
+{"id":1164669878,"created_at":"2022-03-10T02:42:01Z","updated_at":"2022-05-10T06:34:08Z","state":"closed","title":"7124282: [macosx] Can't see table cell highlighter when the highlight border is the same color as the cell."}
+{"id":1175003222,"created_at":"2022-03-21T07:51:43Z","updated_at":"2022-03-21T07:52:19Z","state":"closed","title":"Update java.fx.version to v18 (major)"}
+{"id":1145633196,"created_at":"2022-02-21T10:52:11Z","updated_at":"2022-02-21T12:46:44Z","state":"closed","title":"putClientProperty on Swing components containing HTML rendering set to null."}
+{"id":1142278615,"created_at":"2022-02-18T03:30:25Z","updated_at":"2022-03-29T11:57:35Z","state":"closed","title":"[Snyk] Upgrade org.openjfx:javafx-swing from 13-ea+8 to 13.0.2"}
+{"id":1167612220,"created_at":"2022-03-13T15:27:45Z","updated_at":"2022-04-01T20:43:29Z","state":"closed","title":"Error when import deck from aetherhub"}
+{"id":1199835132,"created_at":"2022-04-11T11:28:33Z","updated_at":"2022-04-11T23:34:55Z","state":"closed","title":"edu.umd.cs.findbugs.classfile.ResourceNotFoundException: Resource not found: java/lang/Object.class at edu.umd.cs.findbugs.classfile.impl.ClassPathImpl.lookupResource(ClassPathImpl.java:162)"}
+{"id":1175004477,"created_at":"2022-03-21T07:53:37Z","updated_at":"2022-03-21T07:54:15Z","state":"closed","title":"Update java.fx.version to v18 (major)"}
+{"id":1232737956,"created_at":"2022-05-11T14:25:50Z","updated_at":"2022-05-11T14:46:10Z","state":"closed","title":"3630: Properly Cancel MASC Movement on Nag Cancel"}
+{"id":1205105801,"created_at":"2022-04-14T23:33:14Z","updated_at":"2022-04-19T23:23:36Z","state":"closed","title":"Problem with PreviewView toolbar"}
+{"id":1223048437,"created_at":"2022-05-02T15:49:59Z","updated_at":"2022-05-12T10:29:35Z","state":"closed","title":"dbgeng input， unable to terminate"}
+{"id":1195342739,"created_at":"2022-04-07T00:38:07Z","updated_at":"2022-04-20T17:02:55Z","state":"closed","title":"JDK-8281006 Module::getResourceAsStream should check if the resource is open unconditionally when caller is null"}
+{"id":1166399647,"created_at":"2022-03-11T13:10:41Z","updated_at":"2022-03-15T14:41:12Z","state":"closed","title":"Implement example of JxBrowser logs redirection"}
+{"id":1202028795,"created_at":"2022-04-12T15:37:19Z","updated_at":"2022-04-13T08:09:11Z","state":"closed","title":"8283083: java.util.random L128X256MixRandom constructor fails to use byte[] seed"}
+{"id":1191383025,"created_at":"2022-04-04T07:37:44Z","updated_at":"2022-04-05T11:09:38Z","state":"closed","title":"8284278: Diagnostic Fix Updated."}
+{"id":1161595836,"created_at":"2022-03-07T15:50:35Z","updated_at":"2022-03-11T15:04:04Z","state":"closed","title":"Deprecate Swt/Swing addons， to be removed in 3.6.0"}
+{"id":1125241388,"created_at":"2022-02-06T15:58:27Z","updated_at":"2022-02-20T12:02:14Z","state":"closed","title":"[BUG] Illegal Argument in player overview"}
+{"id":1074797769,"created_at":"2021-12-08T20:21:40Z","updated_at":"2022-01-20T21:05:18Z","state":"closed","title":"Swing_anim"}
+{"id":1201004478,"created_at":"2022-04-12T04:18:57Z","updated_at":"2022-04-12T04:19:20Z","state":"closed","title":"Bump geotools.version from 26.3 to 26.4"}
+{"id":1154380197,"created_at":"2022-02-28T17:49:46Z","updated_at":"2022-03-17T05:42:06Z","state":"closed","title":"Increase the maximum connection pool parameter in swing mode so that simultaneous processing is possible"}
+{"id":1203356915,"created_at":"2022-04-13T14:09:30Z","updated_at":"2022-04-13T14:45:25Z","state":"closed","title":"Bug Report 2022/04/13"}
+{"id":1129527341,"created_at":"2022-02-10T06:40:24Z","updated_at":"2022-04-19T10:23:33Z","state":"closed","title":"Hiding layouts via preferences"}
+{"id":1200393227,"created_at":"2022-04-11T18:47:28Z","updated_at":"2022-04-12T12:06:40Z","state":"closed","title":"On Windows if I set Table.alternateRowColor it messes up list view if I use JFileChooser"}
+{"id":1228476802,"created_at":"2022-05-07T00:43:37Z","updated_at":"2022-05-17T21:33:07Z","state":"closed","title":"Enum All The Things: Separate Entity Enums"}
+{"id":1199556298,"created_at":"2022-04-11T08:09:36Z","updated_at":"2022-04-12T08:08:57Z","state":"closed","title":"8284653: Serial: Inline GenCollectedHeap::collect_locked"}
+{"id":1140052312,"created_at":"2022-02-16T13:53:17Z","updated_at":"2022-02-16T13:53:25Z","state":"closed","title":"Feature/oli/add an empty swing sub project"}
+{"id":1116021172,"created_at":"2022-01-27T10:14:01Z","updated_at":"2022-05-23T07:37:20Z","state":"closed","title":"what about to replace jxbrowser with jcef"}
+{"id":1201664070,"created_at":"2022-04-12T10:55:57Z","updated_at":"2022-04-12T11:34:44Z","state":"closed","title":"Bug Report 2022/04/12"}
+{"id":1157847253,"created_at":"2022-03-03T00:51:26Z","updated_at":"2022-03-09T01:03:54Z","state":"closed","title":"Rare ClassCastException when opening GUI"}
+{"id":1182921712,"created_at":"2022-03-28T05:47:54Z","updated_at":"2022-03-28T11:38:31Z","state":"closed","title":"NullPointerException when planning KO-Series"}
+{"id":1211879763,"created_at":"2022-04-22T06:26:01Z","updated_at":"2022-04-23T14:40:57Z","state":"closed","title":"8285431: Assertion in NativeGSSContext constructor"}
+{"id":1174213236,"created_at":"2022-03-19T08:50:13Z","updated_at":"2022-04-18T19:25:57Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /plugins/repository-azure"}
+{"id":1234097235,"created_at":"2022-05-12T14:45:38Z","updated_at":"2022-05-12T14:53:15Z","state":"closed","title":"Failed to generate report with Modern HTML template : Exception evaluating OGNL expression"}
+{"id":1169812536,"created_at":"2022-03-15T15:15:11Z","updated_at":"2022-04-20T15:23:34Z","state":"closed","title":"Bump javafx.version from 17.0.1 to 18"}
+{"id":1230592708,"created_at":"2022-05-10T04:13:43Z","updated_at":"2022-05-12T13:52:22Z","state":"closed","title":"8286423: Destroy password protection in the example code in KeyStore"}
+{"id":1209483481,"created_at":"2022-04-20T10:22:26Z","updated_at":"2022-04-25T16:11:32Z","state":"closed","title":"8284995: G1: Do not mark through Closed Archive regions during concurrent mark"}
+{"id":1190313356,"created_at":"2022-04-01T22:05:03Z","updated_at":"2022-04-06T16:11:45Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /modules/r2dbc"}
+{"id":1144852678,"created_at":"2022-02-19T21:38:00Z","updated_at":"2022-04-25T16:16:32Z","state":"closed","title":"Plugin PyCharm 2021.2 Professional (Wrong startOffset: 330， textLength=0)"}
+{"id":1175168387,"created_at":"2022-03-21T10:19:21Z","updated_at":"2022-04-18T10:15:27Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /plugins/repository-azure"}
+{"id":1177543638,"created_at":"2022-03-23T03:19:26Z","updated_at":"2022-03-23T03:51:35Z","state":"closed","title":"idea启动Fast request插件报错无法使用"}
+{"id":1161528450,"created_at":"2022-03-07T14:57:11Z","updated_at":"2022-04-06T19:06:03Z","state":"closed","title":"players cant see other players guard animation on server "}
+{"id":1192275732,"created_at":"2022-04-04T20:24:44Z","updated_at":"2022-05-12T13:40:46Z","state":"closed","title":"8284283: javac crashes when several transitive supertypes are missing"}
+{"id":1174777872,"created_at":"2022-03-21T01:33:54Z","updated_at":"2022-04-18T01:32:36Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /plugins/repository-azure"}
+{"id":1144948969,"created_at":"2022-02-20T08:01:28Z","updated_at":"2022-05-04T07:48:49Z","state":"closed","title":"8282147: [TESTBUG] waitForIdle after creating frame in JSpinnerMouseAndKeyPressTest.java"}
+{"id":1180614070,"created_at":"2022-03-25T10:29:05Z","updated_at":"2022-03-29T20:33:49Z","state":"closed","title":"[BCT Kandahar] ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images/map1234D.png:1，0@0.5"}
+{"id":1210437023,"created_at":"2022-04-21T03:08:17Z","updated_at":"2022-04-26T16:29:20Z","state":"closed","title":"java.lang.IndexOutOfBoundsException: Index: -2， Tab count: 29"}
+{"id":1224711092,"created_at":"2022-05-03T22:02:07Z","updated_at":"2022-05-15T19:56:22Z","state":"closed","title":"macOS compatibility"}
+{"id":1170746865,"created_at":"2022-03-16T09:20:36Z","updated_at":"2022-03-24T11:06:59Z","state":"closed","title":"Bump reactor-addon.version from 3.4.6 to 3.4.7"}
+{"id":1174773432,"created_at":"2022-03-21T01:27:26Z","updated_at":"2022-03-21T01:42:05Z","state":"closed","title":"Fixing some repeated typos"}
+{"id":956263390,"created_at":"2021-07-29T22:56:40Z","updated_at":"2022-05-13T17:43:05Z","state":"closed","title":"[Feature Request] Change Connection pool library c3p0 to HikariCP"}
+{"id":1220100853,"created_at":"2022-04-29T07:28:09Z","updated_at":"2022-05-19T07:46:46Z","state":"closed","title":"make shell scripts more strict"}
+{"id":1175943032,"created_at":"2022-03-21T21:08:55Z","updated_at":"2022-04-14T23:01:17Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /plugins/repository-azure"}
+{"id":1196414768,"created_at":"2022-04-07T18:19:16Z","updated_at":"2022-04-07T18:37:35Z","state":"closed","title":"Autopsy 4.19.3 hangs on add data source"}
+{"id":1120105011,"created_at":"2022-02-01T00:57:55Z","updated_at":"2022-04-06T23:36:40Z","state":"closed","title":"Bump xstream from 1.4.18 to 1.4.19 in /javamelody-swing"}
+{"id":1099466332,"created_at":"2022-01-11T17:57:27Z","updated_at":"2022-01-11T17:58:30Z","state":"closed","title":"Update swing generics"}
+{"id":1196600359,"created_at":"2022-04-07T21:42:56Z","updated_at":"2022-04-07T22:31:07Z","state":"closed","title":"IllegalAccessError when trying to browse for an ARFF file in ArffFileStream"}
+{"id":1210003464,"created_at":"2022-04-20T17:40:24Z","updated_at":"2022-04-20T19:27:32Z","state":"closed","title":"8284920: Incorrect Token type causes XPath expression to return incorrect results"}
+{"id":1174809418,"created_at":"2022-03-21T02:32:30Z","updated_at":"2022-04-18T02:27:33Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /plugins/repository-azure"}
+{"id":1166332055,"created_at":"2022-03-11T11:55:50Z","updated_at":"2022-03-11T13:45:28Z","state":"closed","title":"Cannot Save Mamut file"}
+{"id":1115022919,"created_at":"2022-01-26T13:30:57Z","updated_at":"2022-03-03T15:38:13Z","state":"closed","title":"ProxyAnalogIO DefaultSelector Managers Tests Update"}
+{"id":1197414011,"created_at":"2022-04-08T14:49:15Z","updated_at":"2022-04-21T20:15:18Z","state":"closed","title":"Fix text overlap in air transport load dialog."}
+{"id":1110838708,"created_at":"2022-01-21T19:46:38Z","updated_at":"2022-03-07T20:44:36Z","state":"closed","title":"[Chemicals][Observe][Swing]Affichage graphique évolution de chemicals"}
+{"id":1197953880,"created_at":"2022-04-09T00:11:35Z","updated_at":"2022-04-10T13:52:06Z","state":"closed","title":"Bug Report 2022/04/09"}
+{"id":1158467060,"created_at":"2022-03-03T14:20:09Z","updated_at":"2022-03-04T13:38:25Z","state":"closed","title":"Error appears while connecting Content Explorer tool with Rhythmyx 7.3.2- java.io.IOException: java.io.IOException: com.percussion.error.PSException: null"}
+{"id":1014223968,"created_at":"2021-10-03T01:27:11Z","updated_at":"2022-05-13T17:44:25Z","state":"closed","title":"[Feature Request] Allow configuration of Database connection pool from container server (Tomcat， Jetty， WildFly)"}
+{"id":1208837657,"created_at":"2022-04-19T20:38:31Z","updated_at":"2022-04-21T08:41:25Z","state":"closed","title":"8285093: Introduce UTIL_ARG_WITH"}
+{"id":1150942687,"created_at":"2022-02-25T22:46:36Z","updated_at":"2022-03-18T19:59:49Z","state":"closed","title":"Login Remove the Result Set and Adding Integration Test "}
+{"id":1087878157,"created_at":"2021-12-23T17:12:03Z","updated_at":"2022-04-29T15:59:42Z","state":"closed","title":"[FEATURE] TS tracker for NT teams"}
+{"id":757308352,"created_at":"2020-12-04T18:23:39Z","updated_at":"2022-05-24T10:00:22Z","state":"closed","title":"webdriver how to better control which elements to be clicked and which to be ignored"}
+{"id":1175835705,"created_at":"2022-03-21T19:19:43Z","updated_at":"2022-04-18T19:24:05Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /plugins/repository-azure"}
+{"id":1177328723,"created_at":"2022-03-22T21:29:41Z","updated_at":"2022-04-18T12:44:37Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /plugins/repository-azure"}
+{"id":1190758578,"created_at":"2022-04-02T22:56:27Z","updated_at":"2022-04-02T23:36:35Z","state":"closed","title":"[WiF SSW Maps and CE Units] ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Eastamers.png:0，0@0.5"}
+{"id":1190632961,"created_at":"2022-04-02T13:25:45Z","updated_at":"2022-04-02T20:13:26Z","state":"closed","title":"Doc link broken/outdated in Animation"}
+{"id":1164203959,"created_at":"2022-03-09T17:00:03Z","updated_at":"2022-03-10T23:43:27Z","state":"closed","title":"Database Corruption?"}
+{"id":645086522,"created_at":"2020-06-25T01:54:55Z","updated_at":"2022-04-27T18:40:53Z","state":"closed","title":"implementation of update enseignant"}
+{"id":1190686285,"created_at":"2022-04-02T17:05:59Z","updated_at":"2022-04-02T17:14:55Z","state":"closed","title":"[S&T 053 Punic Wars] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\S&T 53 - The Punic Wars Map.jpg:1，1@0.5"}
+{"id":1245623551,"created_at":"2022-05-23T19:47:33Z","updated_at":"2022-05-24T15:56:44Z","state":"closed","title":"8287162: (zipfs) Performance regression related to support for POSIX file permissions"}
+{"id":1173869442,"created_at":"2022-03-18T18:04:25Z","updated_at":"2022-03-19T11:38:36Z","state":"closed","title":"ExecutionException: java.lang.IllegalStateException: bad type: 35"}
+{"id":1245089889,"created_at":"2022-05-23T12:27:40Z","updated_at":"2022-05-24T16:24:42Z","state":"closed","title":"8287158: Explicitly reject unsupported call shapes on macos-aarch64 in mainline"}
+{"id":1194671642,"created_at":"2022-04-06T14:08:03Z","updated_at":"2022-04-11T07:14:27Z","state":"closed","title":"Bug Report 2022/04/06"}
+{"id":1244795502,"created_at":"2022-05-23T08:45:12Z","updated_at":"2022-05-24T08:25:52Z","state":"closed","title":"8287138: Make VerifyOption an enum class"}
+{"id":1191531415,"created_at":"2022-04-04T09:50:46Z","updated_at":"2022-04-04T15:19:17Z","state":"closed","title":"Quickstart guide"}
+{"id":1206203655,"created_at":"2022-04-16T19:55:58Z","updated_at":"2022-04-27T17:38:29Z","state":"closed","title":"Transfer API improvements and breaking changes for 1.19"}
+{"id":1189954349,"created_at":"2022-04-01T15:23:24Z","updated_at":"2022-04-02T03:49:59Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception com.intellij.ide.ui.UITheme$1@231f98ef cannot patch icon path java.lang.StringIndexOutOfBoundsException: String index out of range: 0"}
+{"id":1145610845,"created_at":"2022-02-21T10:30:46Z","updated_at":"2022-03-25T07:44:43Z","state":"closed","title":"ProguardGui config problem"}
+{"id":974545385,"created_at":"2021-08-19T11:05:47Z","updated_at":"2022-04-11T17:38:14Z","state":"closed","title":"New GUI"}
+{"id":1160691154,"created_at":"2022-03-06T19:12:08Z","updated_at":"2022-03-29T20:34:56Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1183097120,"created_at":"2022-03-28T08:44:00Z","updated_at":"2022-03-31T09:06:41Z","state":"closed","title":"8224977: [macos] On AquaLookAndFeel， Iconified JInternalFrame does not restore when Control + F5 is used."}
+{"id":1124351504,"created_at":"2022-02-04T15:52:40Z","updated_at":"2022-02-08T16:35:07Z","state":"closed","title":"Add draft version of the Gradle plug-in"}
+{"id":1189646076,"created_at":"2022-04-01T11:17:01Z","updated_at":"2022-04-01T11:30:54Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1189135068,"created_at":"2022-04-01T02:19:26Z","updated_at":"2022-04-02T12:44:56Z","state":"closed","title":"[Next War: Korea 2nd Edition] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\KoreaMap-S-2019 Kev A-150.jpg:1，0@0.25"}
+{"id":1170414258,"created_at":"2022-03-16T00:56:58Z","updated_at":"2022-03-16T11:32:37Z","state":"closed","title":"Setup maven publication"}
+{"id":1206152058,"created_at":"2022-04-16T16:06:48Z","updated_at":"2022-04-20T20:25:28Z","state":"closed","title":"8283839: [JVMCI] add support for querying indy bootstrap method target and arguments"}
+{"id":1079337526,"created_at":"2021-12-14T05:44:17Z","updated_at":"2022-03-23T09:59:07Z","state":"closed","title":"8278348: [macos12] javax/swing/JTree/4908142/bug4908142.java fails in macos12"}
+{"id":1099780343,"created_at":"2022-01-12T01:33:19Z","updated_at":"2022-01-12T01:33:26Z","state":"closed","title":"1. swing组件"}
+{"id":1187675068,"created_at":"2022-03-31T08:04:12Z","updated_at":"2022-04-01T01:10:54Z","state":"closed","title":"Does the recent spring vulnerability affect openPDF?"}
+{"id":1197342532,"created_at":"2022-04-08T13:48:58Z","updated_at":"2022-04-08T13:58:07Z","state":"closed","title":"Dependency(deps): Bump javafx.version from 17.0.1 to 18 in /artemis-java-template"}
+{"id":1134119798,"created_at":"2022-02-12T14:24:29Z","updated_at":"2022-02-20T12:43:36Z","state":"closed","title":"[BUG] ConcurrentModificationException in ts forecast panel"}
+{"id":1090326344,"created_at":"2021-12-29T07:33:39Z","updated_at":"2021-12-29T07:33:46Z","state":"closed","title":"swing GUI"}
+{"id":1157713849,"created_at":"2022-03-02T21:30:21Z","updated_at":"2022-03-04T14:33:17Z","state":"closed","title":"ERROR: Unable to locate Repeater in newest version of Burp Suite (v2022.1.1)"}
+{"id":1200230574,"created_at":"2022-04-11T16:34:24Z","updated_at":"2022-04-13T15:59:04Z","state":"closed","title":"Remove BV calculation options"}
+{"id":1172465499,"created_at":"2022-03-17T15:13:02Z","updated_at":"2022-05-15T08:36:08Z","state":"closed","title":"Board load failed multiple points"}
+{"id":1170275599,"created_at":"2022-03-15T21:14:43Z","updated_at":"2022-04-12T21:18:29Z","state":"closed","title":"chore(deps): bump reactor-test from 3.4.15 to 3.4.16"}
+{"id":1170275563,"created_at":"2022-03-15T21:14:40Z","updated_at":"2022-04-12T21:18:23Z","state":"closed","title":"chore(deps): bump reactor-extra from 3.4.6 to 3.4.7"}
+{"id":1170275522,"created_at":"2022-03-15T21:14:37Z","updated_at":"2022-04-12T21:18:26Z","state":"closed","title":"chore(deps): bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1223085422,"created_at":"2022-05-02T16:26:01Z","updated_at":"2022-05-05T12:58:29Z","state":"closed","title":"3607: Fixing Null Swarming Entity Unit ToolTip NPE"}
+{"id":1128571098,"created_at":"2022-02-09T13:52:40Z","updated_at":"2022-02-11T17:07:11Z","state":"closed","title":"Merge master to j11master"}
+{"id":1169961807,"created_at":"2022-03-15T17:16:00Z","updated_at":"2022-04-12T17:27:43Z","state":"closed","title":"Bump reactor-extra from 3.4.3 to 3.4.7"}
+{"id":1073177231,"created_at":"2021-12-07T10:24:48Z","updated_at":"2022-05-20T16:38:21Z","state":"closed","title":"make Help System use discord threads"}
+{"id":1215500691,"created_at":"2022-04-26T07:07:12Z","updated_at":"2022-05-24T07:05:37Z","state":"closed","title":"Bump util from `14a41a2` to `4299b57`"}
+{"id":1170392891,"created_at":"2022-03-16T00:19:52Z","updated_at":"2022-04-13T00:41:40Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1180249818,"created_at":"2022-03-25T01:50:04Z","updated_at":"2022-04-16T01:34:17Z","state":"closed","title":"8240903: Add test to check that jmod hashes are reproducible"}
+{"id":1201706578,"created_at":"2022-04-12T11:30:28Z","updated_at":"2022-04-26T07:07:16Z","state":"closed","title":"Bump util from `14a41a2` to `618dd38`"}
+{"id":1174113794,"created_at":"2022-03-18T23:50:48Z","updated_at":"2022-04-12T16:54:47Z","state":"closed","title":"build(deps): bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1180249818,"created_at":"2022-03-25T01:50:04Z","updated_at":"2022-04-16T01:34:17Z","state":"closed","title":"8240903: Add test to check that jmod hashes are reproducible"}
+{"id":1184579487,"created_at":"2022-03-29T09:32:33Z","updated_at":"2022-03-31T03:05:20Z","state":"closed","title":"Remove OpenJFX dependencies while publishing to Maven Central"}
+{"id":1201706578,"created_at":"2022-04-12T11:30:28Z","updated_at":"2022-04-26T07:07:16Z","state":"closed","title":"Bump util from `14a41a2` to `618dd38`"}
+{"id":1137577714,"created_at":"2022-02-14T16:54:53Z","updated_at":"2022-02-16T09:41:13Z","state":"closed","title":"Question: Is the  Demo and Editor jar open-sourced?"}
+{"id":1093547757,"created_at":"2022-01-04T16:44:03Z","updated_at":"2022-04-02T14:45:14Z","state":"closed","title":"Bump log4j-core from 2.14.1 to 2.17.1 in /spring-swing-dependencies"}
+{"id":1093537617,"created_at":"2022-01-04T16:39:06Z","updated_at":"2022-04-02T14:45:16Z","state":"closed","title":"Bump log4j-api from 2.14.1 to 2.17.1 in /spring-swing-dependencies"}
+{"id":1205456638,"created_at":"2022-04-15T10:08:09Z","updated_at":"2022-04-15T18:33:59Z","state":"closed","title":"Bug Report 2022/04/15 - Not enabled plugin on PHPStorm 2022.1"}
+{"id":1185355180,"created_at":"2022-03-29T20:06:26Z","updated_at":"2022-04-03T15:23:06Z","state":"closed","title":"Form UI Freeze for some maintenance screens"}
+{"id":1225278241,"created_at":"2022-05-04T12:04:47Z","updated_at":"2022-05-05T15:30:34Z","state":"closed","title":"JDK-8285987: executing shell scripts without #! fails on Alpine linux"}
+{"id":1164602271,"created_at":"2022-03-10T00:44:35Z","updated_at":"2022-03-12T13:40:05Z","state":"closed","title":"LineBorder thickness ignored by scaling"}
+{"id":1160553779,"created_at":"2022-03-06T08:46:50Z","updated_at":"2022-03-13T20:47:09Z","state":"closed","title":"[BUG] NPE on Fixtures download"}
+{"id":1097106408,"created_at":"2022-01-09T04:57:34Z","updated_at":"2022-03-14T15:14:03Z","state":"closed","title":"Window Builder FAILS TO INSTALL"}
+{"id":1063153331,"created_at":"2021-11-25T04:41:56Z","updated_at":"2022-05-11T20:08:37Z","state":"closed","title":"Add an auto-sync config option"}
+{"id":1192333858,"created_at":"2022-04-04T21:27:51Z","updated_at":"2022-04-28T13:48:55Z","state":"closed","title":"8284291: sun/security/krb5/auto/Renew.java fails intermittently on Windows 11"}
+{"id":1139715655,"created_at":"2022-02-16T08:51:34Z","updated_at":"2022-02-23T12:52:07Z","state":"closed","title":"Linux for some java lookandfeel bug fix"}
+{"id":1201644451,"created_at":"2022-04-12T10:40:33Z","updated_at":"2022-04-19T14:22:16Z","state":"closed","title":"8284725: Fix include guard in jfrbitset.hpp"}
+{"id":1223457687,"created_at":"2022-05-02T23:20:52Z","updated_at":"2022-05-05T19:47:26Z","state":"closed","title":"8284027: vmTestbase/nsk/jvmti/GetAllThreads/allthr001/ is failing"}
+{"id":1069309482,"created_at":"2021-12-02T09:17:48Z","updated_at":"2022-03-07T09:20:41Z","state":"closed","title":"Bump org-netbeans-swing-outline from RELEASE122 to RELEASE126"}
+{"id":1036296393,"created_at":"2021-10-26T13:24:11Z","updated_at":"2022-03-10T11:05:03Z","state":"closed","title":"Exception in thread \"main\" java.lang.Error: Cannot load javax.swing.plaf.metal.MetalLookAndFeel"}
+{"id":1233791565,"created_at":"2022-05-12T10:39:05Z","updated_at":"2022-05-24T10:31:40Z","state":"closed","title":"8286057: Make javac error on a generic enum friendlier"}
+{"id":1181024937,"created_at":"2022-03-25T16:57:48Z","updated_at":"2022-03-28T10:39:40Z","state":"closed","title":"Bump projectreactor.version from 3.4.14 to 3.4.16"}
+{"id":1129453585,"created_at":"2022-02-10T04:59:33Z","updated_at":"2022-03-12T14:35:29Z","state":"closed","title":"8277922: Unable to click JCheckBox in JTable through Java Access Bridge"}
+{"id":1170520329,"created_at":"2022-03-16T04:16:59Z","updated_at":"2022-04-10T13:37:09Z","state":"closed","title":"Bump reactor-tools from 3.4.15 to 3.4.16"}
+{"id":1170520293,"created_at":"2022-03-16T04:16:55Z","updated_at":"2022-04-10T13:34:52Z","state":"closed","title":"Bump reactor-test from 3.4.15 to 3.4.16"}
+{"id":1170520382,"created_at":"2022-03-16T04:17:04Z","updated_at":"2022-04-10T13:34:39Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1169655986,"created_at":"2022-03-15T13:11:30Z","updated_at":"2022-04-20T13:11:36Z","state":"closed","title":"Bump javafx.version from 17.0.2 to 18"}
+{"id":1069308664,"created_at":"2021-12-02T09:16:52Z","updated_at":"2022-03-07T09:23:14Z","state":"closed","title":"Bump org-netbeans-swing-outline from RELEASE122 to RELEASE126"}
+{"id":1182556383,"created_at":"2022-03-27T14:54:47Z","updated_at":"2022-03-29T20:26:12Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1079947736,"created_at":"2021-12-14T16:12:40Z","updated_at":"2021-12-14T16:14:37Z","state":"closed","title":"Swing"}
+{"id":1069115134,"created_at":"2021-12-02T04:24:05Z","updated_at":"2022-03-07T04:20:30Z","state":"closed","title":"Bump org-netbeans-swing-outline from RELEASE122 to RELEASE126"}
+{"id":1088302194,"created_at":"2021-12-24T10:29:50Z","updated_at":"2021-12-26T13:12:45Z","state":"closed","title":"Swing dungeon"}
+{"id":1171076245,"created_at":"2022-03-16T14:08:19Z","updated_at":"2022-03-18T17:44:49Z","state":"closed","title":"Snapshot of APIs as of NetBeans 13"}
+{"id":1190978324,"created_at":"2022-04-03T16:30:07Z","updated_at":"2022-05-24T22:01:07Z","state":"closed","title":"[tado] Fix AC control bugs; Add null annotations and checks"}
+{"id":1211314602,"created_at":"2022-04-21T17:02:27Z","updated_at":"2022-05-19T09:54:15Z","state":"closed","title":"8285394: Compiler blackholes can be eliminated due to stale ciMethod::intrinsic_id()"}
+{"id":1112375060,"created_at":"2022-01-24T09:21:15Z","updated_at":"2022-03-21T09:38:47Z","state":"closed","title":"Bump javafx-swing from 17.0.1 to 17.0.2"}
+{"id":648243382,"created_at":"2020-06-30T14:52:32Z","updated_at":"2022-03-03T15:38:50Z","state":"closed","title":"WIP Move CbusAllocateNodeNumber to swing class"}
+{"id":1137984144,"created_at":"2022-02-14T23:48:03Z","updated_at":"2022-03-17T06:15:59Z","state":"closed","title":"Linux Processing 4.0b5 export application broken"}
+{"id":1146509400,"created_at":"2022-02-22T06:31:31Z","updated_at":"2022-03-29T20:30:10Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1155556186,"created_at":"2022-03-01T16:36:42Z","updated_at":"2022-03-01T20:37:52Z","state":"closed","title":"ZipException in ClassUtil"}
+{"id":1117681798,"created_at":"2022-01-28T17:51:34Z","updated_at":"2022-01-29T18:58:50Z","state":"closed","title":"alt fix for #475"}
+{"id":1125247556,"created_at":"2022-02-06T16:22:28Z","updated_at":"2022-02-06T16:53:13Z","state":"closed","title":"adds movement component to Human "}
+{"id":1195514684,"created_at":"2022-04-07T04:48:51Z","updated_at":"2022-05-24T13:20:01Z","state":"closed","title":"java.lang.NoClassDefFoundError: com/jgoodies/forms/layout/FormLayout"}
+{"id":1118865085,"created_at":"2022-01-31T02:09:27Z","updated_at":"2022-03-17T02:32:35Z","state":"closed","title":"Bump log4j-api from 2.13.2 to 2.17.1 in /swing"}
+{"id":1120913191,"created_at":"2022-02-01T16:23:41Z","updated_at":"2022-02-09T17:32:24Z","state":"closed","title":"Check for database submodule and give instructions for including it if not found"}
+{"id":1098195914,"created_at":"2022-01-10T17:45:51Z","updated_at":"2022-01-10T17:46:04Z","state":"closed","title":"Fixed collections， Added swing components"}
+{"id":1180263587,"created_at":"2022-03-25T02:18:59Z","updated_at":"2022-03-29T20:29:32Z","state":"closed","title":"[Battle Spirits Online Battlers] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Deck editor.png:1，0@0.5"}
+{"id":1180241788,"created_at":"2022-03-25T01:37:38Z","updated_at":"2022-03-29T20:29:36Z","state":"closed","title":"[Silver Bayonet 25th Anniversary] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images/OpSB Map.jpg:6，0@1.0"}
+{"id":1179993430,"created_at":"2022-03-24T20:02:07Z","updated_at":"2022-03-29T20:29:40Z","state":"closed","title":"[Blue Cross White Ensign] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images/Final-Map-G.jpg:0，3@0.25"}
+{"id":1155039379,"created_at":"2022-03-01T08:41:17Z","updated_at":"2022-03-01T10:38:13Z","state":"closed","title":"Can't open SQLite Database since working on it yesterday， DNA version: 2.0 beta 25 (2019-09-08)， Java version: 1.8.0_321， Operating system: Windows 10 10.0"}
+{"id":1216456813,"created_at":"2022-04-26T20:42:47Z","updated_at":"2022-05-09T18:30:34Z","state":"closed","title":"8278109: gc/metaspace/TestPerfCountersAndMemoryPools.java fails with Used out of sync: expected 1028976 to equal 1029224"}
+{"id":1213626702,"created_at":"2022-04-24T11:25:26Z","updated_at":"2022-04-24T18:33:40Z","state":"closed","title":"Water waves can cause UI and buildings to disappear entirely"}
+{"id":1215979697,"created_at":"2022-04-26T13:42:03Z","updated_at":"2022-04-28T02:03:21Z","state":"closed","title":"8284198: Undo JDK-8261137: Optimization of Box nodes in uncommon_trap"}
+{"id":1202051984,"created_at":"2022-04-12T15:56:15Z","updated_at":"2022-04-14T09:31:53Z","state":"closed","title":"8284760: Correct type/array element offset in LibraryCallKit::get_state_from_digest_object()"}
+{"id":560095397,"created_at":"2020-02-05T02:04:53Z","updated_at":"2022-05-06T01:52:29Z","state":"closed","title":"java.awt.image.DataBufferInt at line 75"}
+{"id":1175618722,"created_at":"2022-03-21T16:15:23Z","updated_at":"2022-04-05T16:43:03Z","state":"closed","title":"[BUG] Download F11 Old League Data， No Data Shown on League Data Tab"}
+{"id":1195179795,"created_at":"2022-04-06T20:58:48Z","updated_at":"2022-04-08T14:42:57Z","state":"closed","title":"CVE-2020-10969 (High) detected in jackson-databind-2.9.2.jar - autoclosed"}
+{"id":1200932654,"created_at":"2022-04-12T03:21:00Z","updated_at":"2022-04-13T04:32:30Z","state":"closed","title":"8284702: Add @since for java.time.LocalDate.EPOCH"}
+{"id":1068531904,"created_at":"2021-12-01T15:17:09Z","updated_at":"2022-03-11T10:04:47Z","state":"closed","title":"Bump org-netbeans-swing-outline from RELEASE122 to RELEASE126"}
+{"id":1093562855,"created_at":"2022-01-04T16:52:05Z","updated_at":"2022-04-03T16:47:07Z","state":"closed","title":"Bump log4j-core from 2.16.0 to 2.17.1 in /javamelody-swing"}
+{"id":1166996205,"created_at":"2022-03-11T23:38:43Z","updated_at":"2022-03-12T00:35:55Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1004347400,"created_at":"2021-09-22T14:10:31Z","updated_at":"2022-04-27T06:06:56Z","state":"closed","title":"Exceptions using documentation "}
+{"id":1140795022,"created_at":"2022-02-17T02:29:19Z","updated_at":"2022-02-22T17:45:24Z","state":"closed","title":"8254085: javax/swing/text/Caret/TestCaretPositionJTextPane.java failed with \"RuntimeException:  Wrong caret position\""}
+{"id":1153952075,"created_at":"2022-02-28T11:05:34Z","updated_at":"2022-03-11T15:05:45Z","state":"closed","title":"Deprecating reactor-extra's Swing/SwtScheduler (removal in 3.6.0)"}
+{"id":1121098871,"created_at":"2022-02-01T19:14:28Z","updated_at":"2022-02-03T15:51:52Z","state":"closed","title":"[1.18] Ported remaining entity management procedure blocks"}
+{"id":1219498144,"created_at":"2022-04-29T00:29:50Z","updated_at":"2022-05-04T20:50:15Z","state":"closed","title":"JDK-8285869: Selective cleanup in doclint Checker class"}
+{"id":1153631565,"created_at":"2022-02-28T04:34:37Z","updated_at":"2022-04-02T13:19:46Z","state":"closed","title":"Yagni Inc. GUI Default Layouts and Styling "}
+{"id":1105431876,"created_at":"2022-01-17T06:25:59Z","updated_at":"2022-01-20T04:16:38Z","state":"closed","title":"8280047: Broken link to Swing Connection document from javax.swing package docs"}
+{"id":925562827,"created_at":"2021-06-20T09:57:09Z","updated_at":"2022-04-30T17:55:30Z","state":"closed","title":"TransformROIsCommand throws ArrayIndexOutOfBounds Exception"}
+{"id":1217844979,"created_at":"2022-04-27T20:23:32Z","updated_at":"2022-05-05T20:00:24Z","state":"closed","title":"8272352: Java launcher can not parse Chinese character when system locale is set to UTF-8"}
+{"id":1174716346,"created_at":"2022-03-20T22:54:32Z","updated_at":"2022-03-25T09:53:16Z","state":"closed","title":"Bump reactorVersion from 3.4.14 to 3.4.16 in /content-upload"}
+{"id":1221670672,"created_at":"2022-04-30T00:21:38Z","updated_at":"2022-05-10T09:46:39Z","state":"closed","title":"chore(deps): update dependency io.projectreactor:reactor-core to v3.4.18"}
+{"id":1192573804,"created_at":"2022-04-05T03:56:21Z","updated_at":"2022-04-05T20:28:20Z","state":"closed","title":"Added Best Matches to GUI"}
+{"id":1169970858,"created_at":"2022-03-15T17:25:12Z","updated_at":"2022-04-05T17:31:53Z","state":"closed","title":"Bump reactor-test from 3.4.15 to 3.4.16"}
+{"id":1115054697,"created_at":"2022-01-26T14:03:56Z","updated_at":"2022-03-16T13:03:05Z","state":"closed","title":"Bump javafx-swing from 11.0.1 to 17.0.2"}
+{"id":1106129225,"created_at":"2022-01-17T17:55:18Z","updated_at":"2022-01-21T23:02:06Z","state":"closed","title":"Native image for java swing in windows"}
+{"id":1186569123,"created_at":"2022-03-30T14:41:58Z","updated_at":"2022-04-04T20:52:37Z","state":"closed","title":"IllegalAccessError on Save"}
+{"id":1123871364,"created_at":"2022-02-04T06:46:01Z","updated_at":"2022-02-13T19:48:39Z","state":"closed","title":"Gui menu mnemonic and accelerator key proposal"}
+{"id":1118032444,"created_at":"2022-01-29T05:06:39Z","updated_at":"2022-01-29T05:06:44Z","state":"closed","title":"Develop"}
+{"id":1154095130,"created_at":"2022-02-28T13:29:24Z","updated_at":"2022-05-13T02:16:26Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception update failed for AnAction(com.microsoft.azure.hdinsight.spark.run.action.SparkJobDebugAction， id=SparkJobDebug) with text=SparkJobDebug com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.tree.PsiWhiteSpaceImpl #  because: parent is null"}
+{"id":1190870094,"created_at":"2022-04-03T09:04:35Z","updated_at":"2022-04-20T07:50:58Z","state":"closed","title":"[Logic] 게임 보드 및 조작"}
+{"id":1197249360,"created_at":"2022-04-08T12:19:03Z","updated_at":"2022-04-13T17:48:02Z","state":"closed","title":"8284673: Collapse identical catch branches in java.management"}
+{"id":1096937248,"created_at":"2022-01-08T14:06:59Z","updated_at":"2022-01-08T14:07:05Z","state":"closed","title":"with UI using Java Swing"}
+{"id":1213038147,"created_at":"2022-04-23T01:07:53Z","updated_at":"2022-04-30T14:37:09Z","state":"closed","title":"Improvements to the placements and unit scroller collapsible panels."}
+{"id":1173319871,"created_at":"2022-03-18T08:19:15Z","updated_at":"2022-03-20T21:15:08Z","state":"closed","title":"Suggestion: Add an option to hold all items up like the compass/clock"}
+{"id":1149340234,"created_at":"2022-02-24T14:14:36Z","updated_at":"2022-02-28T09:00:14Z","state":"closed","title":"Prevent a crash when removing/adding a GLCanvas."}
+{"id":1101608188,"created_at":"2022-01-13T11:54:54Z","updated_at":"2022-02-28T11:42:55Z","state":"closed","title":"Move reactor.swing.SwtScheduler.java to reactor.swt.SwtScheduler.java"}
+{"id":346828728,"created_at":"2018-08-02T01:46:03Z","updated_at":"2022-04-29T15:14:28Z","state":"closed","title":"#1853 Add feature for open result from process"}
+{"id":1157743626,"created_at":"2022-03-02T22:08:25Z","updated_at":"2022-04-11T16:19:58Z","state":"closed","title":"Generated RAT table TechBase column"}
+{"id":1115055529,"created_at":"2022-01-26T14:04:46Z","updated_at":"2022-03-16T13:03:03Z","state":"closed","title":"Bump javafx-swing from 11.0.1 to 17.0.2"}
+{"id":1037375321,"created_at":"2021-10-27T12:42:50Z","updated_at":"2022-03-07T18:02:57Z","state":"closed","title":"8276058: Some swing test fails on specific CI macos system"}
+{"id":1154373116,"created_at":"2022-02-28T17:40:47Z","updated_at":"2022-03-17T05:42:06Z","state":"closed","title":"[Feature Request] increase the maximum connection pool parameter in swing mode so that simultaneous processing is possible."}
+{"id":1109234636,"created_at":"2022-01-20T12:20:27Z","updated_at":"2022-03-15T12:17:41Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 17.0.2"}
+{"id":1147501256,"created_at":"2022-02-23T00:25:37Z","updated_at":"2022-02-25T14:52:35Z","state":"closed","title":"Standardized Code Utilities"}
+{"id":1162639343,"created_at":"2022-03-08T13:11:26Z","updated_at":"2022-03-09T20:39:20Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1229548172,"created_at":"2022-05-09T11:12:32Z","updated_at":"2022-05-24T09:16:33Z","state":"closed","title":"8286376: Wrong condition for using non-immediate oops on AArch64"}
+{"id":1230208229,"created_at":"2022-05-09T20:21:18Z","updated_at":"2022-05-18T20:06:55Z","state":"closed","title":"SWORD: if custom terms disabled， report error #8580"}
+{"id":1106059161,"created_at":"2022-01-17T16:31:21Z","updated_at":"2022-01-19T13:53:28Z","state":"closed","title":"Refactor badbm"}
+{"id":1161954396,"created_at":"2022-03-07T21:40:38Z","updated_at":"2022-03-09T20:39:20Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1175824165,"created_at":"2022-03-21T19:09:33Z","updated_at":"2022-03-22T12:44:30Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /chat-getting-started-dropwizard"}
+{"id":1180898380,"created_at":"2022-03-25T14:57:12Z","updated_at":"2022-03-25T15:42:03Z","state":"closed","title":"burp  2022.8.1报错"}
+{"id":1180898380,"created_at":"2022-03-25T14:57:12Z","updated_at":"2022-03-25T15:42:03Z","state":"closed","title":"burp  2022.8.1报错"}
+{"id":1109236429,"created_at":"2022-01-20T12:22:04Z","updated_at":"2022-03-15T12:19:17Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 17.0.2"}
+{"id":1109226899,"created_at":"2022-01-20T12:12:00Z","updated_at":"2022-03-15T12:10:43Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 17.0.2"}
+{"id":1190790285,"created_at":"2022-04-03T02:02:11Z","updated_at":"2022-05-26T19:07:00Z","state":"closed","title":"NiggerBlocker"}
+{"id":987717317,"created_at":"2021-09-03T12:21:38Z","updated_at":"2022-04-23T15:42:02Z","state":"closed","title":"regression: dependency-check-maven does not take dependencies' repositories into account anymore"}
+{"id":1146772100,"created_at":"2022-02-22T11:09:51Z","updated_at":"2022-02-22T11:22:20Z","state":"closed","title":"Swing chart display correctly and have an ITTest to verify screenshots"}
+{"id":1209170336,"created_at":"2022-04-20T05:10:23Z","updated_at":"2022-05-24T05:38:14Z","state":"closed","title":"6829250: Reg test: java/awt/Toolkit/ScreenInsetsTest/ScreenInsetsTest.java fails in Windows"}
+{"id":1109232977,"created_at":"2022-01-20T12:18:37Z","updated_at":"2022-03-15T12:15:42Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 17.0.2"}
+{"id":1153336312,"created_at":"2022-02-27T17:44:32Z","updated_at":"2022-03-06T01:39:02Z","state":"closed","title":"Igniting sustainer before booster causes incomplete CalcMap creation and null pointer exception"}
+{"id":1122967305,"created_at":"2022-02-03T11:25:19Z","updated_at":"2022-02-16T22:36:21Z","state":"closed","title":"2.6.561: Postconditions#assertState:31 - java.lang.AssertionError"}
+{"id":1149059895,"created_at":"2022-02-24T09:35:07Z","updated_at":"2022-03-29T20:35:08Z","state":"closed","title":"ExecutionException: java.lang.IllegalStateException: bad type: 35"}
+{"id":1150069497,"created_at":"2022-02-25T05:48:22Z","updated_at":"2022-04-26T05:37:12Z","state":"closed","title":"Bump javafx.version from 11.0.2 to 17.0.2"}
+{"id":1170106830,"created_at":"2022-03-15T19:32:42Z","updated_at":"2022-03-29T20:34:24Z","state":"closed","title":"ExecutionException: java.io.IOException: failed to start child process"}
+{"id":1209762011,"created_at":"2022-04-20T14:20:06Z","updated_at":"2022-04-25T13:45:17Z","state":"closed","title":"8279597: [TESTBUG] ReturnBlobToWrongHeapTest.java fails with -XX:TieredStopAtLevel=1 on machines with many cores"}
+{"id":1118039034,"created_at":"2022-01-29T05:43:31Z","updated_at":"2022-01-29T05:43:37Z","state":"closed","title":"Develop2"}
+{"id":1190686919,"created_at":"2022-04-02T17:08:35Z","updated_at":"2022-04-04T11:26:57Z","state":"closed","title":"[S&T 053 Punic Wars] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\S&T 53 - The Punic Wars Map.jpg:1，1@0.5"}
+{"id":1190183831,"created_at":"2022-04-01T19:18:39Z","updated_at":"2022-04-15T18:04:03Z","state":"closed","title":"8283704: Add sealed modifier to java.awt.MultipleGradientPaint"}
+{"id":1167751669,"created_at":"2022-03-14T00:52:14Z","updated_at":"2022-03-29T20:34:52Z","state":"closed","title":"[Formula Dé] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Oschersleben.jpg:0，3@0.25"}
+{"id":1215964612,"created_at":"2022-04-26T13:31:00Z","updated_at":"2022-04-27T11:29:22Z","state":"closed","title":"JDK-8285675: Temporary fix for arm32 SafeFetch"}
+{"id":1119367213,"created_at":"2022-01-31T12:28:30Z","updated_at":"2022-02-16T22:35:33Z","state":"closed","title":"2.6.548: Postconditions#assertState:31 - java.lang.AssertionError"}
+{"id":1119356923,"created_at":"2022-01-31T12:18:37Z","updated_at":"2022-02-16T22:34:51Z","state":"closed","title":"2.6.557: Postconditions#assertState:31 - java.lang.AssertionError"}
+{"id":1119337562,"created_at":"2022-01-31T12:01:04Z","updated_at":"2022-02-16T22:32:59Z","state":"closed","title":"2.6.556: Postconditions#assertState:31 - java.lang.AssertionError"}
+{"id":1121692765,"created_at":"2022-02-02T09:30:29Z","updated_at":"2022-02-02T09:51:56Z","state":"closed","title":"Hide top-level dialog from the taskbar"}
+{"id":1042004718,"created_at":"2021-11-02T08:17:23Z","updated_at":"2022-03-29T09:42:04Z","state":"closed","title":"Remove OpenJFX dependencies while publishing to mvncentral"}
+{"id":1083354114,"created_at":"2021-12-17T15:12:09Z","updated_at":"2021-12-17T15:14:15Z","state":"closed","title":"Swing overhaul"}
+{"id":945281861,"created_at":"2021-07-15T11:27:39Z","updated_at":"2022-04-07T18:04:24Z","state":"closed","title":"8268284: javax/swing/JComponent/7154030/bug7154030.java fails with \"Exception: Failed to hide opaque button\""}
+{"id":1007467049,"created_at":"2021-09-26T18:30:59Z","updated_at":"2022-04-09T11:37:08Z","state":"closed","title":"Settings broken in PS-213 (EAP)"}
+{"id":1215244020,"created_at":"2022-04-26T01:44:45Z","updated_at":"2022-04-27T14:53:58Z","state":"closed","title":"8285617 : Fix java/awt/print/PrinterJob/ImagePrinting/PrintARGBImage.java manual test"}
+{"id":1059353188,"created_at":"2021-11-21T11:19:35Z","updated_at":"2022-05-20T08:41:45Z","state":"closed","title":"Unable to use Diamond Longsword"}
+{"id":1119435159,"created_at":"2022-01-31T13:31:57Z","updated_at":"2022-03-28T17:03:27Z","state":"closed","title":"Right-clicking with the Axe of a Thousand Metals right before going to the Nether removes the swing ability"}
+{"id":1169422133,"created_at":"2022-03-15T09:45:50Z","updated_at":"2022-03-24T11:18:37Z","state":"closed","title":"Bump reactor.version from 3.4.15 to 3.4.16"}
+{"id":1183430894,"created_at":"2022-03-28T13:18:50Z","updated_at":"2022-04-19T11:58:05Z","state":"closed","title":"8283790: G1: Remove redundant card/heap-address transition"}
+{"id":288261811,"created_at":"2018-01-12T22:15:35Z","updated_at":"2022-03-10T18:05:12Z","state":"closed","title":"Random syntax parsing errors when opening scripts"}
+{"id":313914960,"created_at":"2018-04-12T22:55:53Z","updated_at":"2022-05-20T16:41:32Z","state":"closed","title":"Clear button in cadc-download-manager application is broken"}
+{"id":1092237898,"created_at":"2022-01-03T05:29:19Z","updated_at":"2022-04-15T11:54:22Z","state":"closed","title":"2.5.22294: NodeBbTokenGenerator#queryUserInfo:118 - java.lang.ClassCastException"}
+{"id":1134909524,"created_at":"2022-02-13T01:03:51Z","updated_at":"2022-04-06T20:28:48Z","state":"closed","title":"Add \"package\" build target"}
+{"id":864055724,"created_at":"2021-04-21T16:15:50Z","updated_at":"2022-04-07T18:03:08Z","state":"closed","title":"8171381: [TEST_BUG] [macos] javax/swing/JPopupMenu/7156657/bug7156657.java fails on OS X"}
+{"id":1198732355,"created_at":"2022-04-09T18:10:23Z","updated_at":"2022-04-10T12:03:32Z","state":"closed","title":"Bump actions/setup-java from 1 to 3"}
+{"id":1175514080,"created_at":"2022-03-21T15:01:16Z","updated_at":"2022-03-21T15:01:43Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1160833695,"created_at":"2022-03-07T02:49:38Z","updated_at":"2022-03-23T22:33:07Z","state":"closed","title":"added java_gradle.yaml， moved dictionary， started scrabble frame"}
+{"id":1192727219,"created_at":"2022-04-05T07:14:16Z","updated_at":"2022-04-12T11:30:31Z","state":"closed","title":"Bump util from `14a41a2` to `1efb25e`"}
+{"id":1169513413,"created_at":"2022-03-15T10:56:43Z","updated_at":"2022-04-05T07:54:24Z","state":"closed","title":"Update dependency io.projectreactor.addons:reactor-extra to v3.4.7"}
+{"id":1136013436,"created_at":"2022-02-13T15:29:21Z","updated_at":"2022-02-15T04:06:03Z","state":"closed","title":"库在maven上找不到？yalong.site这两个库是在哪里下载的呢？"}
+{"id":716271208,"created_at":"2020-10-07T07:23:44Z","updated_at":"2022-05-24T10:03:00Z","state":"closed","title":"OrientDB 3.0.x exceptions"}
+{"id":1192878232,"created_at":"2022-04-05T09:33:16Z","updated_at":"2022-04-05T14:29:07Z","state":"closed","title":"Wrong video name displayed in Transform ROI tool"}
+{"id":1170513020,"created_at":"2022-03-16T04:05:05Z","updated_at":"2022-03-23T16:04:42Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1076361362,"created_at":"2021-12-10T02:42:32Z","updated_at":"2022-04-20T19:21:38Z","state":"closed","title":"Cannot resolve net.java.dev:stax-utils:snapshot-20100402"}
+{"id":1109237970,"created_at":"2022-01-20T12:23:39Z","updated_at":"2022-03-15T12:21:00Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 17.0.2"}
+{"id":1127400281,"created_at":"2022-02-08T15:23:42Z","updated_at":"2022-05-13T02:16:37Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception update failed for AnAction(com.microsoft.azure.hdinsight.spark.run.action.SparkJobDebugAction， id=SparkJobDebug) with text=SparkJobDebug com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.tree.LeafPsiElement #Groovy  because: parent is null"}
+{"id":1188139572,"created_at":"2022-03-31T14:06:11Z","updated_at":"2022-03-31T14:10:45Z","state":"closed","title":"CVE-2020-10969 (High) detected in jackson-databind-2.3.4.jar - autoclosed"}
+{"id":1165625806,"created_at":"2022-03-10T19:20:20Z","updated_at":"2022-03-10T23:04:31Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == 1"}
+{"id":1170319528,"created_at":"2022-03-15T22:15:50Z","updated_at":"2022-04-01T13:28:05Z","state":"closed","title":"Update dependency io.projectreactor.addons:reactor-extra to v3.4.7"}
+{"id":1170672187,"created_at":"2022-03-16T08:05:01Z","updated_at":"2022-03-16T08:43:02Z","state":"closed","title":"Bump projectreactor.version from 3.4.15 to 3.4.16"}
+{"id":191801194,"created_at":"2016-11-26T11:25:47Z","updated_at":"2022-04-23T08:33:54Z","state":"closed","title":"NPC Animations are lost"}
+{"id":1170449339,"created_at":"2022-03-16T02:01:52Z","updated_at":"2022-03-22T02:13:15Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1169908193,"created_at":"2022-03-15T16:29:12Z","updated_at":"2022-03-23T12:37:55Z","state":"closed","title":"build(deps): bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1117848908,"created_at":"2022-01-28T21:08:48Z","updated_at":"2022-02-01T00:55:47Z","state":"closed","title":"Add Automatic-Module-Name"}
+{"id":637871771,"created_at":"2020-06-12T16:25:58Z","updated_at":"2022-03-06T11:10:05Z","state":"closed","title":"Restructure"}
+{"id":1139169200,"created_at":"2022-02-15T20:13:20Z","updated_at":"2022-04-26T05:47:58Z","state":"closed","title":"Printing"}
+{"id":116952603,"created_at":"2015-11-14T21:19:24Z","updated_at":"2022-04-20T13:59:15Z","state":"closed","title":"cyNeo4j throws exception when using with Cytoscape 3.3.0"}
+{"id":1170524760,"created_at":"2022-03-16T04:24:38Z","updated_at":"2022-03-18T10:14:00Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /shio-app"}
+{"id":1157656742,"created_at":"2022-03-02T20:27:11Z","updated_at":"2022-03-02T22:03:32Z","state":"closed","title":"Booster simulation causes exception"}
+{"id":1169947387,"created_at":"2022-03-15T17:02:51Z","updated_at":"2022-03-16T08:21:26Z","state":"closed","title":"Bump reactor-test from 3.4.15 to 3.4.16"}
+{"id":1031117898,"created_at":"2021-10-20T08:22:03Z","updated_at":"2022-05-20T19:49:44Z","state":"closed","title":"Auto analysis hangs after ghidra.util.exception.UnableToSwingException， unable to interact with anything after."}
+{"id":1203080733,"created_at":"2022-04-13T10:05:25Z","updated_at":"2022-04-26T15:51:38Z","state":"closed","title":"8284622: Update versions of some Github Actions used in JDK workflow"}
+{"id":1220163703,"created_at":"2022-04-29T08:00:51Z","updated_at":"2022-04-29T09:57:18Z","state":"closed","title":"chore(deps): update dependency io.projectreactor:reactor-test to v3.4.17"}
+{"id":1129611523,"created_at":"2022-02-10T08:11:04Z","updated_at":"2022-02-15T01:02:28Z","state":"closed","title":"8047749: javadoc for getPathBounds() in TreeUI and BasicTreeUI is incorrect"}
+{"id":1109235523,"created_at":"2022-01-20T12:21:19Z","updated_at":"2022-03-15T12:18:20Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 17.0.2"}
+{"id":1109231034,"created_at":"2022-01-20T12:16:33Z","updated_at":"2022-03-15T12:13:46Z","state":"closed","title":"Bump javafx-swing from 11.0.2 to 17.0.2"}
+{"id":1200257866,"created_at":"2022-04-11T16:57:25Z","updated_at":"2022-04-11T19:14:02Z","state":"closed","title":"8284689: ProblemList java/lang/Integer/Unsigned.java in -Xcomp mode"}
+{"id":1207630264,"created_at":"2022-04-19T02:12:09Z","updated_at":"2022-04-30T07:39:46Z","state":"closed","title":"8284981: Support the vectorization of some counting-down loops in SLP"}
+{"id":1170517694,"created_at":"2022-03-16T04:12:52Z","updated_at":"2022-03-17T08:20:01Z","state":"closed","title":"Bump reactor-test from 3.4.15 to 3.4.16"}
+{"id":1103261188,"created_at":"2022-01-14T08:41:29Z","updated_at":"2022-04-06T09:11:01Z","state":"closed","title":"8210194: [TESTBUG] jvmti_FollowRefObjects.cpp missing initializer for member _jvmtiHeapCallbacks::heap_reference_callback"}
+{"id":1170331113,"created_at":"2022-03-15T22:31:35Z","updated_at":"2022-03-15T22:53:13Z","state":"closed","title":"build(deps): bump reactor-test from 3.4.15 to 3.4.16"}
+{"id":1170331092,"created_at":"2022-03-15T22:31:32Z","updated_at":"2022-03-15T22:52:58Z","state":"closed","title":"build(deps): bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1184472794,"created_at":"2022-03-29T08:04:42Z","updated_at":"2022-04-12T04:22:19Z","state":"closed","title":"8283245: Create a test for JDK-4670319"}
+{"id":1169598023,"created_at":"2022-03-15T12:18:39Z","updated_at":"2022-03-15T13:57:42Z","state":"closed","title":"chore(deps): bump reactor-core.version from 3.4.15 to 3.4.16"}
+{"id":1170511334,"created_at":"2022-03-16T04:02:13Z","updated_at":"2022-03-16T08:22:34Z","state":"closed","title":"Bump reactor.version from 3.4.15 to 3.4.16"}
+{"id":1170480238,"created_at":"2022-03-16T03:01:10Z","updated_at":"2022-03-16T08:21:35Z","state":"closed","title":"Bump projectreactor.version from 3.4.15 to 3.4.16"}
+{"id":1154249918,"created_at":"2022-02-28T15:47:12Z","updated_at":"2022-04-06T19:13:55Z","state":"closed","title":"[Feature/Request]"}
+{"id":1115527729,"created_at":"2022-01-26T21:39:32Z","updated_at":"2022-01-27T19:17:48Z","state":"closed","title":"NPE loading IDE"}
+{"id":1223058512,"created_at":"2022-05-02T16:01:02Z","updated_at":"2022-05-20T08:59:59Z","state":"closed","title":"8285962: NimbusDefaults has a typo in a L&F property"}
+{"id":719442986,"created_at":"2020-10-12T14:52:48Z","updated_at":"2022-05-27T19:51:47Z","state":"closed","title":"Enum parameters don't work in scripts"}
+{"id":1198567887,"created_at":"2022-04-09T12:30:59Z","updated_at":"2022-04-09T13:15:59Z","state":"closed","title":"Bump reactor-core from 3.4.6 to 3.4.16"}
+{"id":1147672311,"created_at":"2022-02-23T06:21:19Z","updated_at":"2022-03-11T04:39:05Z","state":"closed","title":"[Bug] Launcher doesn't like certain characters in directory names"}
+{"id":1175983840,"created_at":"2022-03-21T21:55:05Z","updated_at":"2022-03-30T21:58:26Z","state":"closed","title":"java.lang.UnsatisfiedLinkError: Can't load library: /var/folders/6f/g8mlsykn1vg85svt2149pzpr0000gp/T/JxBrowser/7.19/libawt_toolkit.dylib"}
+{"id":1158826714,"created_at":"2022-03-03T19:42:10Z","updated_at":"2022-03-04T13:34:54Z","state":"closed","title":"GUI - Kann nicht mit mir selbst chatten"}
+{"id":1159981763,"created_at":"2022-03-04T19:37:06Z","updated_at":"2022-03-29T20:35:00Z","state":"closed","title":"[Battle Spirits Online Battlers] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Gate Open! Classic Field!.png:0，0@0.5"}
+{"id":1201143534,"created_at":"2022-04-12T06:01:01Z","updated_at":"2022-04-25T22:12:12Z","state":"closed","title":"8283422: Create a new test for JDK-8254790"}
+{"id":1170400444,"created_at":"2022-03-16T00:32:07Z","updated_at":"2022-03-16T01:02:00Z","state":"closed","title":"build(deps): bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1170589089,"created_at":"2022-03-16T06:13:16Z","updated_at":"2022-03-16T18:40:18Z","state":"closed","title":"Bump reactor-tools from 3.4.15 to 3.4.16 in /medusa-sample-implementation"}
+{"id":1170589142,"created_at":"2022-03-16T06:13:21Z","updated_at":"2022-03-16T18:30:48Z","state":"closed","title":"Bump reactor-tools from 3.4.15 to 3.4.16 in /medusa-ui"}
+{"id":1163418901,"created_at":"2022-03-09T02:32:48Z","updated_at":"2022-03-09T02:46:58Z","state":"closed","title":"blanket prohibition on infantry rapid fire MGs"}
+{"id":1213295146,"created_at":"2022-04-23T13:05:01Z","updated_at":"2022-04-28T16:20:21Z","state":"closed","title":"IDE Error Report"}
+{"id":1125281817,"created_at":"2022-02-06T18:40:45Z","updated_at":"2022-02-11T13:50:20Z","state":"closed","title":"Create a window showing RFID tags with associated Cars"}
+{"id":946949390,"created_at":"2021-07-18T04:31:45Z","updated_at":"2022-03-30T18:08:22Z","state":"closed","title":"infinite loading..."}
+{"id":1116893872,"created_at":"2022-01-28T01:04:59Z","updated_at":"2022-03-13T12:57:44Z","state":"closed","title":"[fixes #926] Fix motor selection window layout issues"}
+{"id":1211725276,"created_at":"2022-04-22T02:02:01Z","updated_at":"2022-04-22T23:49:28Z","state":"closed","title":"8285303: riscv: Incorrect register mask in call_native_base"}
+{"id":1190789228,"created_at":"2022-04-03T01:54:47Z","updated_at":"2022-04-03T02:53:53Z","state":"closed","title":"NullPointer exception when creating recipes"}
+{"id":1112230303,"created_at":"2022-01-24T06:33:06Z","updated_at":"2022-01-25T00:17:05Z","state":"closed","title":"Fixes"}
+{"id":1134687153,"created_at":"2022-02-12T22:06:19Z","updated_at":"2022-04-27T12:24:57Z","state":"closed","title":"Exception after bad input pane editing in ANTLR preview"}
+{"id":1243456451,"created_at":"2022-05-20T17:51:49Z","updated_at":"2022-05-20T20:32:05Z","state":"closed","title":"java: symbol lookup error: /lib64/libgtk-3.so.0: undefined symbol: g_log_structured_standard"}
+{"id":1200268773,"created_at":"2022-04-11T17:06:05Z","updated_at":"2022-05-05T14:50:24Z","state":"closed","title":"JDK-8282559: Allow multiple search terms in javadoc search"}
+{"id":1210967509,"created_at":"2022-04-21T12:30:34Z","updated_at":"2022-04-22T13:41:33Z","state":"closed","title":"JDK-8285362: unify os::pause platform coding"}
+{"id":1170510587,"created_at":"2022-03-16T04:00:54Z","updated_at":"2022-03-16T12:49:24Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1202005503,"created_at":"2022-04-12T15:18:24Z","updated_at":"2022-04-12T16:05:04Z","state":"closed","title":"Hangs while closing， printing problematic frame"}
+{"id":939503729,"created_at":"2021-07-08T06:06:30Z","updated_at":"2022-04-29T06:36:17Z","state":"closed","title":"Update default Tooltips in Frame5 to support HTML and show instantly."}
+{"id":1110655269,"created_at":"2022-01-21T16:17:19Z","updated_at":"2022-01-23T22:16:32Z","state":"closed","title":"ClassCastException on New Proof"}
+{"id":1154173793,"created_at":"2022-02-28T14:40:48Z","updated_at":"2022-03-29T20:35:04Z","state":"closed","title":"[Panzer 40-44 BattleAxe] ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\MBACoast4i.gif:0，1@0.25"}
+{"id":1170594917,"created_at":"2022-03-16T06:21:43Z","updated_at":"2022-03-16T10:33:54Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":701904449,"created_at":"2020-09-15T12:53:40Z","updated_at":"2022-04-24T17:03:35Z","state":"closed","title":"error when trying to start Web UI Server in linux"}
+{"id":1170594856,"created_at":"2022-03-16T06:21:38Z","updated_at":"2022-03-16T07:21:21Z","state":"closed","title":"Bump reactor-test from 3.4.15 to 3.4.16"}
+{"id":1173775419,"created_at":"2022-03-18T16:21:24Z","updated_at":"2022-03-18T17:00:12Z","state":"closed","title":"Acquire broken on linux"}
+{"id":1121227438,"created_at":"2022-02-01T21:40:23Z","updated_at":"2022-02-25T03:12:54Z","state":"closed","title":"BadLocationException thrown in SearchEngine if searchWrap = true and searchForward = false in empty document"}
+{"id":1155635467,"created_at":"2022-03-01T17:54:04Z","updated_at":"2022-03-03T13:25:38Z","state":"closed","title":"Displayscaling"}
+{"id":1108986405,"created_at":"2022-01-20T08:09:15Z","updated_at":"2022-05-13T02:16:59Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception update failed for AnAction(com.microsoft.azure.hdinsight.spark.run.action.SparkJobDebugAction， id=SparkJobDebug) with text=SparkJobDebug com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.tree.java.PsiJavaTokenImpl #JAVA  because: parent is null"}
+{"id":864748787,"created_at":"2021-04-22T09:38:45Z","updated_at":"2022-02-22T14:35:37Z","state":"closed","title":"Trans Java Swing to HTML+CSS"}
+{"id":1169206003,"created_at":"2022-03-15T05:31:41Z","updated_at":"2022-03-15T22:33:25Z","state":"closed","title":"[Battle Spirits Online Battlers] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\Deck editor.png:0，0@0.5"}
+{"id":1161767113,"created_at":"2022-03-07T18:20:03Z","updated_at":"2022-03-18T22:19:40Z","state":"closed","title":"Premovement and Prefiring phases. "}
+{"id":1073102185,"created_at":"2021-12-07T09:12:53Z","updated_at":"2022-05-24T05:08:20Z","state":"closed","title":"8278330: dump stack trace if the jvmti test nsk/jvmti/GetThreadState/thrstat002 is failed with wrong thread state"}
+{"id":1138415436,"created_at":"2022-02-15T09:30:14Z","updated_at":"2022-02-15T10:16:51Z","state":"closed","title":"Add new coder throws error in DNA 3.0.2"}
+{"id":1105558659,"created_at":"2022-01-17T09:04:42Z","updated_at":"2022-02-13T13:02:07Z","state":"closed","title":"[Bug 63620] Fix GUI freeze when viewing response body with long lines"}
+{"id":1141114629,"created_at":"2022-02-17T09:56:45Z","updated_at":"2022-03-30T16:06:09Z","state":"closed","title":"JDK-8282046: Create a regression test for JDK-8000326"}
+{"id":1164576699,"created_at":"2022-03-09T23:58:13Z","updated_at":"2022-03-19T15:02:44Z","state":"closed","title":"3502: Disable Jump Button when prone"}
+{"id":1219076453,"created_at":"2022-04-28T17:54:47Z","updated_at":"2022-05-19T09:55:35Z","state":"closed","title":"8285851: Cleanup C2AtomicParseAccess::needs_pinning()"}
+{"id":1206470342,"created_at":"2022-04-17T19:45:42Z","updated_at":"2022-04-17T19:57:12Z","state":"closed","title":"Issue on CLion 2022.1"}
+{"id":1190313469,"created_at":"2022-04-01T22:05:10Z","updated_at":"2022-04-10T17:59:11Z","state":"closed","title":"Bump reactor-core from 3.4.14 to 3.4.16 in /modules/r2dbc"}
+{"id":937482211,"created_at":"2021-07-06T03:18:35Z","updated_at":"2022-03-31T10:17:39Z","state":"closed","title":"Update spin attack animation for P1 V2"}
+{"id":1065859610,"created_at":"2021-11-29T10:21:25Z","updated_at":"2021-11-29T18:24:26Z","state":"closed","title":"Swing"}
+{"id":1177071632,"created_at":"2022-03-22T17:16:59Z","updated_at":"2022-05-11T10:14:36Z","state":"closed","title":"Give item only once per player on region-enter"}
+{"id":1126815438,"created_at":"2022-02-08T05:34:37Z","updated_at":"2022-03-01T03:11:06Z","state":"closed","title":"choose splash image and sizing based on dpi scaled sizes"}
+{"id":1176042217,"created_at":"2022-03-21T23:01:39Z","updated_at":"2022-04-18T23:01:53Z","state":"closed","title":"build: bump reactor-core from 3.4.3 to 3.4.16"}
+{"id":46214431,"created_at":"2014-10-19T19:22:26Z","updated_at":"2022-05-19T16:54:15Z","state":"closed","title":"README and ant build fixup"}
+{"id":1138427594,"created_at":"2022-02-15T09:40:16Z","updated_at":"2022-02-24T22:24:45Z","state":"closed","title":"Repaint doesn't work properly on putClientProperty "}
+{"id":678608777,"created_at":"2020-08-13T17:17:21Z","updated_at":"2022-04-06T16:59:44Z","state":"closed","title":"LogViewer from TangoSourceDistribution 9.3.4-rc6 is not working"}
+{"id":1099474141,"created_at":"2022-01-11T18:06:30Z","updated_at":"2022-01-17T13:50:08Z","state":"closed","title":"Update FlatLaf from 1.6.1 to 2.0"}
+{"id":1226903080,"created_at":"2022-05-05T16:13:59Z","updated_at":"2022-05-06T16:10:41Z","state":"closed","title":"8286154: Fix 3rd party notices in test files"}
+{"id":1199014765,"created_at":"2022-04-10T12:33:41Z","updated_at":"2022-04-21T22:17:28Z","state":"closed","title":"Bump gradle to 7.4.2"}
+{"id":1147848879,"created_at":"2022-02-23T09:26:14Z","updated_at":"2022-03-29T20:30:07Z","state":"closed","title":"[Cross Keys_Port_Republic] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\DVBS_Fed-Trax_CrKeys&PtRep.png:0，4@0.5"}
+{"id":1097010380,"created_at":"2022-01-08T18:59:00Z","updated_at":"2022-05-13T02:17:26Z","state":"closed","title":"[IntelliJ][ReportedByUser] Uncaught Exception update failed for AnAction(com.microsoft.azure.hdinsight.spark.run.action.SparkJobRunAction， id=SparkJobRun) with text=SparkJobRun com.intellij.psi.PsiInvalidElementAccessException: Element: class com.intellij.psi.impl.source.tree.java.PsiIdentifierImpl #JAVA  because: parent is null"}
+{"id":626958733,"created_at":"2020-05-29T02:48:49Z","updated_at":"2022-04-14T11:50:50Z","state":"closed","title":"com.intellij.diagnostic.IdeaReportingEvent$TextBasedThrowable at com.intellij.diagnostic.IdeaReportingEvent.<init>(IdeaReportingEvent.java:18)"}
+{"id":1113910648,"created_at":"2022-01-25T13:47:56Z","updated_at":"2022-03-09T14:34:37Z","state":"closed","title":"keep JSyntaxTextArea text value for use in headless mode"}
+{"id":1176975075,"created_at":"2022-03-22T15:40:11Z","updated_at":"2022-03-29T20:34:06Z","state":"closed","title":"[Axis Empires with SK] ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images\\TK Map.png:1，0@1.0"}
+{"id":1194742140,"created_at":"2022-04-06T15:02:35Z","updated_at":"2022-04-08T21:24:54Z","state":"closed","title":"Release needed to solve problems in Fiji"}
+{"id":1112394354,"created_at":"2022-01-24T09:38:09Z","updated_at":"2022-02-17T09:36:44Z","state":"closed","title":"8264743: Add forRemoval for deprecated classes and method in javax/swing/plaf/basic"}
+{"id":1165521502,"created_at":"2022-03-10T17:34:33Z","updated_at":"2022-04-01T17:07:29Z","state":"closed","title":"Flutter plugin crash in 'Flutter outline' tab."}
+{"id":1099380584,"created_at":"2022-01-11T16:28:20Z","updated_at":"2022-05-17T12:52:51Z","state":"closed","title":"Update plugin version number"}
+{"id":1201213587,"created_at":"2022-04-12T06:44:41Z","updated_at":"2022-04-27T16:53:38Z","state":"closed","title":"JDK-8284726: Print active locale settings in hs_err reports and in VM.info"}
+{"id":1134334542,"created_at":"2022-02-12T17:29:39Z","updated_at":"2022-02-16T19:29:55Z","state":"closed","title":"[Star Wars Rebellion] NullPointerException: Cannot read field \"npoints\" because \"poly\" is null"}
+{"id":1197220653,"created_at":"2022-04-08T11:48:10Z","updated_at":"2022-04-13T07:21:52Z","state":"closed","title":"8284579: Improve VarHandle checks for interpreter"}
+{"id":1172860989,"created_at":"2022-03-17T20:08:12Z","updated_at":"2022-03-24T08:23:52Z","state":"closed","title":"v1.2"}
+{"id":1213299222,"created_at":"2022-04-23T13:25:26Z","updated_at":"2022-05-12T03:35:05Z","state":"closed","title":"Address a comment to use provideErrorFeedback() API."}
+{"id":1167698479,"created_at":"2022-03-13T21:27:36Z","updated_at":"2022-03-20T21:44:32Z","state":"closed","title":"Exception during simulation"}
+{"id":1083868984,"created_at":"2021-12-18T16:43:08Z","updated_at":"2022-04-13T20:35:55Z","state":"closed","title":"Exporting Minecraft 1.18.1 Source Code Not Working"}
+{"id":1201943605,"created_at":"2022-04-12T14:33:24Z","updated_at":"2022-04-13T11:27:07Z","state":"closed","title":"[Lynnvander_08_BC] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images/playarea3.png:14，0@1.0"}
+{"id":1183690006,"created_at":"2022-03-28T16:30:50Z","updated_at":"2022-03-30T17:26:33Z","state":"closed","title":"8283700: Add final or sealed modifier to appropriate java.awt API classes"}
+{"id":1176003740,"created_at":"2022-03-21T22:11:08Z","updated_at":"2022-04-18T22:33:23Z","state":"closed","title":"Bump reactor-test from 3.4.8 to 3.4.16"}
+{"id":1145895374,"created_at":"2022-02-21T14:48:17Z","updated_at":"2022-02-23T15:00:10Z","state":"closed","title":"added Window initialization and moved Main.java into yes package"}
+{"id":1224877340,"created_at":"2022-05-04T03:06:44Z","updated_at":"2022-05-05T01:17:22Z","state":"closed","title":"8286105: SourceRevision.gmk should respect GIT variable"}
+{"id":1127198478,"created_at":"2022-02-08T12:34:07Z","updated_at":"2022-02-08T13:10:31Z","state":"closed","title":"Draw the first frame before window is visible"}
+{"id":1173729195,"created_at":"2022-03-18T15:37:37Z","updated_at":"2022-03-29T21:59:35Z","state":"closed","title":"Fire events when a Default Task is started， finished， or cancelled"}
+{"id":1011380260,"created_at":"2021-09-29T19:48:20Z","updated_at":"2022-02-21T14:17:58Z","state":"closed","title":"8274465: Fix javax/swing/text/ParagraphView/6364882/bug6364882.java failures"}
+{"id":1172455151,"created_at":"2022-03-17T14:55:50Z","updated_at":"2022-03-18T21:50:47Z","state":"closed","title":"EmbeddedMediaListPlayerComponent is not embedding the video output correctly"}
+{"id":1165130760,"created_at":"2022-03-10T11:58:58Z","updated_at":"2022-03-17T05:01:32Z","state":"closed","title":"Server Admin- com.percussion.conn.PSServerException: null appeared on fetching the Logging for any type."}
+{"id":1205779995,"created_at":"2022-04-15T18:23:38Z","updated_at":"2022-04-19T16:27:41Z","state":"closed","title":"8284697: Avoid parsing the doc comment of an element that is not documented"}
+{"id":1165808056,"created_at":"2022-03-10T22:50:36Z","updated_at":"2022-03-11T22:24:50Z","state":"closed","title":"[HHF2 module] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images/HHF2_WestMap.jpg:0，1@0.0625"}
+{"id":1063173536,"created_at":"2021-11-25T05:28:37Z","updated_at":"2021-11-26T02:29:12Z","state":"closed","title":"Swing"}
+{"id":1218828292,"created_at":"2022-04-28T14:35:54Z","updated_at":"2022-05-02T14:16:09Z","state":"closed","title":"8285827: Describe the keystore.pkcs12.legacy system property in the java.security file"}
+{"id":665678112,"created_at":"2020-07-25T23:37:29Z","updated_at":"2022-03-09T17:30:24Z","state":"closed","title":"Fixed Skin Preview"}
+{"id":1171964548,"created_at":"2022-03-17T05:57:14Z","updated_at":"2022-03-17T08:55:09Z","state":"closed","title":"Bug Report 2022/03/17"}
+{"id":1130979575,"created_at":"2022-02-10T21:11:53Z","updated_at":"2022-05-26T10:06:08Z","state":"closed","title":"IncorrectOperationException when moving a file"}
+{"id":1128106579,"created_at":"2022-02-09T06:26:20Z","updated_at":"2022-02-09T22:45:37Z","state":"closed","title":"feat(import/export tool): new graphics"}
+{"id":936089998,"created_at":"2021-07-02T22:08:37Z","updated_at":"2022-02-23T04:55:13Z","state":"closed","title":"[fixes #697] Added Photo Studio settings saving"}
+{"id":1204729102,"created_at":"2022-04-14T16:13:59Z","updated_at":"2022-04-19T14:26:10Z","state":"closed","title":"8284539: Configure --with-source-date=version fails on MacOS"}
+{"id":1169962740,"created_at":"2022-03-15T17:16:54Z","updated_at":"2022-03-22T20:05:29Z","state":"closed","title":"Cannot open embedded devtools"}
+{"id":1127602695,"created_at":"2022-02-08T18:16:00Z","updated_at":"2022-02-08T18:19:40Z","state":"closed","title":"added javax swing， panel， buttons， tested action listeners， AB#691， A…"}
+{"id":1169539786,"created_at":"2022-03-15T11:20:42Z","updated_at":"2022-03-15T14:28:48Z","state":"closed","title":"Bump javafx_version from 17.0.2 to 18"}
+{"id":386347415,"created_at":"2018-11-30T20:56:51Z","updated_at":"2022-04-02T01:15:25Z","state":"closed","title":"java.lang.UnsatisfiedLinkError: no jniopencv_core in java.library.path"}
+{"id":1138603967,"created_at":"2022-02-15T12:09:10Z","updated_at":"2022-03-10T20:15:42Z","state":"closed","title":"Use platform-specific ways to launch the preferences or about dialog"}
+{"id":1121402148,"created_at":"2022-02-02T01:16:14Z","updated_at":"2022-02-16T01:16:54Z","state":"closed","title":"Bump postgresql from 42.2.5 to 42.2.25 in /Twinkle/Swing"}
+{"id":1122970402,"created_at":"2022-02-03T11:28:08Z","updated_at":"2022-04-06T19:23:39Z","state":"closed","title":"Change stats"}
+{"id":1170523579,"created_at":"2022-03-16T04:22:42Z","updated_at":"2022-04-13T04:26:04Z","state":"closed","title":"Bump reactor-core from 3.4.8 to 3.4.16"}
+{"id":1159104757,"created_at":"2022-03-04T00:24:39Z","updated_at":"2022-03-04T09:50:01Z","state":"closed","title":"Maven dependacies not working.."}
+{"id":1097943082,"created_at":"2022-01-10T14:07:21Z","updated_at":"2022-02-21T07:10:54Z","state":"closed","title":"导入插件报错"}
+{"id":1169488091,"created_at":"2022-03-15T10:38:40Z","updated_at":"2022-04-12T13:25:19Z","state":"closed","title":"Bump reactor-test from 3.4.15 to 3.4.16"}
+{"id":1169488367,"created_at":"2022-03-15T10:38:55Z","updated_at":"2022-04-12T13:25:01Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16"}
+{"id":1139168916,"created_at":"2022-02-15T20:13:02Z","updated_at":"2022-04-01T04:40:11Z","state":"closed","title":"Word Wrap Support"}
+{"id":1152819982,"created_at":"2022-02-27T04:53:39Z","updated_at":"2022-03-01T22:23:49Z","state":"closed","title":"ExecutionException: java.io.IOException: return value == -1073741515"}
+{"id":1170514546,"created_at":"2022-03-16T04:07:40Z","updated_at":"2022-04-12T09:02:45Z","state":"closed","title":"Bump reactor-core from 3.4.13 to 3.4.16 in /java"}
+{"id":1176355617,"created_at":"2022-03-22T07:06:13Z","updated_at":"2022-04-05T07:14:19Z","state":"closed","title":"Bump util from `14a41a2` to `c94e018`"}
+{"id":1123609905,"created_at":"2022-02-03T22:16:39Z","updated_at":"2022-02-07T01:24:27Z","state":"closed","title":"BlazeUtilities unit tests"}
+{"id":1170034323,"created_at":"2022-03-15T18:27:56Z","updated_at":"2022-04-12T18:46:35Z","state":"closed","title":"Bump reactor-core from 3.3.18.RELEASE to 3.4.16"}
+{"id":1221548414,"created_at":"2022-04-29T21:13:21Z","updated_at":"2022-05-03T16:02:46Z","state":"closed","title":"8265360: several compiler/whitebox tests fail with \"private compiler.whitebox.SimpleTestCaseHelper(int) must be compiled\""}
+{"id":1170012289,"created_at":"2022-03-15T18:05:52Z","updated_at":"2022-04-12T18:05:27Z","state":"closed","title":"Bump reactor-core from 3.4.13 to 3.4.16 in /java"}
+{"id":1124279936,"created_at":"2022-02-04T14:43:02Z","updated_at":"2022-02-04T19:56:58Z","state":"closed","title":"I'm dont see any seed"}
+{"id":1161947203,"created_at":"2022-03-07T21:31:47Z","updated_at":"2022-03-09T20:57:34Z","state":"closed","title":"[Flat Top] ExecutionException: java.util.concurrent.ExecutionException: java.util.concurrent.ExecutionException: VASSAL.tools.image.tilecache.TileNotFoundException: images/Midway_Map.gif:5，0@0.5"}
+{"id":1203246428,"created_at":"2022-04-13T12:39:59Z","updated_at":"2022-04-16T05:57:22Z","state":"closed","title":"8284681: compiler/c2/aarch64/TestFarJump.java fails with \"RuntimeException: for CodeHeap < 250MB the far jump is expected to be encoded with a single branch instruction\""}
+{"id":1130882073,"created_at":"2022-02-10T20:23:58Z","updated_at":"2022-02-24T22:25:16Z","state":"closed","title":"Rendering artifacts on native decorated windows on HiDPI"}
+{"id":1146158490,"created_at":"2022-02-21T19:29:25Z","updated_at":"2022-02-21T19:45:37Z","state":"closed","title":"Erro numero cacfc78f942de489a77ec74ec935c2a35840ef63 v2.7.5"}
+{"id":1189028288,"created_at":"2022-04-01T00:07:23Z","updated_at":"2022-05-01T00:22:52Z","state":"closed","title":"Bump reactor-core from 3.4.15 to 3.4.16 in /modules/r2dbc"}

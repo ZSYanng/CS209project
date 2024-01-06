@@ -1,0 +1,69 @@
+按问题出现的数量降序罗列
+AWT_open:
+[Android + OpenCV] CanvasFrame (java.awt.image)  ---173
+Do not request resource from classloader using path with leading slash -->可以仅取slash  47
+2.5.22294    ---49
+Exception  ---32
+NullPointerException   ----19
+auto-generated     ----21
+
+AWT_closed:
+Error Report
+Add
+NPE
+Plugin
+file
+lambda
+
+Swing_closed:
+Bump
+3.4.16
+ExecutionException
+Update
+TileNotFoundException
+IOException
+
+Swing_open:
+images
+Bump
+Windows
+ImgBot
+Randomizer
+NPE
+
+JavaFx_open:
+Bump
+javafx-controls
+module
+javafx-fxml
+Optimize
+javafx-maven-plugin
+
+JavaFx_close:
+Bump
+controls
+fxml
+graphics
+version
+base
+
+SWT_closed:
+Bump
+Eclipse
+disposed
+Bugzilla
+add
+version
+
+SWT_open:
+Eclipse
+NPE
+file
+support
+loop
+opening
+
+
+
+
+

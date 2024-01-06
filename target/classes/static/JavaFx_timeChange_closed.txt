@@ -1,0 +1,200 @@
+{"id":1232432697,"created_at":"2022-05-11T10:55:36Z","updated_at":"2022-05-11T10:57:06Z","state":"closed","title":"Update SWT_AWT.java"}
+{"id":1245839021,"created_at":"2022-05-24T00:45:25Z","updated_at":"2022-05-24T00:55:42Z","state":"closed","title":"AWT clash on Linux server"}
+{"id":1232419417,"created_at":"2022-05-11T10:44:08Z","updated_at":"2022-05-11T10:47:59Z","state":"closed","title":"Update SWT_AWT.java"}
+{"id":1243076625,"created_at":"2022-05-20T12:25:55Z","updated_at":"2022-05-24T11:26:28Z","state":"closed","title":"Removing isEventDispatchThread - it causes problems in headless env"}
+{"id":1232970738,"created_at":"2022-05-11T17:27:38Z","updated_at":"2022-05-19T18:40:53Z","state":"closed","title":"8286447: [Linux] AWT should start in Headless mode if headful AWT library not installed"}
+{"id":1245271796,"created_at":"2022-05-23T14:37:56Z","updated_at":"2022-05-23T14:38:09Z","state":"closed","title":"Working towards removing AWT from a layer of Controllers"}
+{"id":1239705976,"created_at":"2022-05-18T09:48:44Z","updated_at":"2022-05-24T16:34:31Z","state":"closed","title":"AWT test suite: JDK versions ambiguity wrt JPEG compressed TIFF"}
+{"id":1245942443,"created_at":"2022-05-24T03:50:26Z","updated_at":"2022-05-24T08:56:16Z","state":"closed","title":"ArrayIndexOutOfBoundsException occurs upon trying to open any 3D view"}
+{"id":1245145389,"created_at":"2022-05-23T13:09:22Z","updated_at":"2022-05-23T13:24:47Z","state":"closed","title":"\"Save current view\" crashes"}
+{"id":1249195697,"created_at":"2022-05-26T07:16:29Z","updated_at":"2022-05-26T11:31:25Z","state":"closed","title":"add group发生异常java.lang.ArrayIndexOutOfBoundsException"}
+{"id":1249467327,"created_at":"2022-05-26T11:45:25Z","updated_at":"2022-05-26T16:26:12Z","state":"closed","title":"jadx.core.utils.exceptions.JadxRuntimeException: Failed to delete directory C:\\Users\\yzswk\\AppData\\Local\\Temp\\jadx-instance-1806581481949998600"}
+{"id":1245784824,"created_at":"2022-05-23T23:05:34Z","updated_at":"2022-05-23T23:06:28Z","state":"closed","title":"fix: fixed spritesheet loadsprites method bug"}
+{"id":1235815586,"created_at":"2022-05-14T00:55:54Z","updated_at":"2022-05-14T00:56:03Z","state":"closed","title":"OAuth flow - use java AWT for browser launch"}
+{"id":1250640099,"created_at":"2022-05-27T11:07:14Z","updated_at":"2022-05-28T03:08:01Z","state":"closed","title":"使用工具类 ExcelUtil.getBigWriter 异常有可能被吞掉，导致无法定位问题。"}
+{"id":1246726961,"created_at":"2022-05-24T15:23:09Z","updated_at":"2022-05-25T07:44:39Z","state":"closed","title":"Music Player: Use Custom SoundFont doesn't work"}
+{"id":1235058723,"created_at":"2022-05-13T10:36:07Z","updated_at":"2022-05-23T07:53:30Z","state":"closed","title":"[BUG] Cannot Invoke \"module.lineup...\" error"}
+{"id":1241804843,"created_at":"2022-05-19T13:42:25Z","updated_at":"2022-05-19T20:56:40Z","state":"closed","title":"[FEAT] Worked on the UI of system admin"}
+{"id":1241657239,"created_at":"2022-05-19T11:51:58Z","updated_at":"2022-05-19T12:02:15Z","state":"closed","title":"Ft system admin dashboard"}
+{"id":1217589014,"created_at":"2022-04-27T16:20:25Z","updated_at":"2022-05-03T12:26:57Z","state":"closed","title":"GERONIMO-6829 - Create geronimo-jakartamail_2.1_spec & geronimo-activation_2.0_spec"}
+{"id":1231895944,"created_at":"2022-05-11T01:50:17Z","updated_at":"2022-05-11T04:27:25Z","state":"closed","title":"Add unit testing to Java AWT module"}
+{"id":1243845860,"created_at":"2022-05-21T02:51:17Z","updated_at":"2022-05-21T06:07:48Z","state":"closed","title":"Unexpected Exception "}
+{"id":1235003884,"created_at":"2022-05-13T09:45:51Z","updated_at":"2022-05-15T19:40:57Z","state":"closed","title":"Invalid memory access when play a video has  mkv format (this file has ASS format subtitles)，then play another video."}
+{"id":1222294111,"created_at":"2022-05-01T21:25:27Z","updated_at":"2022-05-21T16:05:46Z","state":"closed","title":"8285399: JNI exception pending in awt_GraphicsEnv.c:1432"}
+{"id":1244404365,"created_at":"2022-05-22T23:57:25Z","updated_at":"2022-05-27T22:13:32Z","state":"closed","title":"Failed to Contact the OLS and other errors"}
+{"id":1238212803,"created_at":"2022-05-17T07:41:43Z","updated_at":"2022-05-19T13:50:01Z","state":"closed","title":"Encountered a NullPointerException while running tests in debug mode"}
+{"id":1244313299,"created_at":"2022-05-22T17:07:40Z","updated_at":"2022-05-23T01:37:11Z","state":"closed","title":"Bug Report"}
+{"id":1205810528,"created_at":"2022-04-15T19:21:24Z","updated_at":"2022-04-16T15:36:36Z","state":"closed","title":"Switch from awt to NativeImage"}
+{"id":1225038668,"created_at":"2022-05-04T07:59:41Z","updated_at":"2022-05-10T04:37:54Z","state":"closed","title":"8030121: java/awt/dnd/MissingDragExitEventTest/MissingDragExitEventTest.java fails"}
+{"id":1243480871,"created_at":"2022-05-20T18:20:42Z","updated_at":"2022-05-23T21:32:38Z","state":"closed","title":"KeyRepeated event support"}
+{"id":1243997221,"created_at":"2022-05-21T15:01:45Z","updated_at":"2022-05-21T20:59:29Z","state":"closed","title":"v 2.0"}
+{"id":1228777839,"created_at":"2022-05-08T02:58:20Z","updated_at":"2022-05-10T13:00:34Z","state":"closed","title":"Item screenshot feature"}
+{"id":1230248516,"created_at":"2022-05-09T21:03:37Z","updated_at":"2022-05-10T15:44:46Z","state":"closed","title":"`InboundAgentRule` should use `Slave.JnlpJar` not `Which.jarFile(Launcher)`"}
+{"id":1228663937,"created_at":"2022-05-07T16:11:49Z","updated_at":"2022-05-08T11:53:48Z","state":"closed","title":"java.lang.NullPointerException: Cannot invoke \"org.fife.ui.rsyntaxtextarea.Theme.apply(org.fife.ui.rsyntaxtextarea.RSyntaxTextArea)\" because the return value of \"jadx.gui.ui.MainWindow.getEditorTheme()\" is null"}
+{"id":1245403604,"created_at":"2022-05-23T16:05:59Z","updated_at":"2022-05-23T16:12:27Z","state":"closed","title":"Openrocket Bug Report"}
+{"id":1209477303,"created_at":"2022-04-20T10:16:48Z","updated_at":"2022-04-20T13:06:46Z","state":"closed","title":"Quarkus Native build with Mandrel fails due to AWT Toolkit， AWT Color and AWTAccessor"}
+{"id":1235831425,"created_at":"2022-05-14T02:02:42Z","updated_at":"2022-05-14T02:05:04Z","state":"closed","title":"i267: change sleep and no sleep for organizations type"}
+{"id":1243838482,"created_at":"2022-05-21T02:08:08Z","updated_at":"2022-05-21T10:44:56Z","state":"closed","title":"Bug report 5/20/2022"}
+{"id":1237815648,"created_at":"2022-05-16T22:38:15Z","updated_at":"2022-05-25T15:34:38Z","state":"closed","title":"JMenuBar NullPointer"}
+{"id":1220267136,"created_at":"2022-04-29T08:50:23Z","updated_at":"2022-05-04T18:50:13Z","state":"closed","title":"exception when removing an annotation (Beta)"}
+{"id":1227612005,"created_at":"2022-05-06T09:12:17Z","updated_at":"2022-05-17T11:59:29Z","state":"closed","title":"IDE Internal Error:  \"Key in.oneton.idea.spring.assistant.plugin.suggestion.service.SuggestionService duplicated\"; version 1.5.0"}
+{"id":1226009769,"created_at":"2022-05-04T21:59:09Z","updated_at":"2022-05-07T04:56:17Z","state":"closed","title":"Exception in thread \"AWT-EventQueue-0\" org.usb4java.LibUsbException: USB error 9: error writing byte buffer: Pipe error"}
+{"id":1236158583,"created_at":"2022-05-15T01:18:34Z","updated_at":"2022-05-21T04:43:08Z","state":"closed","title":"Shadow Scoreboard Compare throws JAXBContext exception"}
+{"id":1221397054,"created_at":"2022-04-29T18:42:38Z","updated_at":"2022-05-12T10:29:33Z","state":"closed","title":"NPE using \"Force field\" in decompiler"}
+{"id":1212319399,"created_at":"2022-04-22T12:46:36Z","updated_at":"2022-05-04T20:24:35Z","state":"closed","title":"8284023: java.sun.awt.X11GraphicsDevice.getDoubleBufferVisuals() leaks XdbeScreenVisualInfo"}
+{"id":1242221085,"created_at":"2022-05-19T19:18:41Z","updated_at":"2022-05-27T16:17:12Z","state":"closed","title":"Open network of .xml file does not open it"}
+{"id":1221862556,"created_at":"2022-04-30T15:57:42Z","updated_at":"2022-05-07T11:46:46Z","state":"closed","title":"Make read and write access to modified properties synchronized"}
+{"id":1221579685,"created_at":"2022-04-29T21:39:22Z","updated_at":"2022-05-03T16:30:14Z","state":"closed","title":"Create new food error"}
+{"id":1218280359,"created_at":"2022-04-28T06:48:36Z","updated_at":"2022-05-03T00:00:59Z","state":"closed","title":"Exception when loading the plugin"}
+{"id":1221520858,"created_at":"2022-04-29T20:57:27Z","updated_at":"2022-05-20T14:29:29Z","state":"closed","title":"automation points disappearing"}
+{"id":1235182926,"created_at":"2022-05-13T12:31:48Z","updated_at":"2022-05-24T16:34:32Z","state":"closed","title":"AWT tests: test_jpeg.tiff test affected by JDK-8274735， JDK 17.0.4 EA"}
+{"id":1229666933,"created_at":"2022-05-09T12:55:49Z","updated_at":"2022-05-12T10:57:43Z","state":"closed","title":"Bold and italics of simsun font in export pdf file do not work."}
+{"id":1213261913,"created_at":"2022-04-23T10:08:05Z","updated_at":"2022-05-24T06:04:57Z","state":"closed","title":"Theme selector crashes."}
+{"id":1210901745,"created_at":"2022-04-21T11:30:08Z","updated_at":"2022-04-25T13:40:43Z","state":"closed","title":"8284033: Leak XVisualInfo in getAllConfigs in awt_GraphicsEnv.c"}
+{"id":1212617992,"created_at":"2022-04-22T17:38:28Z","updated_at":"2022-04-26T20:31:13Z","state":"closed","title":"8198666: Many java/awt/Modal/OnTop/ test fails on mac"}
+{"id":1211596210,"created_at":"2022-04-21T22:03:17Z","updated_at":"2022-04-26T20:58:24Z","state":"closed","title":"8196367: java/awt/List/SingleModeDeselect/SingleModeDeselect.java times out"}
+{"id":1210437023,"created_at":"2022-04-21T03:08:17Z","updated_at":"2022-04-26T16:29:20Z","state":"closed","title":"java.lang.IndexOutOfBoundsException: Index: -2， Tab count: 29"}
+{"id":1219381117,"created_at":"2022-04-28T22:24:45Z","updated_at":"2022-05-17T20:21:37Z","state":"closed","title":"JxBrowser installation failed"}
+{"id":1213265928,"created_at":"2022-04-23T10:29:38Z","updated_at":"2022-04-24T09:32:26Z","state":"closed","title":"java.lang.NullPointerException"}
+{"id":1222680374,"created_at":"2022-05-02T09:35:20Z","updated_at":"2022-05-23T05:31:17Z","state":"closed","title":"JDK 17 not works for keymap `command + ~` on macos m1"}
+{"id":1211043020,"created_at":"2022-04-21T13:24:15Z","updated_at":"2022-04-25T10:03:20Z","state":"closed","title":"8129778: Few awt test fail for Solaris 11 with RuntimeException"}
+{"id":1210647266,"created_at":"2022-04-21T07:58:39Z","updated_at":"2022-04-25T10:02:03Z","state":"closed","title":"8225777: java/awt/Mixing/MixingOnDialog.java fails on Ubuntu"}
+{"id":1221346395,"created_at":"2022-04-29T17:43:02Z","updated_at":"2022-05-23T18:42:18Z","state":"closed","title":"Plugin projects do not auto-show main.dart"}
+{"id":1242785221,"created_at":"2022-05-20T08:07:46Z","updated_at":"2022-05-23T13:21:35Z","state":"closed","title":"crash when annotating crops"}
+{"id":1209658852,"created_at":"2022-04-20T13:03:48Z","updated_at":"2022-04-29T10:34:08Z","state":"closed","title":"8274597: Some of the dnd tests time out and fail intermittently"}
+{"id":1221136419,"created_at":"2022-04-29T15:52:21Z","updated_at":"2022-04-29T16:17:06Z","state":"closed","title":"Improve the fidelity of Canvas.getClipBounds"}
+{"id":1249414054,"created_at":"2022-05-26T10:52:52Z","updated_at":"2022-05-27T15:03:17Z","state":"closed","title":"org.jdom.JDOMException: Unexpected End-of-input in prolog"}
+{"id":1219905853,"created_at":"2022-04-29T05:36:55Z","updated_at":"2022-05-19T14:18:11Z","state":"closed","title":"NPE in TableChooserDialog: Null address passed to ProgramLocation"}
+{"id":1214002110,"created_at":"2022-04-25T05:46:32Z","updated_at":"2022-04-25T07:19:38Z","state":"closed","title":"java.lang.AssertionError"}
+{"id":1228983402,"created_at":"2022-05-08T20:47:16Z","updated_at":"2022-05-24T19:13:26Z","state":"closed","title":"[beA] nach bea-Systemupdate werden Betreff und Aktenzeichen nicht mehr aufgelöst"}
+{"id":1213295146,"created_at":"2022-04-23T13:05:01Z","updated_at":"2022-04-28T16:20:21Z","state":"closed","title":"IDE Error Report"}
+{"id":1236574537,"created_at":"2022-05-16T03:42:24Z","updated_at":"2022-05-16T06:08:32Z","state":"closed","title":"[Report From Idea] java.lang.Throwable: Slow operations are prohibited on EDT. See SlowOperations.assertSlowOperationsAreAllowed javadoc."}
+{"id":1236756263,"created_at":"2022-05-16T07:44:44Z","updated_at":"2022-05-18T05:48:47Z","state":"closed","title":"fix: error when download visualization as png"}
+{"id":1208242384,"created_at":"2022-04-19T11:48:10Z","updated_at":"2022-04-21T13:03:55Z","state":"closed","title":"8023814: Test java/awt/im/memoryleak/InputContextMemoryLeakTest.java fails"}
+{"id":1204986834,"created_at":"2022-04-14T21:12:07Z","updated_at":"2022-04-27T04:34:56Z","state":"closed","title":"8198622: java/awt/Focus/TypeAhead/TestFocusFreeze.java fails on mac"}
+{"id":1211170671,"created_at":"2022-04-21T15:03:29Z","updated_at":"2022-05-01T20:44:40Z","state":"closed","title":"ReportPanel: ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0"}
+{"id":1211363338,"created_at":"2022-04-21T17:47:12Z","updated_at":"2022-04-23T20:42:21Z","state":"closed","title":"8193543: Regression automated test '/open/test/jdk/java/awt/TrayIcon/SystemTrayInstance/SystemTrayInstanceTest.java' fails"}
+{"id":1249707573,"created_at":"2022-05-26T15:17:36Z","updated_at":"2022-05-27T13:23:03Z","state":"closed","title":"Spotbugs SLF4J_FORMAT_SHOULD_BE_CONST"}
+{"id":1221898865,"created_at":"2022-04-30T19:01:13Z","updated_at":"2022-05-01T21:52:52Z","state":"closed","title":"Execption when adding new material."}
+{"id":1211167594,"created_at":"2022-04-21T15:00:59Z","updated_at":"2022-05-01T11:25:42Z","state":"closed","title":"ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 11"}
+{"id":1186819671,"created_at":"2022-03-30T18:17:08Z","updated_at":"2022-03-30T18:17:16Z","state":"closed","title":"What is AWT?"}
+{"id":1224227088,"created_at":"2022-05-03T15:06:47Z","updated_at":"2022-05-12T21:51:30Z","state":"closed","title":"IllegalStateException: You must not register toolwindow programmatically so early."}
+{"id":1183836089,"created_at":"2022-03-28T18:37:30Z","updated_at":"2022-05-05T08:52:38Z","state":"closed","title":"AWT， Native: Removes a workaround for loading iio-plugin.properties"}
+{"id":1204505857,"created_at":"2022-04-14T13:05:43Z","updated_at":"2022-05-01T04:21:28Z","state":"closed","title":"Updated library to handle passed image objects properly and entirely"}
+{"id":1205230035,"created_at":"2022-04-15T03:42:59Z","updated_at":"2022-04-21T09:10:33Z","state":"closed","title":"[General] NPE when clicking \"Open Website\" for certain modpacks"}
+{"id":1213626129,"created_at":"2022-04-24T11:22:54Z","updated_at":"2022-05-08T23:09:48Z","state":"closed","title":"[BUG] re-importing a HRF files gives an unrecoverable error"}
+{"id":1216614304,"created_at":"2022-04-27T00:06:41Z","updated_at":"2022-05-19T08:04:44Z","state":"closed","title":"8285687 : Remove jtreg tag manual=yesno for java/awt/print/PrinterJob/PageRangesDlgTest.java"}
+{"id":1218279584,"created_at":"2022-04-28T06:47:38Z","updated_at":"2022-05-03T00:01:27Z","state":"closed","title":"[bug] Issue reporter is forming too long of a URL"}
+{"id":1206334059,"created_at":"2022-04-17T10:04:12Z","updated_at":"2022-04-24T11:10:27Z","state":"closed","title":"[BUG] TeamAnalyzer Error on initial installation"}
+{"id":1204592201,"created_at":"2022-04-14T14:22:18Z","updated_at":"2022-04-16T09:52:52Z","state":"closed","title":"8159599: [TEST_BUG] java/awt/Modal/ModalInternalFrameTest/ModalInternalFrameTest.java"}
+{"id":1209137706,"created_at":"2022-04-20T04:13:09Z","updated_at":"2022-04-29T00:10:32Z","state":"closed","title":"8285094: Test java/awt/Frame/InvisibleOwner/InvisibleOwner.java failing on Linux"}
+{"id":1194928290,"created_at":"2022-04-06T17:42:03Z","updated_at":"2022-05-18T21:24:15Z","state":"closed","title":"Add adapters for Keyboard and Mouse via Java AWT"}
+{"id":1210904691,"created_at":"2022-04-21T11:32:35Z","updated_at":"2022-04-25T13:40:44Z","state":"closed","title":"8284033: Leak XVisualInfo in getAllConfigs in awt_GraphicsEnv.c"}
+{"id":1248701357,"created_at":"2022-05-25T20:43:36Z","updated_at":"2022-05-26T09:57:49Z","state":"closed","title":"Error on Windows 11"}
+{"id":1209170336,"created_at":"2022-04-20T05:10:23Z","updated_at":"2022-05-24T05:38:14Z","state":"closed","title":"6829250: Reg test: java/awt/Toolkit/ScreenInsetsTest/ScreenInsetsTest.java fails in Windows"}
+{"id":1234097235,"created_at":"2022-05-12T14:45:38Z","updated_at":"2022-05-12T14:53:15Z","state":"closed","title":"Failed to generate report with Modern HTML template : Exception evaluating OGNL expression"}
+{"id":1206343355,"created_at":"2022-04-17T10:51:55Z","updated_at":"2022-05-25T11:59:40Z","state":"closed","title":"[FEATURE] Recalculation of players skill after reimporting old HRF files"}
+{"id":1245429889,"created_at":"2022-05-23T16:28:15Z","updated_at":"2022-05-24T04:09:21Z","state":"closed","title":"Vanilla permission like ```minecraft.debugstick.always``` set to false but server operators have the permission"}
+{"id":1207608883,"created_at":"2022-04-19T01:27:39Z","updated_at":"2022-04-19T20:53:21Z","state":"closed","title":"Print flags specified on command line or set by ergonomics"}
+{"id":1203168735,"created_at":"2022-04-13T11:27:44Z","updated_at":"2022-04-14T07:54:56Z","state":"closed","title":"8159694: HiDPI， Unity， java/awt/dnd/DropTargetEnterExitTest/MissedDragExitTest.java"}
+{"id":1189584083,"created_at":"2022-04-01T10:25:15Z","updated_at":"2022-04-17T22:45:02Z","state":"closed","title":"Encapsulated all calls to java.awt.Desktop in their own thread"}
+{"id":1232432697,"created_at":"2022-05-11T10:55:36Z","updated_at":"2022-05-11T10:57:06Z","state":"closed","title":"Update SWT_AWT.java"}
+{"id":1245839021,"created_at":"2022-05-24T00:45:25Z","updated_at":"2022-05-24T00:55:42Z","state":"closed","title":"AWT clash on Linux server"}
+{"id":1232419417,"created_at":"2022-05-11T10:44:08Z","updated_at":"2022-05-11T10:47:59Z","state":"closed","title":"Update SWT_AWT.java"}
+{"id":1243076625,"created_at":"2022-05-20T12:25:55Z","updated_at":"2022-05-24T11:26:28Z","state":"closed","title":"Removing isEventDispatchThread - it causes problems in headless env"}
+{"id":1232970738,"created_at":"2022-05-11T17:27:38Z","updated_at":"2022-05-19T18:40:53Z","state":"closed","title":"8286447: [Linux] AWT should start in Headless mode if headful AWT library not installed"}
+{"id":1245271796,"created_at":"2022-05-23T14:37:56Z","updated_at":"2022-05-23T14:38:09Z","state":"closed","title":"Working towards removing AWT from a layer of Controllers"}
+{"id":1239705976,"created_at":"2022-05-18T09:48:44Z","updated_at":"2022-05-24T16:34:31Z","state":"closed","title":"AWT test suite: JDK versions ambiguity wrt JPEG compressed TIFF"}
+{"id":1245942443,"created_at":"2022-05-24T03:50:26Z","updated_at":"2022-05-24T08:56:16Z","state":"closed","title":"ArrayIndexOutOfBoundsException occurs upon trying to open any 3D view"}
+{"id":1245145389,"created_at":"2022-05-23T13:09:22Z","updated_at":"2022-05-23T13:24:47Z","state":"closed","title":"\"Save current view\" crashes"}
+{"id":1249195697,"created_at":"2022-05-26T07:16:29Z","updated_at":"2022-05-26T11:31:25Z","state":"closed","title":"add group发生异常java.lang.ArrayIndexOutOfBoundsException"}
+{"id":1249467327,"created_at":"2022-05-26T11:45:25Z","updated_at":"2022-05-26T16:26:12Z","state":"closed","title":"jadx.core.utils.exceptions.JadxRuntimeException: Failed to delete directory C:\\Users\\yzswk\\AppData\\Local\\Temp\\jadx-instance-1806581481949998600"}
+{"id":1245784824,"created_at":"2022-05-23T23:05:34Z","updated_at":"2022-05-23T23:06:28Z","state":"closed","title":"fix: fixed spritesheet loadsprites method bug"}
+{"id":1235815586,"created_at":"2022-05-14T00:55:54Z","updated_at":"2022-05-14T00:56:03Z","state":"closed","title":"OAuth flow - use java AWT for browser launch"}
+{"id":1246726961,"created_at":"2022-05-24T15:23:09Z","updated_at":"2022-05-25T07:44:39Z","state":"closed","title":"Music Player: Use Custom SoundFont doesn't work"}
+{"id":1250640099,"created_at":"2022-05-27T11:07:14Z","updated_at":"2022-05-28T03:08:01Z","state":"closed","title":"使用工具类 ExcelUtil.getBigWriter 异常有可能被吞掉，导致无法定位问题。"}
+{"id":1241804843,"created_at":"2022-05-19T13:42:25Z","updated_at":"2022-05-19T20:56:40Z","state":"closed","title":"[FEAT] Worked on the UI of system admin"}
+{"id":1235058723,"created_at":"2022-05-13T10:36:07Z","updated_at":"2022-05-23T07:53:30Z","state":"closed","title":"[BUG] Cannot Invoke \"module.lineup...\" error"}
+{"id":1241657239,"created_at":"2022-05-19T11:51:58Z","updated_at":"2022-05-19T12:02:15Z","state":"closed","title":"Ft system admin dashboard"}
+{"id":1217589014,"created_at":"2022-04-27T16:20:25Z","updated_at":"2022-05-03T12:26:57Z","state":"closed","title":"GERONIMO-6829 - Create geronimo-jakartamail_2.1_spec & geronimo-activation_2.0_spec"}
+{"id":1231895944,"created_at":"2022-05-11T01:50:17Z","updated_at":"2022-05-11T04:27:25Z","state":"closed","title":"Add unit testing to Java AWT module"}
+{"id":1243845860,"created_at":"2022-05-21T02:51:17Z","updated_at":"2022-05-21T06:07:48Z","state":"closed","title":"Unexpected Exception "}
+{"id":1235003884,"created_at":"2022-05-13T09:45:51Z","updated_at":"2022-05-15T19:40:57Z","state":"closed","title":"Invalid memory access when play a video has  mkv format (this file has ASS format subtitles)，then play another video."}
+{"id":1222294111,"created_at":"2022-05-01T21:25:27Z","updated_at":"2022-05-21T16:05:46Z","state":"closed","title":"8285399: JNI exception pending in awt_GraphicsEnv.c:1432"}
+{"id":1244404365,"created_at":"2022-05-22T23:57:25Z","updated_at":"2022-05-27T22:13:32Z","state":"closed","title":"Failed to Contact the OLS and other errors"}
+{"id":1238212803,"created_at":"2022-05-17T07:41:43Z","updated_at":"2022-05-19T13:50:01Z","state":"closed","title":"Encountered a NullPointerException while running tests in debug mode"}
+{"id":1244313299,"created_at":"2022-05-22T17:07:40Z","updated_at":"2022-05-23T01:37:11Z","state":"closed","title":"Bug Report"}
+{"id":1205810528,"created_at":"2022-04-15T19:21:24Z","updated_at":"2022-04-16T15:36:36Z","state":"closed","title":"Switch from awt to NativeImage"}
+{"id":1225038668,"created_at":"2022-05-04T07:59:41Z","updated_at":"2022-05-10T04:37:54Z","state":"closed","title":"8030121: java/awt/dnd/MissingDragExitEventTest/MissingDragExitEventTest.java fails"}
+{"id":1243480871,"created_at":"2022-05-20T18:20:42Z","updated_at":"2022-05-23T21:32:38Z","state":"closed","title":"KeyRepeated event support"}
+{"id":1243997221,"created_at":"2022-05-21T15:01:45Z","updated_at":"2022-05-21T20:59:29Z","state":"closed","title":"v 2.0"}
+{"id":1228777839,"created_at":"2022-05-08T02:58:20Z","updated_at":"2022-05-10T13:00:34Z","state":"closed","title":"Item screenshot feature"}
+{"id":1230248516,"created_at":"2022-05-09T21:03:37Z","updated_at":"2022-05-10T15:44:46Z","state":"closed","title":"`InboundAgentRule` should use `Slave.JnlpJar` not `Which.jarFile(Launcher)`"}
+{"id":1228663937,"created_at":"2022-05-07T16:11:49Z","updated_at":"2022-05-08T11:53:48Z","state":"closed","title":"java.lang.NullPointerException: Cannot invoke \"org.fife.ui.rsyntaxtextarea.Theme.apply(org.fife.ui.rsyntaxtextarea.RSyntaxTextArea)\" because the return value of \"jadx.gui.ui.MainWindow.getEditorTheme()\" is null"}
+{"id":1245403604,"created_at":"2022-05-23T16:05:59Z","updated_at":"2022-05-23T16:12:27Z","state":"closed","title":"Openrocket Bug Report"}
+{"id":1209477303,"created_at":"2022-04-20T10:16:48Z","updated_at":"2022-04-20T13:06:46Z","state":"closed","title":"Quarkus Native build with Mandrel fails due to AWT Toolkit， AWT Color and AWTAccessor"}
+{"id":1235831425,"created_at":"2022-05-14T02:02:42Z","updated_at":"2022-05-14T02:05:04Z","state":"closed","title":"i267: change sleep and no sleep for organizations type"}
+{"id":1237815648,"created_at":"2022-05-16T22:38:15Z","updated_at":"2022-05-25T15:34:38Z","state":"closed","title":"JMenuBar NullPointer"}
+{"id":1243838482,"created_at":"2022-05-21T02:08:08Z","updated_at":"2022-05-21T10:44:56Z","state":"closed","title":"Bug report 5/20/2022"}
+{"id":1220267136,"created_at":"2022-04-29T08:50:23Z","updated_at":"2022-05-04T18:50:13Z","state":"closed","title":"exception when removing an annotation (Beta)"}
+{"id":1227612005,"created_at":"2022-05-06T09:12:17Z","updated_at":"2022-05-17T11:59:29Z","state":"closed","title":"IDE Internal Error:  \"Key in.oneton.idea.spring.assistant.plugin.suggestion.service.SuggestionService duplicated\"; version 1.5.0"}
+{"id":1226009769,"created_at":"2022-05-04T21:59:09Z","updated_at":"2022-05-07T04:56:17Z","state":"closed","title":"Exception in thread \"AWT-EventQueue-0\" org.usb4java.LibUsbException: USB error 9: error writing byte buffer: Pipe error"}
+{"id":1221397054,"created_at":"2022-04-29T18:42:38Z","updated_at":"2022-05-12T10:29:33Z","state":"closed","title":"NPE using \"Force field\" in decompiler"}
+{"id":1236158583,"created_at":"2022-05-15T01:18:34Z","updated_at":"2022-05-21T04:43:08Z","state":"closed","title":"Shadow Scoreboard Compare throws JAXBContext exception"}
+{"id":1212319399,"created_at":"2022-04-22T12:46:36Z","updated_at":"2022-05-04T20:24:35Z","state":"closed","title":"8284023: java.sun.awt.X11GraphicsDevice.getDoubleBufferVisuals() leaks XdbeScreenVisualInfo"}
+{"id":1242221085,"created_at":"2022-05-19T19:18:41Z","updated_at":"2022-05-27T16:17:12Z","state":"closed","title":"Open network of .xml file does not open it"}
+{"id":1221862556,"created_at":"2022-04-30T15:57:42Z","updated_at":"2022-05-07T11:46:46Z","state":"closed","title":"Make read and write access to modified properties synchronized"}
+{"id":1221579685,"created_at":"2022-04-29T21:39:22Z","updated_at":"2022-05-03T16:30:14Z","state":"closed","title":"Create new food error"}
+{"id":1218280359,"created_at":"2022-04-28T06:48:36Z","updated_at":"2022-05-03T00:00:59Z","state":"closed","title":"Exception when loading the plugin"}
+{"id":1221520858,"created_at":"2022-04-29T20:57:27Z","updated_at":"2022-05-20T14:29:29Z","state":"closed","title":"automation points disappearing"}
+{"id":1235182926,"created_at":"2022-05-13T12:31:48Z","updated_at":"2022-05-24T16:34:32Z","state":"closed","title":"AWT tests: test_jpeg.tiff test affected by JDK-8274735， JDK 17.0.4 EA"}
+{"id":1229666933,"created_at":"2022-05-09T12:55:49Z","updated_at":"2022-05-12T10:57:43Z","state":"closed","title":"Bold and italics of simsun font in export pdf file do not work."}
+{"id":1213261913,"created_at":"2022-04-23T10:08:05Z","updated_at":"2022-05-24T06:04:57Z","state":"closed","title":"Theme selector crashes."}
+{"id":1210901745,"created_at":"2022-04-21T11:30:08Z","updated_at":"2022-04-25T13:40:43Z","state":"closed","title":"8284033: Leak XVisualInfo in getAllConfigs in awt_GraphicsEnv.c"}
+{"id":1212617992,"created_at":"2022-04-22T17:38:28Z","updated_at":"2022-04-26T20:31:13Z","state":"closed","title":"8198666: Many java/awt/Modal/OnTop/ test fails on mac"}
+{"id":1219381117,"created_at":"2022-04-28T22:24:45Z","updated_at":"2022-05-17T20:21:37Z","state":"closed","title":"JxBrowser installation failed"}
+{"id":1211596210,"created_at":"2022-04-21T22:03:17Z","updated_at":"2022-04-26T20:58:24Z","state":"closed","title":"8196367: java/awt/List/SingleModeDeselect/SingleModeDeselect.java times out"}
+{"id":1221346395,"created_at":"2022-04-29T17:43:02Z","updated_at":"2022-05-23T18:42:18Z","state":"closed","title":"Plugin projects do not auto-show main.dart"}
+{"id":1210437023,"created_at":"2022-04-21T03:08:17Z","updated_at":"2022-04-26T16:29:20Z","state":"closed","title":"java.lang.IndexOutOfBoundsException: Index: -2， Tab count: 29"}
+{"id":1213265928,"created_at":"2022-04-23T10:29:38Z","updated_at":"2022-04-24T09:32:26Z","state":"closed","title":"java.lang.NullPointerException"}
+{"id":1222680374,"created_at":"2022-05-02T09:35:20Z","updated_at":"2022-05-23T05:31:17Z","state":"closed","title":"JDK 17 not works for keymap `command + ~` on macos m1"}
+{"id":1211043020,"created_at":"2022-04-21T13:24:15Z","updated_at":"2022-04-25T10:03:20Z","state":"closed","title":"8129778: Few awt test fail for Solaris 11 with RuntimeException"}
+{"id":1210647266,"created_at":"2022-04-21T07:58:39Z","updated_at":"2022-04-25T10:02:03Z","state":"closed","title":"8225777: java/awt/Mixing/MixingOnDialog.java fails on Ubuntu"}
+{"id":1242785221,"created_at":"2022-05-20T08:07:46Z","updated_at":"2022-05-23T13:21:35Z","state":"closed","title":"crash when annotating crops"}
+{"id":1209658852,"created_at":"2022-04-20T13:03:48Z","updated_at":"2022-04-29T10:34:08Z","state":"closed","title":"8274597: Some of the dnd tests time out and fail intermittently"}
+{"id":1249414054,"created_at":"2022-05-26T10:52:52Z","updated_at":"2022-05-27T15:03:17Z","state":"closed","title":"org.jdom.JDOMException: Unexpected End-of-input in prolog"}
+{"id":1221136419,"created_at":"2022-04-29T15:52:21Z","updated_at":"2022-04-29T16:17:06Z","state":"closed","title":"Improve the fidelity of Canvas.getClipBounds"}
+{"id":1219905853,"created_at":"2022-04-29T05:36:55Z","updated_at":"2022-05-19T14:18:11Z","state":"closed","title":"NPE in TableChooserDialog: Null address passed to ProgramLocation"}
+{"id":1214002110,"created_at":"2022-04-25T05:46:32Z","updated_at":"2022-04-25T07:19:38Z","state":"closed","title":"java.lang.AssertionError"}
+{"id":1228983402,"created_at":"2022-05-08T20:47:16Z","updated_at":"2022-05-24T19:13:26Z","state":"closed","title":"[beA] nach bea-Systemupdate werden Betreff und Aktenzeichen nicht mehr aufgelöst"}
+{"id":1213295146,"created_at":"2022-04-23T13:05:01Z","updated_at":"2022-04-28T16:20:21Z","state":"closed","title":"IDE Error Report"}
+{"id":1236574537,"created_at":"2022-05-16T03:42:24Z","updated_at":"2022-05-16T06:08:32Z","state":"closed","title":"[Report From Idea] java.lang.Throwable: Slow operations are prohibited on EDT. See SlowOperations.assertSlowOperationsAreAllowed javadoc."}
+{"id":1208242384,"created_at":"2022-04-19T11:48:10Z","updated_at":"2022-04-21T13:03:55Z","state":"closed","title":"8023814: Test java/awt/im/memoryleak/InputContextMemoryLeakTest.java fails"}
+{"id":1236756263,"created_at":"2022-05-16T07:44:44Z","updated_at":"2022-05-18T05:48:47Z","state":"closed","title":"fix: error when download visualization as png"}
+{"id":1204986834,"created_at":"2022-04-14T21:12:07Z","updated_at":"2022-04-27T04:34:56Z","state":"closed","title":"8198622: java/awt/Focus/TypeAhead/TestFocusFreeze.java fails on mac"}
+{"id":1211363338,"created_at":"2022-04-21T17:47:12Z","updated_at":"2022-04-23T20:42:21Z","state":"closed","title":"8193543: Regression automated test '/open/test/jdk/java/awt/TrayIcon/SystemTrayInstance/SystemTrayInstanceTest.java' fails"}
+{"id":1211170671,"created_at":"2022-04-21T15:03:29Z","updated_at":"2022-05-01T20:44:40Z","state":"closed","title":"ReportPanel: ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0"}
+{"id":1186819671,"created_at":"2022-03-30T18:17:08Z","updated_at":"2022-03-30T18:17:16Z","state":"closed","title":"What is AWT?"}
+{"id":1221898865,"created_at":"2022-04-30T19:01:13Z","updated_at":"2022-05-01T21:52:52Z","state":"closed","title":"Execption when adding new material."}
+{"id":1211167594,"created_at":"2022-04-21T15:00:59Z","updated_at":"2022-05-01T11:25:42Z","state":"closed","title":"ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 11"}
+{"id":1249707573,"created_at":"2022-05-26T15:17:36Z","updated_at":"2022-05-27T13:23:03Z","state":"closed","title":"Spotbugs SLF4J_FORMAT_SHOULD_BE_CONST"}
+{"id":1224227088,"created_at":"2022-05-03T15:06:47Z","updated_at":"2022-05-12T21:51:30Z","state":"closed","title":"IllegalStateException: You must not register toolwindow programmatically so early."}
+{"id":1183836089,"created_at":"2022-03-28T18:37:30Z","updated_at":"2022-05-05T08:52:38Z","state":"closed","title":"AWT， Native: Removes a workaround for loading iio-plugin.properties"}
+{"id":1205230035,"created_at":"2022-04-15T03:42:59Z","updated_at":"2022-04-21T09:10:33Z","state":"closed","title":"[General] NPE when clicking \"Open Website\" for certain modpacks"}
+{"id":1204505857,"created_at":"2022-04-14T13:05:43Z","updated_at":"2022-05-01T04:21:28Z","state":"closed","title":"Updated library to handle passed image objects properly and entirely"}
+{"id":1213626129,"created_at":"2022-04-24T11:22:54Z","updated_at":"2022-05-08T23:09:48Z","state":"closed","title":"[BUG] re-importing a HRF files gives an unrecoverable error"}
+{"id":1216614304,"created_at":"2022-04-27T00:06:41Z","updated_at":"2022-05-19T08:04:44Z","state":"closed","title":"8285687 : Remove jtreg tag manual=yesno for java/awt/print/PrinterJob/PageRangesDlgTest.java"}
+{"id":1218279584,"created_at":"2022-04-28T06:47:38Z","updated_at":"2022-05-03T00:01:27Z","state":"closed","title":"[bug] Issue reporter is forming too long of a URL"}
+{"id":1206334059,"created_at":"2022-04-17T10:04:12Z","updated_at":"2022-04-24T11:10:27Z","state":"closed","title":"[BUG] TeamAnalyzer Error on initial installation"}
+{"id":1234097235,"created_at":"2022-05-12T14:45:38Z","updated_at":"2022-05-12T14:53:15Z","state":"closed","title":"Failed to generate report with Modern HTML template : Exception evaluating OGNL expression"}
+{"id":1204592201,"created_at":"2022-04-14T14:22:18Z","updated_at":"2022-04-16T09:52:52Z","state":"closed","title":"8159599: [TEST_BUG] java/awt/Modal/ModalInternalFrameTest/ModalInternalFrameTest.java"}
+{"id":1209137706,"created_at":"2022-04-20T04:13:09Z","updated_at":"2022-04-29T00:10:32Z","state":"closed","title":"8285094: Test java/awt/Frame/InvisibleOwner/InvisibleOwner.java failing on Linux"}
+{"id":1210904691,"created_at":"2022-04-21T11:32:35Z","updated_at":"2022-04-25T13:40:44Z","state":"closed","title":"8284033: Leak XVisualInfo in getAllConfigs in awt_GraphicsEnv.c"}
+{"id":1248701357,"created_at":"2022-05-25T20:43:36Z","updated_at":"2022-05-26T09:57:49Z","state":"closed","title":"Error on Windows 11"}
+{"id":1194928290,"created_at":"2022-04-06T17:42:03Z","updated_at":"2022-05-18T21:24:15Z","state":"closed","title":"Add adapters for Keyboard and Mouse via Java AWT"}
+{"id":1209170336,"created_at":"2022-04-20T05:10:23Z","updated_at":"2022-05-24T05:38:14Z","state":"closed","title":"6829250: Reg test: java/awt/Toolkit/ScreenInsetsTest/ScreenInsetsTest.java fails in Windows"}
+{"id":1206343355,"created_at":"2022-04-17T10:51:55Z","updated_at":"2022-05-25T11:59:40Z","state":"closed","title":"[FEATURE] Recalculation of players skill after reimporting old HRF files"}
+{"id":1245429889,"created_at":"2022-05-23T16:28:15Z","updated_at":"2022-05-24T04:09:21Z","state":"closed","title":"Vanilla permission like ```minecraft.debugstick.always``` set to false but server operators have the permission"}
+{"id":1207608883,"created_at":"2022-04-19T01:27:39Z","updated_at":"2022-04-19T20:53:21Z","state":"closed","title":"Print flags specified on command line or set by ergonomics"}
+{"id":1203168735,"created_at":"2022-04-13T11:27:44Z","updated_at":"2022-04-14T07:54:56Z","state":"closed","title":"8159694: HiDPI， Unity， java/awt/dnd/DropTargetEnterExitTest/MissedDragExitTest.java"}
+{"id":1189584083,"created_at":"2022-04-01T10:25:15Z","updated_at":"2022-04-17T22:45:02Z","state":"closed","title":"Encapsulated all calls to java.awt.Desktop in their own thread"}

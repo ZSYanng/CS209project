@@ -1,0 +1,100 @@
+{"id":217026739,"created_at":"2017-03-26T04:34:54Z","updated_at":"2017-03-28T13:10:07Z","state":"open","title":"awt package not annotated"}
+{"id":250566915,"created_at":"2017-08-16T09:37:02Z","updated_at":"2022-04-09T12:58:35Z","state":"open","title":"error: New CompilerPasss create (AWT events are not allowed)"}
+{"id":1161180330,"created_at":"2022-03-07T10:05:03Z","updated_at":"2022-03-07T10:05:03Z","state":"open","title":"java.lang.UnsatisfiedLinkError"}
+{"id":596478763,"created_at":"2020-04-08T10:36:29Z","updated_at":"2020-04-08T13:55:26Z","state":"open","title":"GUIUtil.java(new)"}
+{"id":586872286,"created_at":"2020-03-24T10:58:23Z","updated_at":"2022-04-18T11:36:43Z","state":"open","title":"Event Table Row Sorter Error"}
+{"id":1132642870,"created_at":"2022-02-11T14:00:21Z","updated_at":"2022-02-11T14:00:22Z","state":"open","title":"2.6.564: ImageLoader#getImage:21 - java.lang.IllegalArgumentException"}
+{"id":1222333434,"created_at":"2022-05-01T23:58:08Z","updated_at":"2022-05-03T19:17:41Z","state":"open","title":"Linux support?"}
+{"id":1108412040,"created_at":"2022-01-19T18:15:16Z","updated_at":"2022-01-19T18:15:16Z","state":"open","title":"2.5.22294: UrlStreams#newStream:87 - java.io.FileNotFoundException"}
+{"id":1088459214,"created_at":"2021-12-24T17:20:31Z","updated_at":"2022-02-01T16:23:37Z","state":"open","title":"Still working with R2021b?"}
+{"id":1162673706,"created_at":"2022-03-08T13:42:49Z","updated_at":"2022-03-08T13:43:30Z","state":"open","title":"Netbeans freezes while editing a file and resizing its components "}
+{"id":1194205756,"created_at":"2022-04-06T07:51:21Z","updated_at":"2022-04-06T07:51:21Z","state":"open","title":"Mac 版不显示leeks 没有解压 正常进行安装 刚开始显示 重启电脑后不显示"}
+{"id":1190789409,"created_at":"2022-04-03T01:55:56Z","updated_at":"2022-04-03T01:55:56Z","state":"open","title":"Recipe Insertion problem"}
+{"id":1119985114,"created_at":"2022-01-31T22:07:46Z","updated_at":"2022-04-12T00:41:00Z","state":"open","title":"[auto-generated:fd330ef6] Unspecified error"}
+{"id":368499505,"created_at":"2018-10-10T05:27:06Z","updated_at":"2018-11-14T16:05:39Z","state":"open","title":"Refactor Java awt with JFoenix"}
+{"id":551793440,"created_at":"2020-01-18T16:46:25Z","updated_at":"2020-01-28T20:09:42Z","state":"open","title":"awt fails on modern openjdk9"}
+{"id":989191787,"created_at":"2021-09-06T13:45:35Z","updated_at":"2021-09-06T13:45:35Z","state":"open","title":"Exception in thread \"AWT-Windows\""}
+{"id":110125518,"created_at":"2015-10-06T23:51:56Z","updated_at":"2015-10-06T23:51:56Z","state":"open","title":"Add an AWT update queue"}
+{"id":110489996,"created_at":"2015-10-08T16:26:29Z","updated_at":"2015-10-08T16:26:29Z","state":"open","title":"AWT Thread exception; CPU leak"}
+{"id":1144881960,"created_at":"2022-02-20T00:29:42Z","updated_at":"2022-02-20T00:29:42Z","state":"open","title":"Editing Inclusion"}
+{"id":356808921,"created_at":"2018-09-04T13:25:16Z","updated_at":"2022-03-03T13:26:08Z","state":"open","title":"Exception in plugin Liferay Intellij Plugin"}
+{"id":65778721,"created_at":"2015-04-01T21:03:15Z","updated_at":"2015-04-01T21:03:15Z","state":"open","title":"Add an AWT update queue"}
+{"id":1248766608,"created_at":"2022-05-25T21:40:59Z","updated_at":"2022-05-25T21:53:11Z","state":"open","title":"cmdLineTester_libpathTestRtfChild_0 fails against headless platforms"}
+{"id":1132147335,"created_at":"2022-02-11T09:11:36Z","updated_at":"2022-02-11T09:11:36Z","state":"open","title":"phpstorm 2021.3 IDE报异常"}
+{"id":1172438879,"created_at":"2022-03-17T14:28:07Z","updated_at":"2022-03-17T14:28:07Z","state":"open","title":"DirectoryChooser error"}
+{"id":1246971084,"created_at":"2022-05-24T18:25:25Z","updated_at":"2022-05-24T18:25:25Z","state":"open","title":"Use https not working"}
+{"id":1137417188,"created_at":"2022-02-14T14:52:14Z","updated_at":"2022-02-14T19:15:05Z","state":"open","title":"Erro numero 73c3f39923bc8523ebc2da53047ec54a1e15bec3 v2.7.5"}
+{"id":1189911481,"created_at":"2022-04-01T14:54:34Z","updated_at":"2022-04-01T15:22:14Z","state":"open","title":"com.intellij.diagnostic.PluginException: The default implementation of method 'getFile' is deprecated， you need to override it in 'class org.jboss.tools.intellij.mta.editor.ConfigurationEditorWrapper'"}
+{"id":1145316193,"created_at":"2022-02-21T04:41:53Z","updated_at":"2022-05-12T12:30:48Z","state":"open","title":"NullPointerException when specifying vias"}
+{"id":1229976286,"created_at":"2022-05-09T16:34:30Z","updated_at":"2022-05-12T00:30:58Z","state":"open","title":"Support for RadioMenuItems"}
+{"id":1217506775,"created_at":"2022-04-27T15:17:31Z","updated_at":"2022-04-27T19:49:41Z","state":"open","title":"java.lang.Throwable: AWT events are not allowed inside write action"}
+{"id":320400002,"created_at":"2018-05-04T19:30:51Z","updated_at":"2018-05-04T19:30:57Z","state":"open","title":"Spin accesses java.awt reflectively"}
+{"id":1112129333,"created_at":"2022-01-24T03:39:34Z","updated_at":"2022-05-12T09:30:28Z","state":"open","title":"CJK characters in .DSN file path: illegal character '涓' exception"}
+{"id":890008623,"created_at":"2021-05-12T11:57:14Z","updated_at":"2021-05-28T09:41:52Z","state":"open","title":"AWT events are prohibited inside update"}
+{"id":1121033243,"created_at":"2022-02-01T18:03:37Z","updated_at":"2022-02-23T18:17:58Z","state":"open","title":"Assertion failed: dataContext has no component for new ListPopupStep "}
+{"id":1224682126,"created_at":"2022-05-03T21:36:40Z","updated_at":"2022-05-17T03:34:43Z","state":"open","title":"Troubleshooting runaway CPU usage?"}
+{"id":1093805428,"created_at":"2022-01-04T22:29:36Z","updated_at":"2022-01-05T17:00:25Z","state":"open","title":"PlaylistId URI syntax is different from the one provided by spotify"}
+{"id":1097677427,"created_at":"2022-01-10T09:59:14Z","updated_at":"2022-01-12T07:35:39Z","state":"open","title":"Exception when trying to print JComponent "}
+{"id":1014278461,"created_at":"2021-10-03T06:12:42Z","updated_at":"2021-10-03T06:45:12Z","state":"open","title":"SimpleCalculatorApp"}
+{"id":1181534124,"created_at":"2022-03-26T05:38:44Z","updated_at":"2022-03-26T09:29:33Z","state":"open","title":"nullpointer exception trying to save a layout"}
+{"id":1151048096,"created_at":"2022-02-26T01:57:54Z","updated_at":"2022-02-26T01:57:54Z","state":"open","title":"Unable to build 0.2.6-SNAPSHOT"}
+{"id":49428638,"created_at":"2014-11-19T17:44:38Z","updated_at":"2014-11-19T18:20:59Z","state":"open","title":"update for processing2.x"}
+{"id":1106114499,"created_at":"2022-01-17T17:34:19Z","updated_at":"2022-01-17T17:34:37Z","state":"open","title":"Error adding category on CSV import"}
+{"id":1188028390,"created_at":"2022-03-31T12:47:45Z","updated_at":"2022-03-31T12:47:45Z","state":"open","title":"Add a Layout Manager (Flow Layout)"}
+{"id":1093946316,"created_at":"2022-01-05T03:32:52Z","updated_at":"2022-01-06T16:06:42Z","state":"open","title":"[Bug]: Panning (Horizontal Scroll) produces NPE with token selected."}
+{"id":1139193156,"created_at":"2022-02-15T20:40:25Z","updated_at":"2022-02-15T20:40:25Z","state":"open","title":"Do not request resource from classloader using path with leading slash"}
+{"id":1206774558,"created_at":"2022-04-18T07:37:16Z","updated_at":"2022-04-18T18:36:50Z","state":"open","title":"After update PHPStorm to 2022.1 plugin crash on startup IDE"}
+{"id":1123683794,"created_at":"2022-02-04T00:18:12Z","updated_at":"2022-02-05T16:57:59Z","state":"open","title":"Erro numero 05972a05d5ce623d87923d91b1f44e738552b222 v2.7.4"}
+{"id":140865795,"created_at":"2016-03-15T04:05:05Z","updated_at":"2022-03-14T23:46:44Z","state":"open","title":"connect to zookeeper sever throw null point exception ，intellij idea 15.0.3"}
+{"id":1089548104,"created_at":"2021-12-28T01:18:56Z","updated_at":"2021-12-28T01:18:56Z","state":"open","title":"2.5.22294: MainFrame#lambda$show$1:62 - java.lang.NullPointerException"}
+{"id":1144863126,"created_at":"2022-02-19T22:37:13Z","updated_at":"2022-02-19T22:37:13Z","state":"open","title":"[Memoir '44] InvalidDnDOperationException: data translation failed"}
+{"id":1184182391,"created_at":"2022-03-29T01:36:35Z","updated_at":"2022-03-29T02:46:15Z","state":"open","title":"Same repetition counts is not select in the  \"Residue properties\" ."}
+{"id":537947936,"created_at":"2019-12-14T18:27:02Z","updated_at":"2021-03-07T11:29:45Z","state":"open","title":"Exception in thread \"main\" java.awt.HeadlessException"}
+{"id":1137793364,"created_at":"2022-02-14T20:17:55Z","updated_at":"2022-02-28T19:18:41Z","state":"open","title":"[BUG] Java Client becomes confused when changing collection"}
+{"id":1098577037,"created_at":"2022-01-11T02:17:35Z","updated_at":"2022-01-11T11:51:14Z","state":"open","title":"大佬你好，我在使用插件的时候报错，下面是报错的日志，还请大佬看下是啥问题"}
+{"id":1190805702,"created_at":"2022-04-03T03:18:44Z","updated_at":"2022-04-03T03:18:44Z","state":"open","title":"Exception when debugging a directory project"}
+{"id":1118822912,"created_at":"2022-01-31T01:13:37Z","updated_at":"2022-02-02T02:01:39Z","state":"open","title":"Erro numero 16277b361a9bc342de717c0ceefdedf256414ef8 v2.7.5"}
+{"id":1097188066,"created_at":"2022-01-09T12:51:35Z","updated_at":"2022-01-09T12:51:35Z","state":"open","title":"2.5.22294: GameXmlWriter#exportXml:17 - java.lang.ClassNotFoundException"}
+{"id":1115549676,"created_at":"2022-01-26T22:09:14Z","updated_at":"2022-01-26T22:09:14Z","state":"open","title":"2.5.22294: ProductionFrontier#addRule:32 - java.lang.IllegalStateException"}
+{"id":1187432903,"created_at":"2022-03-31T03:10:12Z","updated_at":"2022-03-31T03:15:20Z","state":"open","title":"bug"}
+{"id":1155692629,"created_at":"2022-03-01T18:54:25Z","updated_at":"2022-03-01T18:54:25Z","state":"open","title":"gradle 7 issue"}
+{"id":50716269,"created_at":"2014-12-02T20:40:31Z","updated_at":"2014-12-02T20:40:32Z","state":"open","title":"Remove dependency on J2SE AWT"}
+{"id":155679297,"created_at":"2016-05-19T08:22:30Z","updated_at":"2016-05-19T08:22:30Z","state":"open","title":"Incorrect showing CheckComboBox over AWT"}
+{"id":1114058299,"created_at":"2022-01-25T15:51:07Z","updated_at":"2022-01-25T15:51:08Z","state":"open","title":"2.5.22294: GameProperties#getEditableProperties:118 - java.util.ConcurrentModificationException"}
+{"id":89921296,"created_at":"2015-06-21T14:57:23Z","updated_at":"2015-06-21T14:57:23Z","state":"open","title":"ext/src/java/awt/Container.hpp:211:33: error: ‘ContainerListenerArray’ in namespace ‘java::awt::event’ does not name a type      virtual ::java::awt::event::ContainerListenerArray* getContainerListeners();"}
+{"id":1125284135,"created_at":"2022-02-06T18:50:54Z","updated_at":"2022-02-06T18:52:47Z","state":"open","title":"Camera issue on osx m1 after click download button"}
+{"id":576298394,"created_at":"2020-03-05T14:35:55Z","updated_at":"2020-09-23T06:02:38Z","state":"open","title":"java.awt.event.KeyEvent.getKeyText() throws UnsupportedFeatureError"}
+{"id":1181908308,"created_at":"2022-03-26T17:03:05Z","updated_at":"2022-03-26T17:03:05Z","state":"open","title":"Protege 5.5.0 : NoSuchElementException error"}
+{"id":954956549,"created_at":"2021-07-28T15:02:17Z","updated_at":"2021-07-28T18:10:24Z","state":"open","title":"AWT Event Loop error loading ontologies"}
+{"id":790868632,"created_at":"2021-01-21T09:34:09Z","updated_at":"2022-05-15T02:35:56Z","state":"open","title":"Target branch popup from other projects keeps showing when using PhpStorm + Git Scope when using multiple virtual desktops"}
+{"id":794317255,"created_at":"2021-01-26T15:19:12Z","updated_at":"2022-01-06T13:17:06Z","state":"open","title":"pom.xml: Add JAXB dependency"}
+{"id":97613081,"created_at":"2015-07-28T04:37:43Z","updated_at":"2015-07-28T04:37:44Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":62087632,"created_at":"2015-03-16T13:51:51Z","updated_at":"2015-03-16T13:51:52Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":62564465,"created_at":"2015-03-18T02:11:12Z","updated_at":"2015-03-18T02:11:13Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":62188205,"created_at":"2015-03-16T19:40:43Z","updated_at":"2015-03-16T19:40:43Z","state":"open","title":"Translation from AWT VK_ key codes incomplete"}
+{"id":123941245,"created_at":"2015-12-26T17:42:34Z","updated_at":"2015-12-26T17:42:34Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":124457978,"created_at":"2015-12-31T10:40:51Z","updated_at":"2015-12-31T10:40:52Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":81448769,"created_at":"2015-05-27T13:34:35Z","updated_at":"2015-05-27T13:34:36Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":81808271,"created_at":"2015-05-28T07:41:11Z","updated_at":"2015-05-28T07:41:12Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":67901298,"created_at":"2015-04-12T11:11:43Z","updated_at":"2015-04-12T11:11:44Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":128136014,"created_at":"2016-01-22T11:24:13Z","updated_at":"2016-01-22T11:24:14Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":143512245,"created_at":"2016-03-25T14:29:59Z","updated_at":"2016-03-25T14:30:00Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":144413363,"created_at":"2016-03-29T23:01:45Z","updated_at":"2016-03-29T23:01:46Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":145894642,"created_at":"2016-04-05T05:52:48Z","updated_at":"2016-04-05T05:52:48Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":147993068,"created_at":"2016-04-13T09:00:48Z","updated_at":"2016-04-13T09:00:49Z","state":"open","title":"[Android + OpenCV] CanvasFrame (java.awt.image)"}
+{"id":1138422932,"created_at":"2022-02-15T09:36:44Z","updated_at":"2022-02-22T19:29:46Z","state":"open","title":"Bug/ thrown exceptions when creating and managing project of type \"Enterprise Application\" (Java with Ant)"}
+{"id":1232083872,"created_at":"2022-05-11T06:37:29Z","updated_at":"2022-05-23T06:04:14Z","state":"open","title":"8130895: Test javax/swing/system/6799345/TestShutdown.java fails on Solaris11 Sparcv9"}
+{"id":1104768354,"created_at":"2022-01-15T16:05:02Z","updated_at":"2022-04-25T12:24:51Z","state":"open","title":"JCEF error on Android Studio arm64 preview (M1 MacBook Air)"}
+{"id":1161744592,"created_at":"2022-03-07T17:58:42Z","updated_at":"2022-03-22T14:35:50Z","state":"open","title":"java.io.IOException: Could not determine a temporary executable directory"}
+{"id":1099731658,"created_at":"2022-01-12T00:03:10Z","updated_at":"2022-01-31T15:37:53Z","state":"open","title":"JAR file doesn't load up"}
+{"id":310530507,"created_at":"2018-04-02T16:22:31Z","updated_at":"2022-01-17T11:46:45Z","state":"open","title":"Could not find library [libjsane.so]"}
+{"id":867799769,"created_at":"2021-04-26T14:59:18Z","updated_at":"2022-04-06T03:26:08Z","state":"open","title":"KryoException: Buffer underflow"}
+{"id":513914680,"created_at":"2019-10-29T13:24:47Z","updated_at":"2022-04-07T17:25:17Z","state":"open","title":"Crash to connect nodes"}
+{"id":1130502744,"created_at":"2022-02-10T17:17:45Z","updated_at":"2022-02-10T17:17:46Z","state":"open","title":"2.5.22294: BattleRecords#addRecord:181 - java.lang.IllegalStateException"}
+{"id":1124240880,"created_at":"2022-02-04T14:05:25Z","updated_at":"2022-02-04T14:05:25Z","state":"open","title":"NullPointerException"}
+{"id":1059097868,"created_at":"2021-11-20T08:51:42Z","updated_at":"2021-11-22T14:10:45Z","state":"open","title":"AWT and Swing， on Windows， run with black windows!"}
+{"id":1094190394,"created_at":"2022-01-05T10:15:25Z","updated_at":"2022-02-04T08:33:25Z","state":"open","title":"Unable to determine graphics configuration on Windows / ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 1"}
+{"id":286459648,"created_at":"2018-01-06T04:54:26Z","updated_at":"2018-01-06T04:54:26Z","state":"open","title":"AssistTurret"}
+{"id":1227596923,"created_at":"2022-05-06T08:57:05Z","updated_at":"2022-05-19T11:44:03Z","state":"open","title":"tutorials/spf4j"}
+{"id":462298921,"created_at":"2019-06-29T12:39:33Z","updated_at":"2022-04-09T12:43:50Z","state":"open","title":"Adding empty Twig path causes an exception and cannot be deleted"}
+{"id":1089467402,"created_at":"2021-12-27T20:54:27Z","updated_at":"2021-12-28T23:18:34Z","state":"open","title":"Windows Messed Up"}

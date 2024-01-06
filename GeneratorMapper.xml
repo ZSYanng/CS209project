@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+    <!--无影响-->
+<generatorConfiguration>
+    <classPathEntry location="C:\Users\HP\IdeaProjects\CS209Project\postgresql-42.3.5.jar"/>
+    <!-- 配置当前逆向工程所使用的目标数据库 -->
+    <!-- targetRuntime:此属性用于指定生成的代码的运行时环境 -->
+    <context id="postgresql" targetRuntime="MyBatis3Simple">
+        <!-- 逆向工程配置开始 -->
+        <commentGenerator>
+            <property name="suppressAllComments" value="true"/>
+            <property name="suppressDate" value="true"/>
+        </commentGenerator>
+        <!-- 数据库连接信息：驱动类，驱动地址，用户名，密码 -->
+        <jdbcConnection driverClass="org.postgresql.Driver" connectionURL="jdbc:postgresql://localhost:5432/CS209Pro?useUnicode=true"
+                        userId="postgres" password="135780">
+        </jdbcConnection>
+
+        <javaTypeResolver>
+            <property name="forceBigDecimals" value="false"/>
+        </javaTypeResolver>
+        <!-- 配置逆向工程生成的位置 -->
+        <!-- javaModelGenerator:生成的实体类 -->
+        <javaModelGenerator targetPackage="com.example.cs209project.pojo" targetProject="./src/main/java">
+            <property name="enableSubPackages" value="false"/>
+            <!-- 从数据库返回的值清除前后的空格 -->
+            <property name="trimStrings" value="true"/>
+        </javaModelGenerator>
+        <!-- sqlMapGenerator:所有的mapper.xml文件 -->
+        <sqlMapGenerator targetPackage="mapConfig" targetProject="./src/main/resources">
+
+            <property name="enableSubPackages" value="false"/>
+        </sqlMapGenerator>
+
+        <javaClientGenerator targetPackage="com.example.cs209project.Mapper" type="XMLMAPPER"
+                             targetProject="./src/main/java">
+            <!-- enableSubPackages:是否让schema作为包的后缀 -->
+            <property name="enableSubPackages" value="false" />
+        </javaClientGenerator>
+        <!-- 建立数据库表名及对应的java模型类名 -->
+        <table tableName="time_compare" domainObjectName="year"
+                enableCountByExample="false"
+                enableUpdateByExample="false"
+                enableDeleteByExample="false"
+                enableSelectByExample="false"
+               selectByExampleQueryId="false"/>
+
+            <!-- 		 	<columnRenamingRule searchString="_" replaceString=""/> -->
+
+    </context>
+</generatorConfiguration>
